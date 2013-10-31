@@ -1,5 +1,68 @@
 \section{ZIH - HowTo}
 
-\textbf{Login}
+%TODO: lustige Bildchen/Cliparts (höhö) um alles aufzulockern?
 
-Das wichtigste am ZIH ist dein Login. Mit Benutzername (sXXXXXXX-Nummer) und dazugehörigem Passwort hast du Zugang zu nahezu jedem angebotenen Dienst. Du kannst dich damit von daheim ins Uninetz einwählen und dich in jExam für die Übungen einschreiben. Behandle daher deine Logindaten wie eine Bank-PIN - jeder, der Benutzername und Passwort kennt, ist in der Lage, sämtliche Dienste unter deinem Namen in Anspruch zu nehmen, d.h. dich aus Lehrveranstaltungen ein-/auszutragen, E-Mails unter deinem Namen zu verschicken oder unter deinem Namen im Internet zu surfen. Nachgewiesenermaßen gibt es jedes Jahr ein paar Leute, die allzu leichte Passwörter knacken und dann z.B. veröffentlichen. Wähle deshalb ein langes, schwieriges Passwort. Dein Passwort kannst du via Formular\footnote{} ändern.
+\textbf{Login} \\
+Das wichtigste am ZIH ist dein Login.
+Mit Benutzername (sXXXXXXX-Nummer) und dazugehörigem Passwort hast du Zugang zu nahezu jedem angebotenen Dienst.
+Du kannst dich damit von daheim ins Uninetz einwählen und dich in jExam für die Übungen einschreiben.
+Behandle daher deine Logindaten wie eine Bank-PIN - jeder, der Benutzername und Passwort kennt, ist in der Lage, sämtliche Dienste unter deinem Namen in Anspruch zu nehmen, d.h. dich aus Lehrveranstaltungen ein-/auszutragen, E-Mails unter deinem Namen zu verschicken oder unter deinem Namen im Internet zu surfen.
+Nachgewiesenermaßen gibt es jedes Jahr ein paar Leute, die allzu leichte Passwörter knacken und dann z.B. veröffentlichen.
+Wähle deshalb ein langes, schwieriges Passwort. Dein Passwort kannst du über das IDM\footnote{idm-service.tu-dresden.de} ändern.
+
+\textbf{E-Mail} \\
+Du bekommst vom ZIH zwei E-Mail Adressen:
+eine ist von der Form \textit{sXXXXXXX@mail.zih.tu-dresden.de}, die andere ist ein Alias für die erste Adresse und von der Form \textit{vorname.nachname@mailbox.tu-dresden.de}.
+Falls dein Name an TU Dresden bereits existiert, lautet die Alias-Adresse für Max Mustermann dann z.B. \textit{max.mustermann1@mailbox.tu-dresden.de} - es wird also eine fortlaufende Nummer an den Namen angehängt.
+Welche der beiden Adressen du verwendest ist Geschmackssache.
+Du kannst per Webmail\footnote{mail.zih.tu-dresden.de} auf dein Postfach zugreifen.
+Informationen, wie du deine Mails an eine dir bequemere E-Mail Adresse weiterleiten kannst, findest du hier\footnote{tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetz_dienste/e_mail/web_mail}.
+Ansonsten kannst du auch deinen E-Mail-Client (beispielsweise Thunderbird) so einstellen, dass er dir die Mails abholt.
+Dazu findest du hier\footnote{tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetz_dienste/e_mail/mail_config} mehr Informationen.
+E-Mails von der Uni werden an diese Adressen geschickt.
+So beispielsweise die Ankündigung der Prüfungseinschreibung oder die Erinnerung an die Rückmeldung für's kommende Semester.
+Außerdem werden bei einigen Mailinglisten zu Lehrveranstaltungen nur diese Adresse akzeptiert.
+
+\textbf{Webspace} \\
+Jeder Student hat 100 MB Speicherplatz auf den Servern des ZIH, den er frei nutzen kann.
+Darunter fallen auch die Benutzereinstellungen für Firefox, Thunderbird und das Webverzeichnis\footnote{tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetmanagement/zentraler_file_service}.
+Von den Uni-Rechnern aus kannst du über das Netzlaufwerk H: auf eine Ordner zugreifen.
+Im Allgemeinen kannst du jedoch von außen per SSH auf dein Nutzerverzeichnis zugreifen.
+
+\textbf{Login via SSH} \\
+Per SSH (Secure Shell) bekommst du die Möglichkeit, dich auf bestimmten Servern des ZIH sicher und verschlüsselt einzuloggen, um so auf der Kommandozeile z.B. auf deinen Slot zuzugreifen oder per X-Forwarding grafische Programme zu starten.
+Auch kannst du per SFTP Dateien hoch- oder runterladen.
+Im Gegensatz zu Linux Usern hat Windows keinen direkten Support für Programme wie ssh oder scp eingebaut, daher solltest Du dir in diesem Fall direkt PuTTY und WinSCP (als zwei sehr gut geeignete Beispiele) herunterladen und installieren.
+Die Loginserver des ZIH, auf denen Du dich per SSH/PuTTY/(Win)SCP einloggen kannst, findest du auf den Seiten des ZIH in der sonst auch sehr hilfreichen Serverübersicht\footnote{tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/beratung_und_unterstuetzung/login_nutzung/login_server}.
+Als Benutzername nutzt du wie auch sonst deinen ZIH-Login.
+In deinem Userhome findest findest du das Unterverzeichnis public_html.
+Alles, was hier liegt, ist über deinen Webspace verfügbar.
+Du musst hier allerdings, entweder per chmod, PuTTY oder WinSCP, für alle hochgeladenen Dateien die Leserechte und für alle Verzeichnisse die Lese- und Ausführrechte setzen.
+Zur Erstellung einer eigenen Webseite\footnote{tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/dienste/datennetz_dienste/www/erstellen_persoenlicher_webseiten} stehen dir auch PHP und Perl zur Verfügung.
+Ebenfalls kannst du eine MySQL-Datenbank nutzen\footnote{inf.tu-dresden.de/index.php?node_id=2021}.
+Über einen SSH-Tunnel ist es unter Windows sogar möglich, deinen Slot als Netzlaufwerk einzurichten.
+Mehr Informationen dazu hier\footnote{b-l-w.de/sambassh.php}.
+Den zuständigen Samba-Server findest du in der ZIH-Serverübersicht und der Name der Freigabe ist deine s-Nummer.
+
+\textbf{Drucken} \\
+Zum Drucken im FRZ, wie auch im ZIH, benötigst du zunächst einmal eine aufgeladene Ricoh-Karte mit der entsprechenden Nummer (bekommt man in der StuRa-Baracke).
+Druckst du ein Dokument mit einem FRZ- oder ZIH-PC auf den Ricoh Drucker/Kopierer, musst du diese Nummer eintippen.
+Nun kannst du zu einem beliebigen Drucker gehen, die Karte einstecken und den Druckauftrag abrufen.
+Mehr Informationen findest du hier\footnote{inf.tu-dresden.de/index.php?node_id=2014}.
+Auf den Ricoh Druckern kannst du nur A4 schwarz/weiß drucken.
+Bunte Druckaufträge, sowie Ausdrucke auf Folie, solltest du an die entsprechenden anderen Drucker im Druckerauswahldialog senden.
+Du kannst sie ca. einen Tag später beim Operator abholen.
+
+\textbf{Installierte Software} \\
+Nicht auf allen Rechnern des FRZ ist dasselbe Betriebssystem installiert.
+Möchte man sich den Weg zum falschen Rechenzentrum ersparen, kann man sich vorher hier\footnote{inf.tu-dresden.de/index.php?node_id=2033} informieren.
+Standardsoftware wie Firefox, Thunderbird, PuTTY, WinSCP, LibreOffice u.v.m. sind auf jedem Rechner zu finden.
+
+\textbf{Ins Uninetz einloggen} \\
+Auf manche Informationen und Dienste des Uni-Webs kann nur zugegriffen werden, wenn du direkt im Uninetz sitzt.
+Es gibt trotzdem ein paar Tricks, wie du dich von einem beliebigen Ort aus ins Uninetz einloggen kannst:
+Per SSH kannst du "einen Tunnel bauen" und so auf diese Webseiten zugfreifen (lies dazu bitte die Manpage von SSH oder die PuTTY Dokumentation über Tunnel).
+Solltest du ein Modem benutzen, kannst du dich per DFÜ\footnote{} einwählen, das FRZ agiert dann quasi als dein Provider (es fallen die Gebühren von Telefongesprächen nach/in Dresden an).
+Als einfachste Methode steht eine VPN-Verbindung\footnote{} zur Verfügung.
+
+\textbf{WLAN} \\
