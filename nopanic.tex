@@ -4,9 +4,11 @@
 \usepackage[utf8]{inputenc}
 \usepackage[parfill]{parskip}
 \usepackage{hyperref}
+\usepackage{graphicx}
 \usepackage{newclude}
 \usepackage{fancyhdr}
-\usepackage{xcolor}
+%\usepackage{xcolor}
+\usepackage{eso-pic}
 %\usepackage[margin=0.5in]{geometry}
 
 %"Kapitel" ist etwas doof, aber so ist da ein newline :/
@@ -22,25 +24,40 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-%Um was geht's hier eigentlich?
-\title{NO PANIC}
-\date{2014}
+%Das Coverbild, oh gott o.O Aber es funktioniert
+\usepackage{eso-pic}
+\newcommand\CoverPic{%
+\put(0,0){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,%
+keepaspectratio]{cover_old.png}%
+\vfill
+}}}
+
+%Das Rückbild, den Text können wir aber nach wie vor hier direkt reinschreiben, erzeugen wir einfach ne leere farbige Rückseite.
+\usepackage{eso-pic}
+\newcommand\BackcoverPic{%
+\put(0,0){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,%
+keepaspectratio]{backcover_old.png}%
+\vfill
+}}}
 
 \begin{document}
 % ----------
 % Coverseite
 % ----------
-\pagecolor{black}
-\color{white}
-\maketitle
-%\begin{center}
-%\textbf{\huge{NO PANIC}}\\
-%\large{2014}
-%\end{center}
-%\cleardoublepage %wofür ist das hier nötig?!
-\color{black}
-\pagecolor{white}
+\thispagestyle{empty} %keine Seitenzahl
+\AddToShipoutPicture*{\CoverPic}
+\mbox{} %brauche leeren Content für ne newpage
+\newpage
 % ----------
+
 \tableofcontents
 
 %\newpage
@@ -77,7 +94,7 @@ Tutor1, Tutor2, Tutor3, ...
 % Backcover
 % ----------
 \newpage
-\pagecolor{black}
+\thispagestyle{empty} %keine Seitenzahl
 \color{white}
 \textbf{Herausgeber} \\
 Fachschaftsrat Informatik der TU Dresden
@@ -92,6 +109,8 @@ Niklas,
 Sebastian
 
 Mitarbeit an der nächsten Version unter \url{github.com/fsr/nopanic} ist immer willkommen!
+
+\AddToShipoutPicture*{\BackcoverPic} %Hier ist noch ne weiße Kante, wieso?
 \end{document}
 
 
