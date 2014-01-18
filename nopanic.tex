@@ -1,5 +1,5 @@
-\documentclass[a5paper,12pt,oneside]{scrbook} %oneside löst das leere-seiten-problem
-%\documentclass[12pt, twocolumn]{article}
+\documentclass[a4paper,14pt,oneside]{scrbook} %oneside löst das leere-seiten-problem
+%man könnte hier möglicherweise noch 'twocolumn' nutzen
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[parfill]{parskip}
@@ -67,6 +67,7 @@ keepaspectratio]{backcover_old.png}%
 %TODO: Tutorennamen hier einfügen
 Tutor1, Tutor2, Tutor3, ...
 
+%TODO: Neue Chaps müssen keine newpage erzeugen, das war mal über newclude gelöst, läuft aber nicht mehr mit scrbook
 \include*{Vorwort}
 \include*{Grusswort}
 \include*{Studienbetrieb}
