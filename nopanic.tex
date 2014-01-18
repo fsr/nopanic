@@ -7,6 +7,7 @@
 \usepackage{hyperref}
 \usepackage{newclude}
 \usepackage{fancyhdr}
+\usepackage{xcolor}
 %\usepackage[margin=0.5in]{geometry}
 
 %"Kapitel" ist etwas doof, aber so ist da ein newline :/
@@ -27,7 +28,13 @@
 % ----------
 % Coverseite
 % ----------
+\pagecolor{green}
+\color{white}
 \maketitle
+\color{black}
+\pagecolor{white}
+% ----------
+
 \tableofcontents
 
 %\newpage
@@ -64,6 +71,7 @@ Tutor1, Tutor2, Tutor3, ...
 % Backcover
 % ----------
 \newpage
+\pagecolor{green}
 \textbf{Herausgeber} \\
 Fachschaftsrat Informatik der TU Dresden
 Nöthnitzer Straße 46, 01062 Dresden
