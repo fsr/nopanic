@@ -9,7 +9,6 @@
 \usepackage{fancyhdr}
 %\usepackage{xcolor}
 \usepackage{eso-pic}
-%\usepackage[margin=0.5in]{geometry}
 
 %"Kapitel" ist etwas doof, aber so ist da ein newline :/
 \addto{\captionsngerman}{\def\chaptername{}} 
@@ -25,7 +24,6 @@
 \renewcommand{\footrulewidth}{0pt}
 
 %Das Coverbild, oh gott o.O Aber es funktioniert
-\usepackage{eso-pic}
 \newcommand\CoverPic{%
 \put(0,0){%
 \parbox[b][\paperheight]{\paperwidth}{%
@@ -37,7 +35,6 @@ keepaspectratio]{cover_old.png}%
 }}}
 
 %Das Rückbild, den Text können wir aber nach wie vor hier direkt reinschreiben, erzeugen wir einfach ne leere farbige Rückseite.
-\usepackage{eso-pic}
 \newcommand\BackcoverPic{%
 \put(0,0){%
 \parbox[b][\paperheight]{\paperwidth}{%
@@ -61,7 +58,7 @@ keepaspectratio]{backcover_old.png}%
 \tableofcontents
 
 %\newpage
-\vspace{1cm} %provisorisch
+\newpage
 \textbf{Danke an ...}
 
 %TODO: Tutorennamen hier einfügen
@@ -117,4 +114,5 @@ Mitarbeit an der nächsten Version unter \url{github.com/fsr/nopanic} ist immer 
 
 % Allgemeine TODOs
 % ----
-
+%TODO: Alle Links einfügen/übernehmen und überprüfen
+%TODO: Am Schluss nach unnötigen Seitenumbrüchen und überstehenden Zeilen schauen
