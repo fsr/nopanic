@@ -2,7 +2,7 @@
 
 ![image](http://i.imgur.com/xLUylQA.png)
 
-Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) dieses Jahr erstmalig in TeX Form auf Basis der alten Vorlage.
+Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) dieses Jahr erstmalig in LaTeX Form auf Basis der alten Vorlage.
 
 Vorläufiger Table of Contents:
 
