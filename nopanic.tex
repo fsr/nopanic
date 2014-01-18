@@ -1,29 +1,38 @@
-\documentclass[12pt]{article}
+\documentclass[12pt]{book}
 %\documentclass[12pt, twocolumn]{article}
-%\usepackage[a5paper]{geometry}   %zweispaltig und a5, aber format folgt später
+\usepackage[a5paper]{geometry}   %zweispaltig und a5, aber format folgt später
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[parfill]{parskip}
 \usepackage{hyperref}
 \usepackage{newclude}
+\usepackage{fancyhdr}
 %\usepackage[margin=0.5in]{geometry}
+
+%"Kapitel" ist etwas doof, aber so ist da ein newline :/
+\addto{\captionsngerman}{\def\chaptername{}} 
+
+%Seitenzahlen unten sind cooler, außerdem sind die Header nutzlos
+\pagestyle{fancy}
+\lhead{}
+\rhead{}
+\cfoot{\thepage}
+
+%Um was geht's hier eigentlich?
+\title{NO PANIC}
+\date{2014}
 
 \begin{document}
 
 % ----------
 % Coverseite
 % ----------
-NO PANIC \\
-2014
-\newpage
-% ----------
-
-
+\maketitle
 \tableofcontents
 
-
-% vielleicht auch nicht direkt als section...
-\section{Danke an ...}
+%\newpage
+\vspace{1cm} %provisorisch
+\textbf{Danke an ...}
 
 %TODO: Tutorennamen hier einfügen
 Tutor1, Tutor2, Tutor3, ...
@@ -45,7 +54,7 @@ Tutor1, Tutor2, Tutor3, ...
 \include*{Lesezeichen}
 
 
-\section{Campusplan}
+\chapter{Campusplan}
 %TODO: Lageplan hier einfügen
 
 %TODO: Werbung (von Citrix?) hier einfügen
