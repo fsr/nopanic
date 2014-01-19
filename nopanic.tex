@@ -1,5 +1,5 @@
 \documentclass[a4paper,14pt,oneside]{scrbook} %oneside löst das leere-seiten-problem
-\usepackage[margin=0.3in]{geometry}
+\usepackage[margin=0.3in]{geometry} %TODO: killt Seitenzahlen, unten muss Platz bleiben
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[parfill]{parskip}
@@ -9,18 +9,13 @@
 \usepackage{caption}
 \usepackage{hyperref}
 
-%"Kapitel" ist etwas doof, aber so ist da ein newline :/
-\addto{\captionsngerman}{\def\chaptername{}} 
-
 %Seitenzahlen unten sind cooler, außerdem sind die Header nutzlos
 \pagestyle{fancy}
 \lhead{}
-\rhead{}
 \cfoot{\thepage}
 
-%Headerline in *book* entfernen
+%Headerline in *(scr)book* entfernen
 \renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
 
 %Das Coverbild, oh gott o.O Aber es funktioniert
 \newcommand\CoverPic{%
@@ -45,25 +40,9 @@ keepaspectratio]{img/backcover_old.png}%
 }}}
 
 \begin{document}
-% ----------
-% Coverseite
-% ----------
-\thispagestyle{empty} %keine Seitenzahl
-\AddToShipoutPicture*{\CoverPic}
-\mbox{} %brauche leeren Content für ne newpage
-\newpage
-% ----------
 
+\include{cover/front}
 \tableofcontents
-
-%\newpage
-\newpage
-\textbf{Danke an ...}
-
-%TODO: Tutorennamen hier einfügen
-Tutor1, Tutor2, Tutor3, ...
-
-%TODO: Neue Chaps müssen keine newpage erzeugen, das war mal über newclude gelöst, läuft aber nicht mehr mit scrbook
 \include{texte/vorwort}
 \include{texte/grusswort}
 \include{texte/studienbetrieb}
@@ -79,35 +58,10 @@ Tutor1, Tutor2, Tutor3, ...
 \include{texte/zih}
 \include{texte/glossar}
 \include{texte/lesezeichen}
+\include{texte/campusplan}
+\include{texte/werbung}
+\include{cover/back}
 
-
-\addchap{Campusplan}
-%TODO: Lageplan hier einfügen
-
-%TODO: Werbung hier einfügen
-
-
-% ----------
-% Backcover
-% ----------
-\newpage
-\thispagestyle{empty} %keine Seitenzahl
-\color{white}
-\textbf{Herausgeber} \\
-Fachschaftsrat Informatik der TU Dresden
-Nöthnitzer Straße 46, 01062 Dresden
-
-\textbf{Redaktion} \\
-% alphabetisch sortiert
-Julius,
-Kilian,
-Manuel,
-Niklas,
-Sebastian
-
-Mitarbeit an der nächsten Version unter \url{github.com/fsr/nopanic} ist mit \LaTeX \ immer willkommen!
-
-\AddToShipoutPicture*{\BackcoverPic} %Hier ist noch ne weiße Kante, wieso?
 \end{document}
 
 
