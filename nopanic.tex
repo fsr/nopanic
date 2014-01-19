@@ -4,7 +4,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage[parfill]{parskip}
 \usepackage{graphicx}
-\usepackage{newclude}
 \usepackage{fancyhdr}
 \usepackage{eso-pic}
 \usepackage{caption}
@@ -30,7 +29,7 @@
 \vfill
 \centering
 \includegraphics[width=\paperwidth,height=\paperheight,%
-keepaspectratio]{cover_old.png}%
+keepaspectratio]{img/cover_old.png}%
 \vfill
 }}}
 
@@ -41,7 +40,7 @@ keepaspectratio]{cover_old.png}%
 \vfill
 \centering
 \includegraphics[width=\paperwidth,height=\paperheight,%
-keepaspectratio]{backcover_old.png}%
+keepaspectratio]{img/backcover_old.png}%
 \vfill
 }}}
 
@@ -65,21 +64,21 @@ keepaspectratio]{backcover_old.png}%
 Tutor1, Tutor2, Tutor3, ...
 
 %TODO: Neue Chaps müssen keine newpage erzeugen, das war mal über newclude gelöst, läuft aber nicht mehr mit scrbook
-\include*{Vorwort}
-\include*{Grusswort}
-\include*{Studienbetrieb}
-\include*{Checkliste}
-\include*{Moduluebersicht}
-\include*{F1Help}
-\include*{Dozenten}
-\include*{auditorium}
-\include*{FFFI}
-\include*{FSR}
-\include*{CD}
-\include*{ASCII}
-\include*{ZIH}
-\include*{Glossar}
-\include*{Lesezeichen}
+\include{texte/vorwort}
+\include{texte/grusswort}
+\include{texte/studienbetrieb}
+\include{texte/checkliste}
+\include{texte/moduluebersicht}
+\include{texte/f1help}
+\include{texte/dozenten}
+\include{texte/auditorium}
+\include{texte/fffi}
+\include{texte/fsr}
+\include{texte/cd}
+\include{texte/ascii}
+\include{texte/zih}
+\include{texte/glossar}
+\include{texte/lesezeichen}
 
 
 \addchap{Campusplan}
