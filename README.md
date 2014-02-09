@@ -6,23 +6,9 @@
 
 Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) dieses Jahr erstmalig in LaTeX Form auf Basis der alten Vorlage.
 
-Vorläufiger Table of Contents:
+Für Fehler, Verbesserungsvorschläge und Fragen bitte die [Issues](https://github.com/fsr/nopanic/issues) Seite besuchen.
 
-* Vorwort
-* Grußwort des Dekans
-* Studienbetrieb
-* Erstsemester-Checkliste
-* Modulübersicht
-* Press F1 for help
-* Eure Dozenten
-* auditorium
-* FFFI
-* Der Fachschaftsrat
-* Der Studentenclub Count Down
-* ASCII - Das Café in der Fakultät
-* ZIH - HowTo
-* Glossar
-* Lesezeichen
-* Campusplan
+(Halbwegs) Aktuelle Working Copy: [PDF](https://github.com/fsr/nopanic/raw/master/nopanic.pdf)
 
-Das kann sich natürlich alles ändern, aber diese Informationen sollten auf jeden Fall enthalten sein.
+Version vom Vorjahr: [PDF](https://dl.dropboxusercontent.com/u/1936801/NoPanic2013.pdf) (20 MB)
+
