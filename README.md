@@ -2,7 +2,7 @@
 
 ![image](http://i.imgur.com/xLUylQA.png)
 
-[![Gitter chat](https://badges.gitter.im/fsr/nopanic.png)](https://gitter.im/fsr/nopanic)
+[![Gitter chat](http://img.shields.io/badge/gitter-fsr/nopanic-brightgreen.svg)](https://gitter.im/fsr/nopanic)
 
 Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) dieses Jahr erstmalig in LaTeX Form auf Basis der alten Vorlage.
 
