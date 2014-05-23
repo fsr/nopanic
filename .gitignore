@@ -1,3 +1,7 @@
 /.texpadtmp/
 Spieleabend.psd
 nopanic.pdf
+*.aux
+*.log
+*.out
+*.toc

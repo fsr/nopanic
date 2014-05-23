@@ -1,7 +1,7 @@
-\documentclass[a4paper,14pt,oneside,draft]{scrbook} %oneside löst das leere-seiten-problem
-\usepackage[margin=0.3in]{geometry} %TODO: killt Seitenzahlen, unten muss Platz bleiben
-\usepackage[ngerman]{babel}
-\usepackage[utf8]{inputenc}
+\documentclass[a4paper,14pt,twoside
+%,draft
+]{scrreprt}
+
 \usepackage[parfill]{parskip}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
@@ -10,13 +10,25 @@
 \usepackage{hyperref}
 \usepackage{wrapfig}
 
-%Seitenzahlen unten sind cooler, außerdem sind die Header nutzlos
-\pagestyle{fancy}
-\lhead{}
-\cfoot{\thepage}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{german}
+\newcommand{\glqq}{„}
+\newcommand{\grqq}{“}
 
-%Headerline in *(scr)book* entfernen
-\renewcommand{\headrulewidth}{0pt}
+\definecolor{ifsrgreen}{rgb}{0.69, 0.88, 0.11} % 177, 225, 28
+\definecolor{ifsrgray}{rgb}{0.6, 0.6, 0.6} % 153, 153, 153
+
+\setmainfont{PT Sans}
+\setkomafont{chapter}{\color{ifsrgreen}\fontspec[BoldFont={* Bold}]{Exo}\huge}
+\setkomafont{chapterentry}{\normalfont\bfseries}
+\setkomafont{minisec}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Exo}\large}
+\setkomafont{paragraph}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Exo}}
+\setkomafont{pagenumber}{\color{ifsrgray}\fontspec{Roboto}}
+
+\sloppy % forces "ugly" line breaks
+
+\pagestyle{plain}
 
 %Das Coverbild, oh gott o.O Aber es funktioniert
 \newcommand\CoverPic{%
@@ -25,7 +37,7 @@
 \vfill
 \centering
 \includegraphics[width=\paperwidth,height=\paperheight,%
-keepaspectratio]{img/cover_old.png}%
+keepaspectratio]{img/cover_2014}%
 \vfill
 }}}
 
