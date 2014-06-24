@@ -8,5 +8,5 @@ Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*
 
 Für Fehler, Verbesserungsvorschläge und Fragen bitte die [Issues](https://github.com/fsr/nopanic/issues) Seite besuchen.
 
-Version vom Vorjahr: [PDF](https://dl.dropboxusercontent.com/u/1936801/NoPanic2013.pdf) (20 MB)
+Version vom Vorjahr: [PDF](http://ese.ifsr.de/2013/NoPanic2013.pdf) (20 MB)
 
