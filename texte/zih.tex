@@ -1,67 +1,22 @@
-\addchap{ZIH - How To}
+\addchap{ZIH}
 
 %TODO: lustige Bildchen/Cliparts (höhö) um alles aufzulockern?
 
-\minisec{Login}
-Das Wichtigste am ZIH ist dein Login.
-Mit Benutzername (s-Nummer) und dazugehörigem Passwort hast du Zugang zu nahezu jedem angebotenen Dienst.
-Du kannst dich damit von daheim ins Uninetz einwählen und dich in jExam für Übungen einschreiben.
-Behandle daher deine Logindaten wie eine Bank-PIN.
-Jeder, der Benutzername und Passwort kennt, ist in der Lage, sämtliche Dienste unter deinem Namen in Anspruch zu nehmen, d.h. dich aus Lehrveranstaltungen ein-/auszutragen, E-Mails unter deinem Namen zu verschicken oder unter deinem Namen im Internet zu surfen.
-Nachgewiesenermaßen gibt es jedes Jahr ein paar Leute, die allzu leichte Passwörter knacken und dann z.B. veröffentlichen.
-Wähle deshalb ein langes, schwieriges Passwort.
+Das \textit{Zentrum für Informationsdienste und Hochleistungsrechnen} ist eine zentrale Einrichtung nicht nur unserer Fakultät, sondern der gesamten TU Dresden und ist für die gesamte Serverinfrastruktur und diverse technische Dienste verantwortlich. Vom ZIH werden dir ein paar sehr hilfreiche und relevante Dienste bereitgestellt, u.a. gehören dazu dein Login, dein E-Mail Account und das WiFi auf dem Campus.
+
+Detailreiche Informationen zu den Services und deren Nutzung findest du auf dem ZIH Flyer, den du mit deinem Immatrikulationsbogen erhalten hast und auf der Seite des ZIH.
+%\url{tu-dresden.de/zih/ese}. Wie genau machen wir das jetzt eigentlich mit den Links? Fortlaufende Nummern, die dann auf einer Linkseite hinten und/oder per Shortlink über unsere Seite irgendwie zugänglich sind? Beides zusammen wäre sicher nicht falsch.
 
 \minisec{E-Mail}
 Du bekommst vom ZIH zwei E-Mail Adressen:
 \textit{s1234567@mail.zih.tu-dresden.de} und einen Alias von der Form \textit{vorname.nachname@mailbox.tu-dresden.de}.
 Falls dein Name an der TU Dresden bereits existiert, lautet die Alias-Adresse für Max Mustermann dann z.B. \textit{max.mustermann1@mailbox...}.
-Welche der beiden Adressen du verwendest ist Geschmackssache.
-Per Webmail kannst du auf dein Postfach zugreifen.
-Empfehlenswert ist es auch, deine Mails an eine persönliche Adresse weiterzuleiten, damit du nichts verpasst.
-Ansonsten lassen sich die Mails natürlich auch über IMAP direkt abrufen.
-Vor allem E-Mails von der Uni werden an diese Adressen geschickt.
-So beispielsweise die Ankündigung der Prüfungseinschreibung oder die Erinnerung an die Rückmeldung für's kommende Semester.
-Außerdem werden bei einigen Mailinglisten zu Lehrveranstaltungen nur Adressen von der Domain der TU akzeptiert.
-
-\minisec{Webspace}
-Jeder Student hat 100MB Speicherplatz auf den Servern des ZIH, den er frei nutzen kann.
-Darunter fallen auch die Benutzereinstellungen für Firefox, Thunderbird und das öffentliche Webverzeichnis.
-Von den Uni-Rechnern aus kannst du über das Netzlaufwerk H: auf deine Ordner zugreifen.
-Im Allgemeinen kommst du jedoch von außen bequem per SSH auf dein Nutzerverzeichnis.
-
-\minisec{Login via SSH}
-Per SSH (Secure Shell) bekommst du die Möglichkeit, dich auf bestimmten Servern des ZIH sicher und verschlüsselt einzuloggen, um so auf der Kommandozeile z.B. auf deinen Slot zuzugreifen oder per X-Forwarding grafische Programme zu starten.
-Auch kannst du per SFTP Dateien hoch- oder runterladen.
-Im Gegensatz zu OSX und Linux hat Windows keinen direkten Support für Programme wie ssh oder scp eingebaut, daher solltest du dir in diesem Fall direkt PuTTY und WinSCP herunterladen und installieren.
-Die Loginserver des ZIH, auf denen du dich per SSH/PuTTY/(Win)SCP einloggen kannst, findest du auf den Seiten des ZIH in der sonst auch sehr hilfreichen Serverübersicht.
-Als Benutzername nutzt du wie auch sonst deinen ZIH-Login.
-In deinem Userhome findest findest du das Unterverzeichnis public\_html.
-Alles, was hier liegt, ist über deinen Webspace verfügbar.
-Du musst hier allerdings, entweder per chmod, PuTTY oder WinSCP, für alle hochgeladenen Dateien die Leserechte und für alle Verzeichnisse die Lese- und Ausführrechte setzen.
-Zur Erstellung einer eigenen Webseit stehen dir auch PHP und Perl zur Verfügung.
-Über einen SSH-Tunnel ist es unter Windows sogar möglich, deinen Slot als Netzlaufwerk einzurichten.
-Den zuständigen Samba-Server findest du in der ZIH-Serverübersicht und der Name der Freigabe ist deine s-Nummer.
-
-\minisec{Drucken}
-Zum Drucken im FRZ, wie auch im ZIH, benötigst du zunächst einmal eine aufgeladene Ricoh-Karte mit der entsprechenden Nummer (bekommt man in der StuRa-Baracke).
-Druckst du ein Dokument mit einem FRZ- oder ZIH-PC auf den Ricoh Drucker/Kopierer, musst du diese Nummer eintippen.
-Nun kannst du zu einem beliebigen Drucker gehen, die Karte einstecken und den Druckauftrag abrufen.
-Da die Ricoh Geräte nur einfarbige A4 Drucke verarbeiten können, solltest du bunte Druckaufträge, sowie Ausdrucke auf Folie, an die entsprechenden anderen Drucker im Druckerauswahldialog senden.
-Diese kannst du ca. einen Tag später beim Operator abholen.
-
-\minisec{Installierte Software}
-Nicht auf allen Rechnern des FRZ ist dasselbe Betriebssystem installiert.
-Möchte man sich den Weg zum falschen Rechenzentrum ersparen, kann man sich vorher auf der Seite des ZIH informieren.
-Standardsoftware wie Firefox, Thunderbird, PuTTY, WinSCP, LibreOffice u.v.m. sind auf jedem Rechner zu finden.
-
-\minisec{Ins Uninetz einloggen}
-Auf manche Informationen und Dienste des Uni-Webs kann nur zugegriffen werden, wenn du direkt im Uninetz sitzt.
-Es gibt trotzdem ein paar Tricks, wie du dich von einem beliebigen Ort aus ins Uninetz einloggen kannst:
-Per SSH kannst du \glqq einen Tunnel bauen\grqq \ und so auf diese Webseiten zugreifen (lies dazu bitte die Manpage von SSH oder die PuTTY Dokumentation über Tunnel).
-Ebenso steht eine VPN-Verbindung zur Verfügung.
+Per Webmail oder IMAP kannst du auf dein Postfach zugreifen.
+Alternativ kannst du deine Mails an eine persönliche Adresse weiterleiten, damit du nichts verpasst.
+Vor allem wichtige E-Mails von der Uni werden an diese Adressen geschickt.
 
 \minisec{WLAN}
-Sowohl auf dem Campus wie auch in den Räumlichkeiten der Fakultät kannst du mit deinem Notebook/Smartphone ins Internet.
+Sowohl auf dem Campus wie auch in den Räumlichkeiten der Fakultät kannst du mit deinen Geräten ins Internet.
 WLAN wird sowohl verschlüsselt wie auch unverschlüsselt angeboten.
-Für's erste gibt es das \textit{VPN/Web}, verbindest du dich mit diesem wirst du nach dem Aufruf einer beliebigen Webseite auf eine Login-Seite der TU weitergeleitet, auf der du deinen ZIH-Login eingibst.
+Für's erste gibt es das \textit{VPN/Web}, verbindest du dich mit diesem wirst du nach dem Aufruf einer beliebigen Webseite auf eine Login-Seite der TU weitergeleitet, auf der du dich mit \textit{sXXXXXXX@tu-dresden.de} und deinem Passwort anmeldest.
 Du solltest jedoch schnellstmöglich auf das verschlüsselte (WPA-TKIP) \textit{eduroam} wechseln, unter anderem, weil dir dieser Zugang auch an sehr vielen anderen Unis weltweit kostenloses Internet mit deinem TU Dresden Login verschafft.
