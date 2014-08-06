@@ -11,6 +11,8 @@
 \usepackage{wrapfig}
 \usepackage{menukeys}
 
+%\usepackage{showframe}
+
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setmainlanguage{german}
@@ -37,6 +39,8 @@
 
 \pagestyle{plain}
 
+\begin{document}
+
 %Das Coverbild, oh gott o.O Aber es funktioniert
 \newcommand\CoverPic{%
 \put(0,0){%
@@ -44,24 +48,14 @@
 \vfill
 \centering
 \includegraphics[width=\paperwidth,height=\paperheight,%
-keepaspectratio]{img/cover_2014}%
+keepaspectratio]{cover/Vorne}%
 \vfill
 }}}
+\thispagestyle{empty} %keine Seitenzahl
+\AddToShipoutPicture*{\CoverPic}
+\mbox{} %brauche leeren Content für ne newpage
+%\newpage
 
-%Das Rückbild, den Text können wir aber nach wie vor hier direkt reinschreiben, erzeugen wir einfach ne leere farbige Rückseite.
-\newcommand\BackcoverPic{%
-\put(0,0){%
-\parbox[b][\paperheight]{\paperwidth}{%
-\vfill
-\centering
-\includegraphics[width=\paperwidth,height=\paperheight,%
-keepaspectratio]{img/backcover_old.png}%
-\vfill
-}}}
-
-\begin{document}
-
-\include{cover/front}
 \tableofcontents
 \include{texte/vorwort}
 \include{texte/grusswort}
