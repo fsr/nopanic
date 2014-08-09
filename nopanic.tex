@@ -20,9 +20,11 @@
 \newcommand{\grqq}{“}
 
 \newcounter{linkcounter}
-\newcommand{\link}{
+\def\linklist{}
+\newcommand{\link}[1]{
     {\fontsize{13pt}{0}\selectfont\keys{\arabic{linkcounter}}}
     \stepcounter{linkcounter}
+    \edef\linklist{\linklist{} #1}
 }
 
 \definecolor{ifsrgreen}{rgb}{0.69, 0.88, 0.11} % 177, 225, 28
