@@ -10,6 +10,7 @@
 \usepackage{hyperref}
 \usepackage{wrapfig}
 \usepackage{menukeys}
+\usepackage{url}
 
 %\usepackage{showframe}
 
@@ -22,10 +23,11 @@
 \newcounter{linkcounter}
 \newcommand\linklist{}
 \makeatletter
-\newcommand{\link}[1]{
-    {\fontsize{13pt}{0}\selectfont\keys{\arabic{linkcounter}}}
-    \stepcounter{linkcounter}
-    \g@addto@macro\linklist{ #1}
+\newcommand{\link}[1]{%
+    \protected@edef\@tmpkey{{\fontsize{13pt}{0}\selectfont\keys{\arabic{linkcounter}}}}%
+    \href{#1}{\@tmpkey}%
+    \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}\\}%
+    \stepcounter{linkcounter}%
 }
 \makeatother
 
