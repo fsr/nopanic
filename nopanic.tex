@@ -20,12 +20,14 @@
 \newcommand{\grqq}{“}
 
 \newcounter{linkcounter}
-\def\linklist{}
+\newcommand\linklist{}
+\makeatletter
 \newcommand{\link}[1]{
     {\fontsize{13pt}{0}\selectfont\keys{\arabic{linkcounter}}}
     \stepcounter{linkcounter}
-    \edef\linklist{\linklist{} #1}
+    \g@addto@macro\linklist{ #1}
 }
+\makeatother
 
 \definecolor{ifsrgreen}{rgb}{0.69, 0.88, 0.11} % 177, 225, 28
 \definecolor{ifsrgray}{rgb}{0.6, 0.6, 0.6} % 153, 153, 153
