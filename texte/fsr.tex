@@ -48,28 +48,45 @@ Sitzung: immer montags 18:30 Uhr \\
 E-Mail: fsr@ifsr.de \\
 Web: www.ifsr.de
 
-\minisec{Dein FSR}
+\minisec{Auf den folgenden zwei Seiten findest du die Mitglieder deines FSRs:}
+\newpage
 
-\includegraphics[width=.2\linewidth]{img/fsr/200_jakob_kruse.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_robin_trauer.jpg} % Robin "Selbstzweck" Trauer
-\includegraphics[width=.2\linewidth]{img/fsr/200_kilian_koeltzsch.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_philipp_heisig.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_simon_hanisch.jpg} % Simon "lebt von Kinderriegeln" Hanisch
-\includegraphics[width=.2\linewidth]{img/fsr/200_tim_hackel.jpg} % Tim "studybloxx" Hackel
-\includegraphics[width=.2\linewidth]{img/fsr/200_duc_nguyen_tien.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_sebastian_mielke.png}
-\includegraphics[width=.2\linewidth]{img/fsr/200_rico_skultety.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_niklas_fallik.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_ben_kosmann.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_katja_linnemann.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_marc_satkowski.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_anita_gruetzner.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_justus_adam.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_manuel_thieme.jpg}
-\includegraphics[width=.2\linewidth]{img/fsr/200_sascha_peukert.jpg}
+\newcommand{\fsrler}[5]{% filename, vorname, nachname, username, studiengang
+\fbox{\begin{minipage}{.25\linewidth}
+    \centering\vspace{.8em}
+    \includegraphics[width=.8\linewidth]{img/fsr/200_#1}\\[.6em]
+    {\Large #2}\\[.2em]
+    {\large#3}\\[.5em]
+    \textit{\small #5}\\
+    \texttt{\small #4@ifsr.de}\\[-.1em]\ 
+\end{minipage}}\hspace{3.5em}%
+}
 
-%TODO: Namen und clevere Sprüche zu jedem.
-%Wahlweise auch "bekannte" Zitate, weißtebescheid, hier gibt's aber auf jeden Fall doch noch Mitspracherecht des jeweiligen Mitglieds ;)
+\fsrler{jakob_kruse.jpg}{Jakob}{Kruse}{jakob}{Master INF 3. Sem.}
+\fsrler{robin_trauer.jpg}{Robin}{Trauer}{robin}{Diplom INF 6. Sem.}
+\fsrler{kilian_koeltzsch.jpg}{Kilian}{Költzsch}{koeltzsch}{Bachelor MINF 5. Sem.}\\[1em]
+
+\fsrler{philipp_heisig.jpg}{Philipp}{Heisig}{heisig}{Bachelor MINF 5. Sem.}
+\fsrler{simon_hanisch.jpg}{Simon}{Hanisch}{simon}{Bachelor INF 4. Sem.}
+\fsrler{tim_hackel.jpg}{Tim}{Hackel}{tim}{Diplom INF 7. Sem.}\\[1em]
+
+\fsrler{duc_nguyen_tien.jpg}{Duc Nguyen}{Tien}{duc}{Master INF 2. Sem.}
+\fsrler{sebastian_mielke.png}{Sebastian}{Mielke}{mielke}{Bachelor INF 5. Sem.}
+\fsrler{rico_skultety.jpg}{Rico}{Skultety}{rico}{Bachelor MINF 5. Sem.}
+
+\newpage
+
+\fsrler{niklas_fallik.jpg}{Niklas}{Fallik}{niklas}{Bachelor MINF 3. Sem.}
+\fsrler{ben_kosmann.jpg}{Ben}{Kosmann}{kosmann}{Bachelor INF 5. Sem.}
+\fsrler{katja_linnemann.jpg}{Katja}{Linnemann}{linnemann}{Diplom INF 3. Sem.}\\[1em]
+
+\fsrler{marc_satkowski.jpg}{Marc}{Satkowski}{satkowski}{Diplom INF 5. Sem.}
+\fsrler{anita_gruetzner.jpg}{Anita}{Grützner}{anita}{Diplom INF 5. Sem.}
+\fsrler{justus_adam.jpg}{Justus}{Adam}{justus}{Bachelor INF 3. Sem.}\\[1em]
+
+\fsrler{manuel_thieme.jpg}{Manuel}{Thieme}{manuel}{Diplom INF 3. Sem.}
+\fsrler{sascha_peukert.jpg}{Sascha}{Peukert}{sascha}{Diplom INF 5. Sem.}
+\fsrler{person.png}{?}{Vielleicht du?}{dein\_name}{dein Semester}
 
 
 \newpage
