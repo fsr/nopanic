@@ -1,0 +1,655 @@
+/*
+Theme Name:ESE 2014 Template
+Theme URI:http://ese.ifsr.de/2014
+Description:Theme der ESE 2014 Webseite. Erstellt auf Grundlage des 2012er Themes
+Version:1.0
+Author: Philipp Heisig
+Author URI: mailto:heisig@ifsr.de
+*/
+
+#foreground {
+   width:100%;
+   position:absolute;
+   top:0px;
+   left:0px;
+   z-index:3;
+   padding-top:10px;
+}
+
+#background {
+   width:100%;
+   position:absolute;
+   top:0px;
+   left:0px;
+   z-index:0;
+   background:#000;
+   height:100%;
+}
+
+#background img {
+   width:100%;
+   height:100%;
+   position:fixed;
+   top:0px;
+   left:0px;
+   z-index:1;
+   display:block;
+}
+
+#top_grey {
+   width:50%;
+   height:220px;
+   background:#E6E6E6;
+   position:absolute;
+   top:0px;
+   left:0px;
+   z-index:2;
+}
+
+#bottom_grey {
+   width:100%;
+   height:15px;
+   background:#E6E6E6;
+   /*position:absolute;
+   bottom:0px;
+   left:0px;*/
+   z-index:2;
+}
+
+/*----------- body ---------------*/
+body {
+   margin:0;
+   padding:0;
+   font-size:12px;
+   font-family:verdana, arial, helvetica, sans-serif;
+   background-color:#fff;
+}
+
+/*----------- wrapper ------------*/
+#wrapper {
+   width:985px;
+   height:100%;
+   margin:0 auto;
+}
+
+/*----------- wrapper_left--------*/
+#wrapper-left {
+   width:700px;
+   float:left;
+   background-color:#F5F5F5;
+}
+
+/*----------- header -------------*/
+#header-wrapper {
+   background:#E6E6E6;
+}
+
+#header {
+   width:100%;
+   height:210px;
+   background:#DDD url(images/header.png) no-repeat;
+}
+
+/*----------- header-left --------*/
+#header-right {
+   margin-left:10px;
+   width:253px;
+   height:100px;
+   float:left;
+   display:none;
+}
+
+/*----------- header-right -------*/
+#header-left {
+   height:60px;
+   padding:20px 10px;
+   float:left;
+   color:#494949;
+   display:none;
+}
+
+#header-left h1 {
+   font-size:3em;
+   font-weight:normal;
+   margin:3px 0;
+}
+
+#header-left h1 a {
+   color:#494949;
+   text-decoration:none;
+}
+
+#header-left h1 a:hover {
+   color:#92897c;
+}
+
+#header-left h2 {
+   font-size:1.5em;
+   font-weight:normal;
+   margin:3px 0;
+}
+
+/*----------- header-nav ---------- */
+#header-nav {
+   height:112px;
+   clear:both;
+   display:none;
+}
+
+/*----------- nav ----------------*/
+#nav {
+   height:55px;
+   background:#ededed url(images/nav-bg.png) repeat-y;
+}
+
+#nav ul {
+   float:right;
+   margin:0;
+   padding:10px 35px 10px 0;
+}
+
+#nav ul li {
+   float:left;
+   list-style:none;
+   margin-left:36px;
+}
+
+#nav ul li:first-child {
+   margin-left:0;
+}
+
+#nav a {
+   width:75px;
+   height:35px;
+   margin:0;
+   padding:0;
+   vertical-align:middle;
+   text-align:center;
+   font-size:1.2em;
+   line-height:35px;
+   background:url(images/nav-link.png) no-repeat;
+   color:#424242;
+   float:left;
+   text-decoration:none;
+   font-weight:bold;
+}
+
+#nav a:hover {
+   color:#505050;
+   background:url(images/nav-link-hover.png) no-repeat;
+}
+
+/*----------- content ------------*/
+#content {
+   width:655px;
+   min-height:800px;
+   padding:10px 35px 10px 10px;
+   color:#383838;
+}
+
+#content h1:first-child{
+   font-weight:normal;
+   font-size:16pt;
+   line-height:55px;
+   color:#242424;
+   margin:0px 0 20px 0;
+   text-align:left;
+   white-space:nowrap;
+}
+
+#content h2{
+   color:#242424;
+   font-weight:normal;
+   font-size:13pt;
+   border-bottom:1px solid #6ebf56;
+   text-align:left;
+}
+
+#content h3, #content h4{
+   color:#242424;
+   font-weight:normal;
+   font-size:11pt;
+   border-bottom:1px solid #6ebf56;
+   text-align:left;
+}
+
+#content h5 {
+   color:#242424;
+   font-weight:normal;
+   font-size:13pt;
+   border-bottom:1px solid #6ebf56;
+   text-align:left;
+}
+
+#content ul {
+   text-align:left;
+   list-style:none;
+   padding:0;
+}
+
+#content ul li {
+   font-size:9pt;
+   margin:5px 0;
+}
+
+#content ul li ul{
+   padding-left:30px;
+}
+
+#content a{
+   color:#6ebf56;
+   text-decoration:none;
+}
+
+#content a:hover{
+   color:#000;
+   text-decoration:underline;
+}
+
+#content ul li ul li{
+   font-size:8pt;
+   margin:0;
+}
+
+#content p {
+   text-align:justify;
+}
+
+.entry-content h1 {
+   display:none;
+}
+
+#content .title a {
+   color:#736b61;
+   text-decoration:none;
+}
+
+#content .title a:hover {
+   color:#92897c;
+}
+
+#content .aligncenter {
+   margin:auto;
+}
+
+#who table {
+   width:100%;
+   margin:13px 0;
+   padding:0;
+   text-align:left;
+}
+
+#who th {
+   border:1px solid #92897C;
+   display:block;
+   float:left;
+   width:72%;
+   margin-bottom:9px;
+   line-height:20px;
+   padding-left:10px;
+}
+
+#who td {
+   list-style:circle;
+   line-height:20px;
+   display:block;
+   float:left;
+   width:25%;
+   margin-bottom:9px;
+   border-bottom:1px solid #92897C;
+   border-right:none;
+}
+
+#content .haltestelle {
+   display:block;
+   padding-left:77px;
+   background:url(images/bus.png) left center no-repeat;
+   min-height:44px;
+}
+
+#content .haltestelle li{
+   font-size:9pt;
+}
+
+#zeitplan_bfrei li {
+   list-style-type:disc;
+   list-style-position:inside;
+   margin-left:5px !important;
+}
+
+ /*----------- event table --------*/
+table.event {
+   width:600px;
+   font-size:1.0em;
+   border-collapse:collapse;
+   margin:50px auto;
+}
+
+table.event thead {
+   border:none;
+}
+
+table.event thead th:first-child {
+   border-right:1px solid #424242;
+}
+
+table.event thead th {
+   border:none;
+}
+
+table.event thead tr{
+   font-weight:bold;
+}
+
+table.event tbody tr {
+   font-size:0.9em;
+}
+
+table.event tbody td:first-child {
+   border-right:1px solid #424242;
+}
+
+table.event tbody td{
+   border:none;
+   margin:0;
+   padding:0;
+   vertical-align:top;
+}
+
+table.event div.event {
+   padding:5px;
+   width:90px;
+   height:50px;
+   border:1px solid #000;
+   background:#9fd98e;
+   margin:5px 5px 0 5px;
+   display:block;
+   overflow:hidden;
+}
+
+table.event div.event:hover{
+   background:#D8D8D8;
+}
+
+table.event .event.need {
+   background:#74E3E3;
+}
+
+table.event .event.lunch {
+   background:#FFF3D5;
+}
+
+table.event .event.m30  { height: 20px; }
+table.event .event.m45  { height: 36px; }
+table.event .event.m60  { height: 57px; }
+table.event .event.m90  { height: 94px; }
+table.event .event.m120 { height:131px; }
+table.event .event.m150 { height:168px; }
+table.event .event.m180 { height:205px; }
+table.event .event.m210 { height:242px; }
+table.event .event.m240 { height:279px; }
+table.event .event.m270 { height:316px; }
+table.event .event.m300 { height:302px; }
+table.event .event.m360 { height:364px; }
+table.event .event.m480 { height:490px; }
+table.event .event.open { height:100px; }
+
+table.event .event.empty {
+   background:none;
+   border:1px solid #F5F5F5;
+}
+
+table.event .event.empty:hover {
+   background:none;
+}
+
+table.event .event a:hover {
+   color:#000;
+}
+
+table.event a {
+   color:#000 !important;
+}
+
+table.event .event.duration {
+   background:none;
+   border:none;
+   border-top:1px solid #333;
+   border-bottom:1px solid #F5F5F5;
+   text-align:right;
+   width:60px;
+   font-size:0.9em;
+}
+
+table.event div.time {
+   font-weight:bold;
+   font-size:1.0em;
+}
+
+table.event div.description {
+   font-size:1.0em;
+}
+
+table.event .fh {
+   font-weight:bold;
+}
+
+.ort {
+   font-style: italic;
+   font-size: 7pt;
+}
+
+/*----------- wrapper-right-------*/
+#wrapper-right {
+   width:275px;
+   float:left;
+   margin-left:10px;
+}
+
+/*----------- sidebar ------------*/
+#sidebar {
+   width:275px;
+   margin:0;
+   padding:0;
+   color:#ffffff;
+}
+
+/*------------ ese-logo ----------*/
+#ese-logo {
+   background-image:url(images/ese-logo.png);
+   height:210px;
+   margin:0;
+   padding:0;
+}
+
+/*------------sidebar-header------*/
+#sidebar-header {
+   height:55px;
+   margin:0;
+   padding:0;
+   background:#6ebf56;
+}
+
+/*------------sidebar-content ----*/
+#sidebar-content {
+   background:#6ebf56;
+   min-height:300px;
+   margin:0;
+   padding:0 15px 1px 15px;
+}
+
+#sidebar-content span {
+   display:block;
+   clear:both;
+   font-size:13pt;
+   font-weight:normal;
+}
+
+#sidebar-content h3 {
+   font-size:11pt;
+   font-weight:normal;
+}
+
+#sidebar-content p {
+   text-align:right;
+}
+
+#sidebar-content a {
+   color:#ffffff;
+   text-decoration:none;
+}
+
+#sidebar-content a:hover {
+   color:#ffffff;
+   text-decoration:underline;
+}
+
+#sidebar-content .line {
+   height:5px;
+   margin:10px -15px;
+   background:#E6E6E6;
+}
+
+#sidebar-content .line:first-child {
+   margin-top:0;
+}
+
+#sidebar-content .textwidget {
+   text-align:right;
+   margin:8px 0 12px;
+}
+
+/*------------ sidebar-footer ----*/
+#sidebar-footer {
+   background:#6ebf56;
+   height:259px;
+   margin:0;
+   padding:0;
+}
+
+#sidebar-footer img {
+   max-height:200px;
+   max-width:200px;
+   margin:21px 0 0 37px;
+   padding:0;
+}
+
+/*----------- clearfix -----------*/
+.clearfix {
+   display:block;
+   clear:both;
+   visibility:hidden;
+   line-height:0;
+   height:0;
+}
+
+/*----------- qtranslate ----------*/
+
+.qtrans_language_chooser {
+   display:block;
+   margin:11px 0 15px;
+   height:14px;
+   text-align:right;
+}
+
+.qtrans_language_chooser li {
+   list-style:none;
+   display:inline-block;
+   margin-left:10px;
+}
+.qtrans_flag {
+   border:1px solid #b6b6b6;
+}
+
+/*----------- Login Table -------*/
+#login-table table {
+   margin:20px 50px;
+   border-collapse:separate;
+}
+
+#login-table th {
+   font-weight:bold;
+   text-align:left;
+   padding-left:20px;
+}
+
+#login-table thead {
+   border-bottom:2px solid #333;
+   font-size:1.2em;
+   line-height:22px;
+}
+
+#login-table tr{
+   font-weight:normal;
+   border:none;
+   border-bottom:1px solid #333;
+   font-size:1.2em;
+   line-height:22px;
+}
+
+#login-table tr {
+   background-color:#fff;
+}
+
+#login-table td {
+   text-align:left;
+   padding-left:20px;
+}
+
+
+/*----------- Stundenpl�ne -------*/
+
+#stundenplan td {
+  border:1px solid #000000;
+  font-family:sans serif;
+  border-spacing:0px;
+  width:52px;
+}
+
+#stundenplan table {
+  border-spacing:0px;
+}
+
+.plan_tage {
+  background-color:#EEEEEE;
+  font-weight:bold;
+  padding:2px;
+}
+
+.plan_stunden {
+  background-color:#EEEEEE;
+  font-weight:bold;
+  padding:3px;
+  border-bottom:none !important;
+  width:90px !important;
+}
+
+.plan_uhrzeit {
+  background-color:#EEEEEE;
+  font-style:italic;
+  padding:3px;
+  border-top:none !important;
+  width:90px !important;
+}
+
+.plan_leer {
+  font-weight:bold;
+  padding:3px;
+  text-decoration:underline;
+}
+
+.plan_raum {
+  font-style:italic;
+  padding:1px;
+}
+
+.plan_dozent {
+  font-style:italic;
+  padding:1px;
+  border-right:none !important;
+}
+
+.plan_name {
+  padding:2px;
+  border-bottom:none !important;
+}
