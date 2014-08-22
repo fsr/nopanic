@@ -1,6 +1,13 @@
-\documentclass[a4paper,12pt,twoside
-%,draft
-]{scrreprt}
+\documentclass[10pt]{scrreprt}
+\usepackage[a5paper,twoside
+            ,top=1.5cm
+            ,bottom=2cm
+            ,footskip=1cm
+            ,textwidth=12cm
+            ]{geometry}
+%\usepackage{showframe}
+
+\renewcommand*{\chapterheadstartvskip}{}
 
 \usepackage[parfill]{parskip}
 \usepackage{graphicx}
@@ -14,8 +21,6 @@
 \usepackage[geometry]{ifsym}
 \usepackage{eurosym}
 
-%\usepackage{showframe}
-
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setmainlanguage{german}
@@ -28,12 +33,12 @@
 \newcommand{\link}[1]{%
     \edef\tmptoken{\detokenize{#1}}%
     \@ifundefined{nopanic@link@\tmptoken}{%
-        \protected@edef\@tmpkey{{\fontsize{13pt}{0}\selectfont\keys{\arabic{linkcounter}}}}%
+        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\arabic{linkcounter}}}}%
         \expandafter\global\expandafter\edef\csname nopanic@link@\tmptoken\endcsname{\arabic{linkcounter}}%
         \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}\\}%
         \stepcounter{linkcounter}%
     }{%
-        \protected@edef\@tmpkey{{\fontsize{13pt}{0}\selectfont\keys{\csname nopanic@link@\tmptoken\endcsname}}}%
+        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\csname nopanic@link@\tmptoken\endcsname}}}%
     }%
     \href{#1}{\@tmpkey}%
 }
