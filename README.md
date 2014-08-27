@@ -14,7 +14,9 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
   * [PT Sans](http://www.fontsquirrel.com/fonts/PT-Sans): http://www.paratype.com/public/ (für Debian / Ubuntu auch im Paket `texlive-fonts-extra` enthalten)
   * [Exo](http://www.fontsquirrel.com/fonts/exo)
-3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z. B: `lualatex -synctex=1 -interaction=nonstopmode "nopanic".tex`, `xelatex nopanic.tex`
+3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.: 
+  `lualatex -synctex=1 -interaction=nonstopmode "nopanic".tex`  
+  oder `xelatex nopanic.tex`
 
 
 ## Alte Versionen
