@@ -17,6 +17,8 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.: 
   `lualatex -synctex=1 -interaction=nonstopmode "nopanic".tex`  
   oder `xelatex nopanic.tex`
+4. Wenn man eine komprimierte Variante erstellen möchte:  
+  `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=nopanic_compressed.pdf nopanic.pdf`
 
 
 ## Alte Versionen
