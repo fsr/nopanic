@@ -50,9 +50,18 @@
 \newcommand{\link}[1]{%
     \edef\tmptoken{\detokenize{#1}}%
     \@ifundefined{nopanic@link@\tmptoken}{%
-        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\arabic{linkcounter}}}}%
+        \edef\@linknumber{\arabic{linkcounter}}
+        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\@linknumber}}}%
         \expandafter\global\expandafter\edef\csname nopanic@link@\tmptoken\endcsname{\arabic{linkcounter}}%
+        %
+        % Standard print output:
         \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}\\}%
+        %
+        % Link system output:
+        % Copypasting the output of the following lines into a text file, then run and execute the result of:
+        % awk '{print "mkdir " $1 " && echo \"<?php header('\''Location: " $2 "'\''); ?>\" > " $1 "/index.php"}'
+        %\expandafter\g@addto@macro\expandafter\linklist\expandafter{\expandafter&\expandafter\tiny\@linknumber\ \url{#1}\\}%
+        %
         \stepcounter{linkcounter}%
     }{%
         \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\csname nopanic@link@\tmptoken\endcsname}}}%
