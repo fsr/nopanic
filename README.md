@@ -10,7 +10,7 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 ## Vorgehen zum Kompilieren / Erstellen des PDFs
 
 
-1. (La-)TeX und benötigte Pakete installieren (bspws. MikTex, MacTex, etc.)
+1. (La-)TeX und benötigte Pakete installieren (bspws. MiKTeX, MacTex, etc.)
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
   * [PT Sans](http://www.fontsquirrel.com/fonts/PT-Sans): http://www.paratype.com/public/ (für Debian / Ubuntu auch im Paket `texlive-fonts-extra` enthalten)
   * [Exo](http://www.fontsquirrel.com/fonts/exo)
