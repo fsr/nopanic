@@ -1,7 +1,7 @@
 ![image](http://i.imgur.com/zba1dc5.png)
 
-[![Gitter chat](http://img.shields.io/badge/gitter-fsr%2Fnopanic-brightgreen.svg?style=flat)](https://gitter.im/fsr/nopanic)
-[![GitHub Issues](http://img.shields.io/github/issues/fsr/nopanic.svg?style=flat)](https://github.com/fsr/nopanic/issues)
+[![Gitter chat](http://img.shields.io/badge/gitter-fsr%2Fnopanic-brightgreen.svg)](https://gitter.im/fsr/nopanic)
+[![GitHub Issues](http://img.shields.io/github/issues/fsr/nopanic.svg)](https://github.com/fsr/nopanic/issues)
 
 Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) seit 2014 erstmalig in LaTeX.
 
@@ -36,3 +36,4 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 - [2011](http://users.ifsr.de/~koeltzsch/nopanic/nopanic2011.pdf)
 - [2012](http://users.ifsr.de/~koeltzsch/nopanic/nopanic2012.pdf)
 - [2013](http://users.ifsr.de/~koeltzsch/nopanic/nopanic2013.pdf)
+- [2014](https://github.com/fsr/nopanic/releases/tag/v2014)
