@@ -11,7 +11,6 @@
             ,showcrop
             ,verbose
             ]{geometry}
-
 \renewcommand*{\chapterheadstartvskip}{}
 
 \usepackage[parfill]{parskip}
@@ -80,19 +79,18 @@
 \pagestyle{plain}
 
 \begin{document}
-
 %Das Coverbild, oh gott o.O Aber es funktioniert
 \newcommand\CoverPic{%
 \put(0,0){%
 \parbox[b][\paperheight]{\paperwidth}{%
 \vfill
 \centering
-\includegraphics[width=\paperwidth,height=\paperheight,%
+\includegraphics[width=\dimexpr(\paperwidth-4mm)\relax, height=\dimexpr(\paperheight-4mm)\relax,%
 keepaspectratio]{cover/Vorne}%
 \vfill
 }}}
 \thispagestyle{empty} %keine Seitenzahl
-\AddToShipoutPicture*{\CoverPic}
+\AddToShipoutPictureBG*{\CoverPic}
 \mbox{} %brauche leeren Content für ne newpage
 %\newpage
 
