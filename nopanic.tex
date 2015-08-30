@@ -1,14 +1,11 @@
 \documentclass[10pt]{scrreprt}
 \usepackage[twoside
-            ,papersize={156mm, 218mm}
+            ,papersize={148mm, 210mm}
             ,layoutsize={148mm, 210mm}
-            ,layouthoffset=4mm
-            ,layoutvoffset=4mm
             ,top=1.5cm
             ,bottom=2cm
             ,footskip=1cm
             ,textwidth=12cm
-            ,showcrop
             ,verbose
             ]{geometry}
 \renewcommand*{\chapterheadstartvskip}{}
@@ -85,8 +82,7 @@
 \parbox[b][\paperheight]{\paperwidth}{%
 \vfill
 \centering
-\includegraphics[width=\dimexpr(\paperwidth-4mm)\relax, height=\dimexpr(\paperheight-4mm)\relax,%
-keepaspectratio]{cover/Vorne}%
+\includegraphics[width = \paperwidth, height = \paperheight]{cover/Vorne}%
 \vfill
 }}}
 \thispagestyle{empty} %keine Seitenzahl
