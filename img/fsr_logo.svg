@@ -1,560 +1,126 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="726.11829"
-   height="710.48608"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="fsr_logo.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600"
-   version="1.1">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.54438882"
-     inkscape:cx="165.87589"
-     inkscape:cy="190.23266"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="852"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       orientation="horizontal"
-       position="-10.379075,-319.30958"
-       id="guide11076" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-10.379075,-14.617714)">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1.50873697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path2228"
-       sodipodi:cx="457.89386"
-       sodipodi:cy="652.23157"
-       sodipodi:rx="268.95999"
-       sodipodi:ry="271.36679"
-       d="m 726.85385,652.23157 c 0,149.87174 -120.41749,271.36679 -268.95999,271.36679 -148.5425,0 -268.95999,-121.49505 -268.95999,-271.36679 0,-149.87174 120.41749,-271.36679 268.95999,-271.36679 148.5425,0 268.95999,121.49505 268.95999,271.36679 z"
-       transform="matrix(1.3458954,0.02622398,-0.02542987,1.305139,-226.25287,-493.3999)"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 23.966468,356.6547 C 27.364212,282.59212 51.36944,224.9427 86.735324,175.07038"
-       id="path5140"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 71.768985,356.22584 -46.361507,0.38775"
-       id="path6111"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 104.99386,382.56007 c -0.46376,12.9895 0.60746,88.82126 -0.12287,99.11412 l -24.788495,0.061 0.465798,-99.2773 24.445567,0.10213 z"
-       id="path7082"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:3.25977445;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path8053"
-       sodipodi:cx="91.808899"
-       sodipodi:cy="685.7522"
-       sodipodi:rx="10.47904"
-       sodipodi:ry="10.948251"
-       d="m 102.28794,685.7522 c 0,6.04655 -4.691627,10.94825 -10.479041,10.94825 -5.787414,0 -10.47904,-4.9017 -10.47904,-10.94825 0,-6.04655 4.691626,-10.94825 10.47904,-10.94825 5.787414,0 10.479041,4.9017 10.479041,10.94825 z"
-       transform="matrix(1.2318277,0.02400143,-0.02380769,1.2218841,-4.0709065,-482.07176)"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 114.92866,481.93341 c 7.9777,0.38965 14.81044,0.2978 23.74856,0.28241 l 0.23585,-72.61393 c -0.0599,-8.09783 11.04797,-7.99207 10.59182,-0.088 0.15732,17.4165 -0.0304,67.7451 -0.46729,72.4699 l 23.29585,-0.36124 c -0.0847,-23.84124 1.16796,-58.4046 -0.12532,-76.62408 0.67492,-16.47491 -11.30115,-25.2255 -25.57719,-20.29215 -2.88904,1.12123 -5.94918,3.1256 -8.8144,1.94843 -2.3182,-0.95247 -2.62093,-4.77888 -6.248,-4.16963 -7.77853,-0.23013 -13.03301,0.84248 -16.31763,0.29884 0.54374,14.21837 0.50913,99.62243 -0.32225,99.14946 z"
-       id="path8055"
-       sodipodi:nodetypes="ccccccccsccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 145.20431,535.69745 c 11.04619,15.8812 18.21897,23.90661 27.6187,31.52551 l -11.16834,9.4739 -9.46251,-9.13628 -36.09463,32.81573 c -5.5774,-5.15829 -7.62668,-8.91178 -12.60249,-13.98764 l 36.39328,-32.34053 -6.3616,-9.24803 11.67759,-9.10266 z"
-       id="path9026"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 181.43694,575.24485 9.64802,8.45132 c -8.43737,8.93309 -16.86097,17.16005 -25.38406,30.49279 -5.21153,10.19793 -0.44138,20.61442 12.19243,10.39454 11.71747,-11.95609 19.14855,-23.53619 24.8879,-31.5354 l 10.01229,7.42549 c -10.5708,13.60458 -13.22327,21.24423 -29.62235,37.71081 -12.05242,12.22374 -43.15059,-2.65502 -32.4293,-25.80229 8.04101,-15.16949 16.27816,-24.38594 30.69507,-37.13726 z"
-       id="path9997"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 278.6573,647.91239 c 25.75982,7.50934 4.65523,41.00587 -12.28921,29.90142 l 12.28921,-29.90142 z"
-       id="path10968"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 270.57445,626.77356 c 12.08985,2.41137 25.72971,7.25304 30.4675,14.50263 6.02695,9.22221 4.88339,18.76276 3.27543,29.03296 -3.12713,19.97334 -16.54401,34.59271 -59.41759,15.80847 l 25.67466,-59.34406 z"
-       id="path11939"
-       sodipodi:nodetypes="csscc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 319.30209,644.68917 -12.1164,58.61492 c 6.51999,1.93105 11.08277,2.37778 17.83016,2.77351 l 3.95256,-23.85275 c 6.83168,6.00574 8.04833,16.52969 11.98639,25.4167 7.22175,1.98234 13.71338,1.66264 20.25008,1.29864 l -8.65271,-26.04093 -2.59177,-2.82948 3.99824,-1.98779 c 8.64239,-10.47402 10.35233,-24.95211 2.12424,-30.31616 -8.03424,-3.20444 -17.48731,-5.37428 -30.2112,-6.16729 -2.56095,-0.63182 -6.26652,-4.93629 -6.56959,3.09063 z"
-       id="path2168"
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 371.55715,645.25948 2.24504,64.16843 c 18.14308,-0.0273 35.0449,-1.58145 51.26029,-3.97983 l -4.00896,-13.73037 -31.04179,3.75006 c -3.1056,-2.1311 -1.00688,-7.27332 -1.66606,-10.54954 l 29.14978,-4.15736 c -0.7442,0.92841 0.11625,-9.41109 -1.92455,-12.98147 -19.18793,2.19869 -17.58518,2.03176 -26.87421,2.77822 -1.31712,-3.69515 -2.00557,-7.82631 -1.10704,-11.47828 9.92858,-0.16648 18.18069,-2.9894 26.83159,-4.24485 l -2.25764,-12.02143 c -16.5895,2.31737 -21.91616,1.95918 -40.60645,2.44642 z"
-       id="path3142"
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 331.8796,655.38225 c 23.38741,-1.6464 15.57314,20.08942 -0.50572,13.53896 l 0.50572,-13.53896 z"
-       id="path8960"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccc"
-       id="path9931"
-       d="m 490.4282,637.17607 c 24.02543,-17.60592 42.75712,20.55174 12.56779,28.66023 L 490.4282,637.17607 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:transform-center-x="25.410903"
-       inkscape:transform-center-y="-28.808841"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cssscc"
-       id="path9933"
-       d="m 469.50953,629.56951 c 13.51972,-5.84316 22.5242,-9.64985 29.29898,-10.99678 17.94419,-3.56758 22.61831,7.36393 28.15755,16.75356 8.15203,13.81865 10.6473,30.77205 -12.18701,43.08278 -5.34251,2.88015 -10.74465,6.50588 -18.82062,8.09746 -7.19964,-19.52247 -17.22743,-38.42017 -26.4489,-56.93702 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:transform-center-x="29.911359"
-       inkscape:transform-center-y="-26.119277"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccccccccc"
-       id="path9935"
-       d="m 520.28229,606.44008 37.07779,51.25825 c 18.60575,-12.70361 28.04656,-18.98169 41.19784,-29.45317 -7.33025,-5.46809 -7.10786,-8.69339 -10.67614,-12.74631 -7.78413,8.14067 -17.77124,13.99083 -27.14598,20.47769 -3.2491,-1.00436 -5.46268,-6.82846 -7.65655,-10.21148 l 25.22105,-18.75684 c -1.83169,-0.83283 -5.30207,-8.27431 -6.68791,-10.05588 -12.34029,10.74637 -16.64406,13.3664 -25.60591,17.99955 -3.12117,-2.37639 -4.11559,-4.18887 -5.35699,-7.73896 11.66645,-11.0543 16.85577,-12.01438 23.45957,-18.22439 -3.54394,-4.73838 -3.45439,-4.51686 -6.892,-8.8993 -12.76201,11.17059 -24.05566,17.55721 -36.93477,26.35084 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 633.44008,358.95153 c 28.52431,-0.59667 68.77761,1.52712 87.38631,0.066 -2.86936,-63.44867 -20.60236,-125.88258 -60.90754,-182.77967"
-       id="path9937"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 521.42775,359.93048 c -3.96641,-0.0402 -9.80793,0.56016 -14.18901,-0.57835 -8.68579,-6.46148 -17.72752,-11.86248 -27.13478,-16.17456 -2.42085,-2.42547 -0.74564,-6.51942 1.78648,-6.13853 11.89827,-0.69141 17.43939,0.0755 26.15909,0.11329 -0.8041,-11.40248 3.07409,-16.19536 4.5274,-23.66375 5.69053,-1.59254 15.17937,-3.87486 20.32844,-5.40325 20.12999,-5.9751 23.49662,-5.88323 35.96474,-12.12266 l 0.56178,-102.46301 c 0.61455,-4.02176 -1.33213,-6.82468 -4.98119,-8.81748 -18.27483,-5.99406 -37.11686,-7.34507 -55.63723,-12.97559 -3.07335,-1.21758 -3.66323,-2.65421 -4.52857,-9.08493 l -1.33639,-21.34789 -122.75107,-0.61276 c -3.12625,0.22312 -6.34499,-0.1465 -8.41354,4.59267 l -0.33062,14.88131 c -9.19649,19.28395 -16.67746,40.39925 -21.28798,61.37293 -1.87035,11.77571 -2.44644,24.67758 -1.35299,35.69383 1.10988,11.18177 5.01049,21.83647 9.37267,32.63068 4.97296,12.30565 12.31051,26.10753 22.30888,37.51761 0.78453,3.19206 -0.46706,4.65707 -0.44238,7.63403 l 22.24977,1.08147 c 3.77421,-0.91084 5.33155,4.13267 2.51075,6.04139 l -46.0035,16.54183 c -1.5578,0.61658 -0.60246,-10.98671 -1.9098,-15.21542 l -16.08651,4.19382 1.44527,-7.31641 c -1.66311,0.71598 -2.60011,1.76288 -4.55769,0.78954 -6.45417,-11.64345 -4.33811,-19.86765 -4.46696,-26.29114 -0.27496,-1.64385 -2.09317,-6.51013 -4.61374,-7.08533 -4.74669,-0.8959 -7.69848,0.15263 -9.65519,-0.73261 -5.25149,-3.94954 -6.92945,-8.3408 -14.72073,-11.65058 -6.40016,-1.41901 -9.62113,-0.57251 -15.66495,0.91859 -11.24159,3.14718 -19.65205,6.71852 -29.71619,13.23232 -4.59465,4.22137 -5.48162,10.52484 -8.43624,15.74489 -3.76514,5.93431 -11.83911,3.03112 -13.68051,1.4745 -3.56761,-2.9106 -5.67881,-4.05894 -7.65004,-8.9415 -4.57974,-18.55045 -1.31097,-38.98854 13.11061,-53.24585 15.43585,-7.66127 31.42939,-10.75779 46.37715,-14.79591 12.78596,0.52024 15.50956,4.09023 23.69614,4.21524 4.87227,0.56765 9.45888,1.63875 15.08026,-0.98451 3.16459,-2.6317 6.25268,-5.25751 8.03959,-8.84694 1.92248,-3.88228 2.76241,-7.26148 2.38183,-11.51081 -2.41618,-4.8694 -5.10453,-7.50479 -7.49978,-8.32385 l -27.70691,-0.29815 -0.99182,-0.0616"
-       id="path10908"
-       sodipodi:nodetypes="ccccccsccccccccccssccccccccccccccccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 98.272594,576.42257 C 76.423708,555.42571 63.261939,526.07378 50.308224,496.52178 l 645.073036,-0.14604 c -10.03609,31.39697 -26.65456,55.5255 -43.59913,76.10909"
-       id="path11879"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 608.88312,618.95007 566.72989,572.2216 c 2.19636,-2.51358 7.68844,-6.48412 11.78554,-11.05892 9.24141,2.16532 13.09246,2.74773 25.37028,7.02389 1.69946,0.29479 1.82557,-1.59287 0.0124,-2.38562 l -16.45092,-14.2595 c 3.81867,-4.97246 10.90767,-11.33601 11.39163,-13.04623 l 46.26509,42.15739 c -5.24955,6.16506 -6.52088,7.5762 -8.95299,10.52468 l -30.04956,-5.24627 c -5.70073,-2.02292 -4.92811,1.93262 -2.91983,3.30738 l 17.63449,17.35199 c -1.44497,3.1759 -7.5496,8.0396 -11.93293,12.35968 z"
-       id="path12850"
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       id="path13821"
-       d="m 591.49703,383.14183 c -1.44232,16.77878 1.34515,100.90682 -0.87848,99.04735 l -20.73249,-0.002 0.0126,-99.21376 c 1.74186,-0.13739 14.39947,-0.62405 21.59841,0.1689 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(1.1248517,0.02191707,-0.02174015,1.1157718,492.01406,-408.09527)"
-       d="m 102.28794,685.7522 c 0,6.04655 -4.691627,10.94825 -10.479041,10.94825 -5.787414,0 -10.47904,-4.9017 -10.47904,-10.94825 0,-6.04655 4.691626,-10.94825 10.47904,-10.94825 5.787414,0 10.479041,4.9017 10.479041,10.94825 z"
-       sodipodi:ry="10.948251"
-       sodipodi:rx="10.47904"
-       sodipodi:cy="685.7522"
-       sodipodi:cx="91.808899"
-       id="path13823"
-       style="fill:none;stroke:#000000;stroke-width:3.56978679;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 551.10636,358.25287 13.55089,-0.002 0,0"
-       id="path13825"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 594.24169,358.40128 c 6.91346,0.3654 6.91346,0.3654 6.91346,0.3654"
-       id="path14796"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 593.98863,359.54978 7.16202,-0.55253 0,0 0,0 0,0 0,0 0,0 0,0"
-       id="path14799"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 217.36004,339.30388 0.3258,21.26502 c -4.06905,0.89579 -9.93846,3.88725 -10.37786,8.13896 l -0.24468,13.98242 10.07354,0.23178 c 0.12735,7.72297 0.0131,14.42957 -0.28548,21.12417 -3.71832,-0.0357 -4.89589,0.32656 -9.62129,-0.22783 l -0.0352,78.09823 c -7.29644,0.14007 -13.10608,0.67446 -22.40671,-0.14217 l -0.12703,-77.82511 -6.36068,-0.0563 c -0.0208,-6.31335 -0.65907,-12.6516 0.0348,-21.05232 3.79293,0.14772 3.75078,0.13499 6.0718,-0.33846 l 0.41903,-20.88097 c 0.68164,-16.10671 16.72479,-23.45145 32.5339,-22.31741 z"
-       id="path15770"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       id="path16741"
-       d="m 315.97146,481.99569 -0.29781,-66.99553 c 0.73379,-9.74501 10.98718,-13.44283 24.64826,-9.30131 0.87545,-3.71076 1.28341,-19.51259 0.49928,-21.86927 -16.11658,-2.95371 -21.5172,0.33312 -24.48135,3.55474 -1.42181,-1.34561 1.83689,-2.92232 -1.26551,-4.30014 -7.8317,-0.65777 -15.04417,0.20428 -22.10998,-0.47777 0.0346,31.85127 0.5539,77.47523 -0.19238,99.23362 2.12041,-0.10147 19.9345,0.58035 23.19949,0.15566 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 251.50149,383.08218 c 29.11293,-0.15598 28.77951,11.30872 28.81565,23.87614 0.15073,17.26309 -0.005,34.52643 0.0507,51.78974 0.0739,17.00378 -6.92684,23.30131 -26.81701,23.20943 -19.28258,-0.10742 -28.05533,-7.85022 -28.15765,-22.8498 -0.10398,-17.44483 0.20898,-34.05671 0.0174,-51.84976 0.0326,-18.14204 5.98008,-24.34577 26.09089,-24.17575 z"
-       id="path16745"
-       sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cccsssccccccccc"
-       id="path18687"
-       d="m 557.32112,482.24182 -0.16966,-23.10279 c -9.66862,-0.58856 -9.90843,-0.31406 -10.73992,-8.70816 -0.39531,-0.36549 -0.33338,-43.1297 0.11226,-45.64052 0.23823,-1.34243 8.13593,-0.40124 8.25465,-1.11755 0.79578,-4.80093 -0.0921,-13.83126 -0.52112,-20.15122 -0.12885,-1.89807 -5.26763,-0.16399 -8.1749,-1.15035 -0.29456,-16.77283 0.9442,-29.17339 0.2644,-42.70105 -5.81545,-0.74404 -11.54198,-0.60318 -20.40065,0.26746 l -0.32474,42.61408 c -2.88206,0.58857 -4.03844,0.10327 -5.92649,0.26904 -0.2667,6.30776 0.0413,12.84844 -0.2916,21.25621 2.68123,0.083 2.85368,-0.025 5.96006,0.10826 -0.21457,19.93114 -0.113,33.38688 0.33705,51.62882 -0.22068,22.27579 9.84285,27.114 31.62066,26.42777 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 604.52785,339.9763 c 6.2447,-0.30652 20.26838,-0.5248 21.38572,-0.31134 l -0.29732,63.75432 c -0.60791,3.491 0.35367,3.16042 3.99636,0.74935 L 641.49,395.68171 c 3.95052,3.20454 10.67933,12.74599 13.82466,16.92024 l -17.00214,13.03089 c -1.71027,1.15186 -1.43739,4.48188 1.59174,7.09283 8.19295,11.37368 20.53221,28.98211 25.19641,34.68625 -4.87109,3.94062 -11.43957,9.88304 -19.2493,14.56748 l -16.13345,-27.31292 c -2.98701,-1.80202 -3.00752,-0.029 -3.58489,1.07287 -0.16873,16.32867 -0.70505,24.73053 0.0592,26.21936 -5.58072,0.58475 -14.01185,-0.0815 -21.0909,0.17803 -0.15809,-39.71905 -0.47866,-95.90223 -0.57345,-142.16044 z"
-       id="path18689"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 347.70449,382.84577 c 1.04812,30.05429 -0.72662,68.60147 -0.70723,99.3405 7.64869,0.43685 12.90253,-0.15365 24.68806,-0.091 l 0.15732,-70.91852 c 1.8375,-7.64503 9.98197,-6.57409 12.19243,-0.15205 l -0.57546,70.79192 c 2.12279,0.84935 18.45722,0.1373 21.67846,0.0794 l -0.12967,-70.19037 c 2.09384,-6.49544 10.92132,-9.15766 13.14039,0.5414 l -0.45458,69.65331 c 11.043,1.42556 12.82878,-0.41508 23.0727,0.0733 -0.78231,-24.49985 0.93863,-53.25968 0.35553,-76.66755 -2.22366,-24.11404 -25.17348,-27.05748 -38.27965,-16.03081 -8.18546,-8.11269 -19.71231,-7.06317 -24.7305,-4.80724 -1.23495,0.55517 -4.05261,2.35113 -6.39264,3.58361 -0.92854,-2.35131 0.69776,-2.78041 -0.29442,-5.49373 -7.21016,0.56249 -18.7232,0.10996 -23.72074,0.2878 z"
-       id="path19660"
-       sodipodi:nodetypes="cccccccccccccsccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 451.44789,465.8944 c 2.06035,11.27419 8.99976,18.26037 32.49933,16.17283 4.26906,-1.7896 3.50218,-1.48665 7.54526,-3.47909 0.12813,1.47781 0.34901,2.22671 0.42098,3.63133 6.26867,0.11341 12.60161,0.35361 20.25933,-0.0147 1.31214,-60.47635 -1.05838,-65.89921 -0.13286,-99.65858 -5.38087,0.0306 -13.97098,0.0362 -19.30629,0.0281 -0.35649,1.42482 -0.61365,3.79599 -0.65064,4.87275 -1.83672,-0.26843 -2.40513,-3.98237 -7.66723,-4.9982 -26.62778,-0.62658 -30.29941,7.0093 -32.30667,18.8457 -1.40857,20.42143 -1.28388,40.70776 -0.66121,64.59994 z"
-       id="path20631"
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 335.81481,339.67676 c -1.24458,2.49009 -0.52672,1.89555 -4.02863,2.45094 -2.57536,-0.37548 -5.37353,-0.12361 -7.2639,-2.42801 -3.37583,-5.76395 -4.09932,-8.22119 -5.62694,-13.78074 -0.2378,-1.37815 -0.80042,-3.54961 -1.46014,-5.60465 -0.62101,-2.6863 -1.78001,-4.85015 -4.54995,-5.45216 -1.32013,-0.28689 -4.50669,-4.68467 -7.45405,-7.32264 l -2.01814,-2.41276"
-       id="path21602"
-       sodipodi:nodetypes="cccccscc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 325.26379,340.76286 c -0.42549,1.79048 -1.75676,3.52907 -3.3056,4.64829 -4.62153,1.52291 -10.2277,-1.12207 -13.41836,-4.42476 -0.61688,-2.81283 1.48288,-6.66692 0.28912,-9.25868 -4.81141,-1.06175 -9.41387,-5.39286 -11.9378,-9.69778 -2.31943,0.53047 -12.00248,11.08425 -17.13327,13.02655 -3.42383,1.34597 -8.33232,1.5012 -10.19679,-0.93424 -3.82723,12.01176 -7.13138,18.25736 -10.63091,25.90178 4.80297,1.03014 5.36938,-0.41792 10.30676,-0.0604 2.23439,-1.84689 1.95199,-5.27922 2.67654,-9.14806 3.41063,-0.47517 9.31142,-0.78024 9.20543,-0.39305 l -0.52281,6.14197 c 3.28517,-1.06719 6.24814,-1.28826 11.46547,-2.81215 0.79928,-2.18938 -0.68943,-2.36142 0.59633,-5.37197 l 7.28411,-0.193 0.35627,5.13657 11.37397,-2.3001 c 1.00499,-1.10277 1.21083,-4.15249 2.40055,-6.30594"
-       id="path22573"
-       sodipodi:nodetypes="cccccccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 331.80933,342.69362 -0.0451,5.95489 c -1.35561,2.92051 -6.02913,3.76985 -8.67993,1.53253 -0.79276,-1.02259 -0.60402,-2.98913 -0.25496,-5.1099"
-       id="path23544"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 110.60746,356.35649 5.39508,0.30515 c -0.16819,-7.65924 1.6451,-19.21431 2.31365,-31.0153 4.04101,-28.51472 12.93646,-49.3893 32.66323,-70.1225 9.3497,-7.44954 18.20392,-13.05234 41.89524,-20.0509 5.83557,-1.33484 12.74299,-4.0406 16.63919,-6.81392 1.85895,-2.55227 2.98029,-4.83725 -0.0908,-5.60284 -5.21427,0.76366 -8.95454,0.61198 -15.7216,2.86905 -24.19971,7.06989 -25.47806,9.01643 -50.29586,18.70297 0.50785,-0.4541 -7.50294,0.91631 -2.26332,-2.58392 9.81885,-6.55929 15.32983,-11.53328 27.41916,-16.90466 9.65288,-3.09936 29.48052,-7.57371 35.55652,-8.4737 4.99111,-1.59748 3.41674,-3.08387 0.10092,-3.71303 -12.34149,0.11412 -27.01221,-0.0921 -46.26135,2.69933 -1.99673,0.28526 -2.11899,-3.13454 -0.2594,-3.96521 7.0006,-3.26163 9.52611,-4.6037 18.65074,-5.67836 l 38.24341,-1.85533 4.41474,-0.71414 c 1.46193,-0.11426 3.97212,-0.63261 -0.53365,-3.41104 l -36.09573,-5.70427 c -1.6744,-0.54673 -4.31068,-0.44772 -2.33329,-3.44609 1.84274,-1.80155 5.59728,-2.35579 10.44474,-2.19695 13.99511,1.02728 26.33628,4.93486 38.84067,8.55827 3.64669,0.22966 3.17242,-1.70252 4.05769,-2.9215 -0.0843,-2.59485 -0.642,-3.0409 -1.12576,-3.82267 l -19.1392,-13.57543 c -1.68202,-1.23298 -2.35165,-2.44627 -2.12945,-3.64216 0.30153,-2.44775 1.52452,-3.38484 3.46168,-3.13316 9.42452,3.54674 13.58268,7.86607 20.37403,11.79915 1.54378,0.93513 2.68628,1.70554 4.06381,2.59916 1.22307,0.79338 3.02769,1.07366 4.27613,0.56389 4.45305,-8.05551 4.8749,-16.33272 14.82555,-19.57969 l -5.16576,15.13847 c -0.31088,1.77812 2.40418,2.25242 4.6019,-0.0532 l 19.89814,-13.64354 c 2.74756,-1.39303 4.6378,0.48933 3.13807,2.05661 -0.72349,2.35308 -10.85944,11.12154 -12.26224,15.39632 l 23.20475,-5.31919 c 6.56379,-0.50814 7.47047,0.40312 6.41138,2.4111 -3.14878,2.43832 -5.20868,3.06657 -10.64455,3.65045 -3.21959,1.53978 -5.38073,3.31276 -6.70394,5.27042 -1.37895,2.61722 -1.01242,4.03836 0.30643,4.80687 16.04032,-3.21409 17.57594,-1.03876 27.41427,-0.46603 3.00827,1.66531 5.81125,3.33484 -0.50121,5.19122 l -15.59048,0.0282 c -7.91573,2.02019 -3.97417,1.09151 -8.83267,3.05709 -3.16881,1.76888 -2.6716,4.12385 -0.96183,5.29278 l 4.33566,4.21429 7.67108,2.29271 -9.63158,1.52697 c -4.16421,1.18715 -6.50621,7.45449 -3.57809,11.2527 4.11705,2.8815 9.91905,5.74037 18.03226,0.774 3.91697,-5.2101 1.26221,-8.72529 0.3394,-9.90411"
-       id="path24515"
-       sodipodi:nodetypes="cccccccccscccccccccccccccccccsccccccccccccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 295.5237,193.50705 c 5.46491,3.18467 10.02643,2.4313 14.99765,3.46384 -3.1842,2.69755 -7.80259,0.75831 -14.08008,1.76455 l -6.26289,1.69031"
-       id="path34257"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 299.23332,218.39585 c -2.64098,-0.84872 -2.34326,3.95247 -2.19918,8.22597 1.24383,-1.82587 1.90213,-2.84969 3.15314,-5.04577"
-       id="path37172"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 424.29062,49.238482 c 2.15888,-8.157385 2.80234,-15.555809 2.77589,-16.228486 -5.95123,-1.334228 -13.3344,-1.827321 -21.9739,-1.553369 -25.26755,-0.86562 -36.23194,19.381862 -28.79662,42.914485 5.85925,11.600694 21.94305,20.169142 40.89843,21.557856 1.83664,-1.353532 2.28724,-6.809221 2.29839,-15.230228 -6.53557,-2.468234 -14.25266,-3.858612 -20.44059,-8.727089 -12.03481,-9.985195 -1.70739,-24.667719 9.11036,-24.827243 4.19915,0.0056 12.70881,0.444201 16.12804,2.094074 z"
-       id="path39114"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 327.30654,97.297486 c -1.63562,-6.45469 -1.40099,-11.098337 -1.51572,-15.65392 6.44195,1.01496 9.60926,0.249731 15.75477,-3.812542 3.58618,-3.677693 2.5887,-5.824926 1.94236,-7.465202 -3.48635,-5.012933 -5.80423,-5.913191 -10.08809,-8.494706 -3.24294,-1.411973 -5.91671,-3.689844 -8.13421,-6.414985 -7.04311,-15.215145 7.15277,-22.332033 19.63643,-25.021055 5.47104,-0.668043 11.2914,-1.013063 18.01363,-0.524165 l 0.23901,15.02204 c -6.74108,-0.789633 -18.68374,0.114238 -16.96077,9.031769 3.69272,6.401264 10.85668,7.054855 15.12127,13.172071 4.51566,8.6396 7.22005,20.117709 -3.70193,24.793776 -3.74194,1.688245 -8.45079,2.599449 -12.1694,3.091457 -8.61092,0.210196 -12.50967,2.019161 -18.13735,2.275462 z"
-       id="path40085"
-       sodipodi:nodetypes="cccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 248.60385,51.888305 c 6.43419,-3.337628 10.81859,-4.159256 15.52089,-5.627883 2.81418,7.618105 5.02503,14.459741 9.55078,21.431584 6.16803,-1.567026 12.11215,-2.655951 16.23198,-5.646846 -1.08774,-7.558388 -3.98369,-14.251 -6.33895,-21.518593 8.10159,-1.982391 13.44123,-3.344167 18.87474,-4.234745 4.5651,20.838074 10.88876,42.271952 15.67361,62.84342 -4.71911,0.575703 -8.17165,1.731188 -13.89259,3.139388 -2.52145,-7.986452 -6.39346,-17.494905 -9.62904,-24.120043 -7.14798,2.083373 -9.73423,3.653126 -14.1489,5.789734 1.72724,7.446621 5.64003,17.287279 8.47531,22.621789 -4.64546,1.2477 -9.79012,3.08453 -16.08353,5.33439 -7.59711,-19.025181 -17.31214,-38.787826 -24.2343,-60.012195 z"
-       id="path41056"
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="cccsccscccccc"
-       id="path42027"
-       d="m 243.41136,70.588548 c -3.56292,-10.840155 -5.7872,-13.027747 -6.65342,-14.570659 -5.51604,2.602084 -13.90819,6.956569 -20.55804,12.478825 -10.96226,8.618114 -15.6086,15.393391 -10.04957,34.600986 2.12349,7.33717 6.9788,14.16745 14.81248,17.97977 11.10158,3.72036 22.05173,3.07609 32.88641,-0.95274 0,0 12.01802,-5.13834 11.69444,-5.98887 -0.3236,-0.85055 -6.54169,-13.62826 -6.54169,-13.62826 -6.67365,2.06605 -14.21325,5.60828 -22.08669,5.56662 -6.4985,-0.3878 -11.08012,-1.8007 -14.53152,-7.364595 -1.78873,-2.681412 -1.77184,-5.628951 -1.3429,-8.853973 0.32636,-3.910907 2.12315,-7.535956 5.36572,-11.440744 2.93294,-3.382195 13.29309,-7.028479 17.00478,-7.82636 z"
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 179.8254,169.92694 c 0.1384,-0.26416 12.25079,-9.85994 11.74453,-10.9238 -0.13252,-2.61419 -0.27535,-5.17511 -1.14502,-12.76788 3.29043,-3.18459 4.62472,-3.82973 9.07994,-6.18802 2.44946,0.80061 6.73575,2.84826 10.19595,5.05276 4.63524,-2.0012 9.38118,-5.66003 15.19326,-9.54117 -21.25367,-11.39154 -43.27718,-24.49352 -66.44652,-34.97339 8.56059,22.52658 14.5251,46.84818 21.37786,69.3415 z"
-       id="path42029"
-       sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 177.41604,122.57036 5.53482,13.86779 6.12636,-5.94174 -11.66118,-7.92605 z"
-       id="path43973"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 130.90964,124.59728 c -17.74788,15.94891 -24.45385,24.98786 -36.285946,39.35611 12.091866,9.61189 36.770546,30.09514 53.225486,41.68916 2.23733,-2.78634 5.72617,-8.2164 11.23588,-13.82628 -4.69849,-5.25585 -12.19913,-10.28045 -16.93871,-13.42754 8.48391,-10.63376 13.39866,-17.2574 19.62501,-25.41029 -3.51629,-4.47159 -6.46226,-6.79161 -11.29608,-9.77326 l -19.20644,23.93236 c -4.62004,-1.71656 -6.78759,-4.34989 -10.15437,-7.81375 l 20.72384,-23.58428 c -3.82002,-5.31272 -7.40749,-8.2584 -10.92867,-11.14223 z"
-       id="path44944"
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 440.68625,35.795891 c 9.3343,1.626264 9.47452,1.919103 18.66628,4.156591 -2.09525,6.956094 -5.97561,13.698783 -7.76707,23.124203 5.3103,3.793421 11.45128,5.49651 17.87708,6.482804 l 7.94059,-24.249901 c 5.69183,0.868439 11.26745,2.450792 16.55702,5.790302 -5.80283,19.497108 -13.64554,37.712794 -20.9744,58.76343 -4.04211,-1.69293 -9.77892,-3.21546 -14.52051,-5.15808 3.0546,-6.895082 3.92481,-15.312258 4.84556,-21.894294 -5.3156,-2.403436 -8.59412,-2.03505 -14.95942,-4.327704 -0.26165,8.869438 -2.76644,12.737049 -4.93823,22.766478 -7.06845,-1.789571 -11.03171,-2.893638 -16.77286,-3.58617 4.02422,-19.944443 6.37706,-35.591824 14.04596,-61.867659 z"
-       id="path45915"
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 564.10438,84.974023 c -12.44289,16.865267 -23.69819,33.687427 -34.78577,52.316227 3.98823,2.63839 6.91136,4.0379 12.77731,8.61471 5.19721,-7.09178 6.84808,-10.16233 10.59996,-15.64583 7.44374,5.13831 15.7424,8.86663 25.30199,16.94967 4.21713,-2.83585 8.12203,-7.41871 9.8787,-11.72486 -8.74392,-6.43321 -16.01131,-11.59471 -22.99422,-19.03845 1.18448,-2.72968 2.37176,-4.3095 5.68209,-6.64215 8.29884,7.55424 16.63832,13.02337 24.97006,18.89002 l 10.69472,-11.91111 C 593.28538,105.25893 580.08493,95.080285 564.10438,84.974023 z"
-       id="path46894"
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 522.65523,133.11118 c -1.74416,-2.00625 -15.39662,-7.64354 -14.98588,-8.7478 0.0397,-2.80079 0.73523,-3.9785 1.2655,-6.5875 -3.13477,-2.87703 -5.24686,-3.60275 -9.22669,-4.51372 -2.45673,1.84721 -3.45516,2.72531 -5.37767,5.38479 -4.93709,-1.80122 -8.86691,-4.42853 -15.0278,-6.55328 20.56714,-16.808748 31.04183,-30.658598 52.79501,-45.991822 -3.72981,23.246897 -4.22655,44.007752 -9.44247,67.009332 z"
-       id="path46890"
-       sodipodi:nodetypes="cccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 516.57461,92.874581 -3.19468,15.722849 -8.15706,-3.79052 11.35174,-11.932329 z"
-       id="path46892"
-       sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 617.53432,126.95264 c -4.80241,3.05557 -9.35663,7.34159 -13.13486,12.18204 4.18871,2.83505 7.56949,7.39657 10.27418,13.40271 -10.77215,9.97058 -20.19316,18.53651 -32.64557,27.7967 2.84516,2.9105 7.25353,7.41892 11.59232,12.33533 11.48186,-11.20474 20.2299,-18.41089 32.01734,-27.91613 4.91091,3.79201 8.9744,8.66925 12.79928,13.85197 5.6322,-4.83046 9.58251,-7.52921 13.92083,-12.38342 -11.50113,-15.73665 -22.1126,-26.15863 -34.82352,-39.2692 z"
-       id="path47865"
-       sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 491.64822,407.58042 c -0.21166,15.58614 -0.0889,30.43403 -0.10097,50.80461 -6.19184,0.80959 -12.0828,-1.52772 -13.2533,-6.98972 -1.62424,-14.98702 -2.90316,-17.62746 -0.0234,-38.48172 0.74916,-5.10673 5.78015,-6.41678 13.37769,-5.33317 z"
-       id="path48836"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 436.89683,704.12943 c -2.95371,-5.96781 -4.18204,-12.14746 -5.25022,-16.57758 6.51151,-0.35936 18.91391,-1.46011 24.07008,-6.72154 2.73458,-4.34843 -0.15179,-8.74657 -1.12799,-10.2147 -6.14169,-5.95309 -11.92267,-5.37121 -16.62631,-6.9448 -13.01222,-8.73628 -10.05761,-18.96423 3.43982,-26.05701 5.20904,-1.80127 12.35804,-4.1532 19.03319,-5.08584 l 5.23852,11.64915 c -13.69008,1.23136 -23.06266,10.62806 -1.45016,17.62521 13.11303,7.16595 18.71356,17.46868 4.95348,33.37137 -6.93782,5.61008 -26.75393,8.35342 -32.28041,8.95574 z"
-       id="path6152"
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:4.00000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 252.62754,407.45369 c 4.7142,0.40113 4.69871,6.13494 4.74677,12.42687 0.0404,5.38056 0.0613,6.3764 0.0992,13.18667 0.0277,4.97699 0.0472,8.32408 0.083,12.74038 0.0691,8.51339 -1.04353,11.55074 -4.26495,11.17732 -3.1231,-0.37118 -4.56983,-4.39166 -4.63678,-11.90224 -0.0363,-4.07362 -0.033,-6.87279 -0.0813,-12.55676 -0.0498,-5.85367 -0.0362,-8.34379 -0.0901,-13.3992 -0.0556,-9.08147 0.88666,-12.08919 4.14412,-11.67304 z"
-       id="path8102"
-       sodipodi:nodetypes="cssscsscc"
-       inkscape:export-filename="/home/nh/logo_fsr_neu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:connector-curvature="0" />
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="800px" viewBox="0 0 1200 800" enable-background="new 0 0 1200 800" xml:space="preserve">
+<g>
+	<path fill="#B1E11C" d="M538.58,373.302c0-3,1.6-5,4.8-5h21c3,0,4.49,2.2,4.49,5v17.729c0,3-1.69,4.6-4.49,4.6h-21
+		c-2.8,0-4.8-1.8-4.8-4.6V373.302z M539.59,406.802h28V513h-28V406.802z"/>
+	<path fill="#B1E11C" d="M587.998,397.442c0-23.89,16.454-31.22,31.799-30.84c0,0,51.54,1.44,64.409,3.2v23.149h-57.809
+		c-10.399,0-10.399,5.8-10.399,11.201v22.839l59.108,2.11v23.02l-59.108,1.89V513h-28V397.442z"/>
+	<path fill="#B1E11C" d="M699.715,403.201c0-28.999,17.199-37.469,39.6-37.799c21.05-0.44,45.039,2.37,56.599,5.79v22.009
+		c-12.8-1.13-41.639-2-48.899-2c-12.239-0.27-19.3,0.58-19.3,14.201v7.149c0,11.6,4.44,14.1,15.78,14.1h23.119
+		c28.69,0,34.61,22.62,34.61,38.8v9.75c0,33.238-20.71,39.398-40.51,39.398c-24.979,0-41.35-1.529-56.489-5.99v-22.009
+		c8,0.8,32.39,2.2,50.989,2.2c8.42,0,18.01-1.391,18.01-12.61v-7.88c0-8.32-2.52-13.66-13.21-13.66h-22.499
+		c-35.3,0-37.8-26.069-37.8-38.799V403.201z"/>
+	<path fill="#B1E11C" d="M818.035,366.602h64.049c22.85,0,39.85,10.69,39.85,45.65c0,36.239-15.18,40.539-23.311,43.1L926.343,513
+		h-31.509l-24.2-55.398l-24.6-2.801V513h-27.999V366.602z M879.334,432.801c9.75,0,14.399-2.859,14.399-20.549
+		c0-16.63-5.6-20.75-14.399-20.75h-33.189v41.299H879.334z"/>
+</g>
+<g>
+	<path fill="#999999" d="M658.523,543.892c0-4.777,3.29-6.243,6.359-6.167c0,0,10.306,0.288,12.879,0.641v4.629h-11.56
+		c-2.08,0-2.08,1.16-2.08,2.239v4.567l11.82,0.422v4.604l-11.82,0.378V567h-5.599V543.892z"/>
+	<path fill="#999999" d="M678.486,559.587c0-3.089,1.67-5.824,6.222-5.824c0,0,6.239,0.039,6.239,0c0,0,0.039-1.32,0-1.36
+		c0-2.264-1.061-2.619-2.84-2.619c-1.846,0-7.173,0.332-8.918,0.458v-3.458c2.795-1.086,5.717-1.401,9.676-1.42
+		c4.573-0.018,7.681,1.563,7.681,6.819V567h-4.421l-1.178-2.34c-0.234,0.462-3.216,2.646-6.459,2.58
+		c-4.086-0.11-6.002-2.892-6.002-5.653V559.587z M686.072,562.74c2.341,0,4.875-1.644,4.875-1.644v-3.893l-5.14,0.397
+		c-1.478,0.138-1.722,1.231-1.722,2.159v1.032C684.086,562.559,685.042,562.74,686.072,562.74z"/>
+	<path fill="#999999" d="M706.558,545.563c2.079,0,6.274,0.124,9.778,1.26v3.479c0,0-3.821-0.24-7.381-0.24
+		c-2.576,0-3.797,0.154-3.797,6.415c0,5.438,0.918,6.224,3.797,6.224c3.68,0,7.66-0.374,7.66-0.374v3.515
+		c-3.107,1.58-6.738,1.318-10.058,1.358c-3.96,0-6.999-2.07-6.999-10.839C699.559,547.611,702.479,545.563,706.558,545.563z"/>
+	<path fill="#999999" d="M719.631,535.689h5.576v12.334c1.758-1.268,3.521-2.62,6.762-2.62c4.943,0,6.338,3.412,6.338,7.459V567
+		h-5.599v-14.226c0-2.111-0.926-2.871-2.345-2.871c-2.254,0-3.484,0.579-5.134,1.839V567h-5.599V535.689z"/>
+	<path fill="#999999" d="M741.006,551.282c0-3.279,1.4-5.719,5.52-5.719c4.081,0,9.7,0.132,11.34,1.08v3.533h-9.625
+		c-1.438,0-1.635,0.45-1.635,1.458v0.96c0,1.342,0.705,1.378,1.635,1.378h5.044c4.052,0,5.639,2.401,5.639,5.488v2.18
+		c0,4.359-2.64,5.56-5.198,5.56c-4.027,0-10.363-0.183-11.839-1.156v-3.497h10.034c0.374,0,1.404-0.046,1.404-1.346v-0.992
+		c0-0.894-0.26-1.386-1.404-1.386h-4.955c-3.76,0-5.959-1.582-5.959-5.701V551.282z"/>
+	<path fill="#999999" d="M768.637,545.563c2.08,0,6.275,0.124,9.778,1.26v3.479c0,0-3.821-0.24-7.381-0.24
+		c-2.575,0-3.798,0.154-3.798,6.415c0,5.438,0.918,6.224,3.798,6.224c3.68,0,7.661-0.374,7.661-0.374v3.515
+		c-3.107,1.58-6.739,1.318-10.059,1.358c-3.959,0-6.999-2.07-6.999-10.839C761.638,547.611,764.557,545.563,768.637,545.563z"/>
+	<path fill="#999999" d="M781.709,535.689h5.578v12.334c1.758-1.268,3.521-2.62,6.76-2.62c4.943,0,6.34,3.412,6.34,7.459V567h-5.6
+		v-14.226c0-2.111-0.926-2.871-2.346-2.871c-2.254,0-3.482,0.579-5.133,1.839V567h-5.6V535.689z"/>
+	<path fill="#999999" d="M803.084,559.587c0-3.089,1.67-5.824,6.222-5.824c0,0,6.239,0.039,6.239,0c0,0,0.039-1.32,0-1.36
+		c0-2.264-1.061-2.619-2.84-2.619c-1.846,0-7.173,0.332-8.918,0.458v-3.458c2.795-1.086,5.717-1.401,9.676-1.42
+		c4.573-0.018,7.681,1.563,7.681,6.819V567h-4.421l-1.178-2.34c-0.234,0.462-3.216,2.646-6.459,2.58
+		c-4.086-0.11-6.002-2.892-6.002-5.653V559.587z M810.67,562.74c2.341,0,4.875-1.644,4.875-1.644v-3.893l-5.14,0.397
+		c-1.478,0.138-1.722,1.231-1.722,2.159v1.032C808.684,562.559,809.64,562.74,810.67,562.74z"/>
+	<path fill="#999999" d="M823.243,546.443l3.329-0.68v-3.959c0-3.634,1.462-6.239,6.262-6.239c1.959,0,3.617,0.25,5.356,0.96v3.323
+		c-0.04,0-3.819-0.04-3.819-0.04c-2.252-0.04-2.199,1.088-2.199,3.315v2.64h4.818v4.279h-4.818V567h-5.6v-16.957h-3.329V546.443z"/>
+	<path fill="#999999" d="M839.363,546.884l3.431-1.16l0.94-5.919h4.658v5.919h4.748v4.279h-4.748v8.519
+		c0,3.127,0.723,3.795,1.818,4.203c0,0,2.399,0.84,2.68,0.84v3.439h-4.883c-3.146,0-5.214-1.964-5.214-7.603v-9.398h-3.431V546.884z
+		"/>
+	<path fill="#999999" d="M855.205,551.282c0-3.279,1.399-5.719,5.519-5.719c4.081,0,9.7,0.132,11.341,1.08v3.533h-9.625
+		c-1.438,0-1.636,0.45-1.636,1.458v0.96c0,1.342,0.706,1.378,1.636,1.378h5.043c4.052,0,5.639,2.401,5.639,5.488v2.18
+		c0,4.359-2.639,5.56-5.198,5.56c-4.027,0-10.362-0.183-11.839-1.156v-3.497h10.035c0.373,0,1.403-0.046,1.403-1.346v-0.992
+		c0-0.894-0.26-1.386-1.403-1.386h-4.955c-3.76,0-5.959-1.582-5.959-5.701V551.282z"/>
+	<path fill="#999999" d="M876.148,545.764h4.719l0.881,2.68c1.471-1.422,3.451-2.897,6.092-2.897c0.918,0,1.799,0.036,2.366,0.254
+		v5.405c-0.567-0.055-1.866-0.108-3.069-0.108c-2.32,0-4.004,0.378-5.389,2.363V567h-5.6V545.764z"/>
+	<path fill="#999999" d="M892.204,559.587c0-3.089,1.67-5.824,6.222-5.824c0,0,6.238,0.039,6.238,0c0,0,0.04-1.32,0-1.36
+		c0-2.264-1.06-2.619-2.84-2.619c-1.846,0-7.172,0.332-8.918,0.458v-3.458c2.795-1.086,5.717-1.401,9.676-1.42
+		c4.574-0.018,7.682,1.563,7.682,6.819V567h-4.422l-1.178-2.34c-0.234,0.462-3.215,2.646-6.459,2.58
+		c-4.085-0.11-6.001-2.892-6.001-5.653V559.587z M899.789,562.74c2.342,0,4.875-1.644,4.875-1.644v-3.893l-5.139,0.397
+		c-1.479,0.138-1.723,1.231-1.723,2.159v1.032C897.803,562.559,898.76,562.74,899.789,562.74z"/>
+	<path fill="#999999" d="M912.362,546.884l3.431-1.16l0.94-5.919h4.659v5.919h4.747v4.279h-4.747v8.519
+		c0,3.127,0.723,3.795,1.818,4.203c0,0,2.398,0.84,2.679,0.84v3.439h-4.883c-3.146,0-5.214-1.964-5.214-7.603v-9.398h-3.431V546.884
+		z"/>
+	<path fill="#999999" d="M740.871,585.725h5.6V615h-5.6V585.725z"/>
+	<path fill="#999999" d="M750.068,593.764h4.5l1.1,2.26c1.824-1.313,3.5-2.62,6.738-2.62c4.943,0,6.34,3.412,6.34,7.459V615h-5.6
+		v-14.226c0-2.111-0.943-2.871-2.346-2.871c-2.254,0-3.482,0.579-5.133,1.839V615h-5.6V593.764z"/>
+	<path fill="#999999" d="M770.843,594.443l3.329-0.68v-3.959c0-3.634,1.462-6.239,6.262-6.239c1.959,0,3.617,0.25,5.356,0.96v3.323
+		c-0.04,0-3.819-0.04-3.819-0.04c-2.252-0.04-2.199,1.088-2.199,3.315v2.64h4.818v4.279h-4.818V615h-5.6v-16.957h-3.329V594.443z"/>
+	<path fill="#999999" d="M796.766,593.563c7.313,0,9.688,2.68,9.688,11.118c0,7.879-2.266,10.519-9.688,10.519
+		c-7.336,0-9.689-2.92-9.689-10.519C787.076,596.003,789.586,593.563,796.766,593.563z M796.766,610.701
+		c3.152,0,4.089-0.429,4.089-6.02c0-5.949-0.752-6.619-4.089-6.619c-3.314,0-4.09,0.674-4.09,6.619
+		C792.676,610.177,793.789,610.701,796.766,610.701z"/>
+	<path fill="#999999" d="M809.789,593.764h4.719l0.88,2.68c1.472-1.422,3.451-2.897,6.093-2.897c0.918,0,1.798,0.036,2.365,0.254
+		v5.405c-0.567-0.055-1.865-0.108-3.068-0.108c-2.32,0-4.004,0.378-5.39,2.363V615h-5.599V593.764z"/>
+	<path fill="#999999" d="M826.469,593.764h4.499l1.1,2.296c1.89-1.356,3.409-2.602,6.612-2.602c2.71,0,4.63,1.027,5.506,2.745
+		c1.903-1.39,4.339-2.745,7.635-2.745c4.691,0,6.339,3.177,6.339,7.477V615h-5.599v-14.153c0-1.986-0.926-2.89-2.346-2.89
+		c-2.148,0-3.704,0.41-5.199,1.668c0,0.176,0.021,1.075,0.021,1.273V615h-5.6v-14.153c0-1.986-0.943-2.89-2.363-2.89
+		c-2.199,0-3.357,0.562-5.007,1.821V615h-5.599V593.764z"/>
+	<path fill="#999999" d="M860.844,607.587c0-3.089,1.67-5.824,6.222-5.824c0,0,6.239,0.039,6.239,0c0,0,0.039-1.32,0-1.36
+		c0-2.264-1.061-2.619-2.84-2.619c-1.846,0-7.173,0.332-8.918,0.458v-3.458c2.795-1.086,5.717-1.401,9.676-1.42
+		c4.573-0.018,7.681,1.563,7.681,6.819V615h-4.421l-1.178-2.34c-0.234,0.462-3.216,2.646-6.459,2.58
+		c-4.086-0.11-6.002-2.892-6.002-5.653V607.587z M868.43,610.74c2.341,0,4.875-1.644,4.875-1.644v-3.893l-5.14,0.397
+		c-1.478,0.138-1.722,1.231-1.722,2.159v1.032C866.443,610.559,867.399,610.74,868.43,610.74z"/>
+	<path fill="#999999" d="M881.002,594.884l3.432-1.16l0.939-5.919h4.66v5.919h4.746v4.279h-4.746v8.519
+		c0,3.127,0.722,3.795,1.817,4.203c0,0,2.399,0.84,2.679,0.84v3.439h-4.883c-3.145,0-5.213-1.964-5.213-7.603v-9.398h-3.432V594.884
+		z"/>
+	<path fill="#999999" d="M897.156,587.064c0-0.6,0.32-1,0.96-1h4.199c0.601,0,0.897,0.44,0.897,1v3.546c0,0.6-0.338,0.92-0.897,0.92
+		h-4.199c-0.56,0-0.96-0.36-0.96-0.92V587.064z M897.358,593.764h5.599V615h-5.599V593.764z"/>
+	<path fill="#999999" d="M906.548,583.726h5.599v17.157h1.16l6.029-7.119h7.089l-7.965,9.259L926.425,615h-6.649l-6.469-9.838h-1.16
+		V615h-5.599V583.726z"/>
+</g>
+<path fill="#B1E11C" d="M279,574.196c18-17.196,72,0,108-45s54-108,36-162c-18-54-36-117,18-171s99-81,144-45s36,99,9,135
+	s-81,63-108,99c-27,36-36,81-9,126s99,35.196,126,54s-36,18-135,18S261,591.393,279,574.196z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>
