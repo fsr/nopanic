@@ -56,15 +56,19 @@ Sitzung: immer montags 18:30 Uhr \\
 E-Mail: fsr@ifsr.de \\
 Web: www.ifsr.de \link{https://www.ifsr.de/}
 
+\definecolor{fsrbggray}{rgb}{0.94, 0.94, 0.94}
 \newcommand{\fsrler}[5]{% filename, vorname, nachname, username, studiengang
-\fbox{\begin{minipage}{.25\linewidth}
-    \centering\vspace{.8em}
-    \includegraphics[width=.8\linewidth]{img/fsr/#1}\\[.6em]
-    {\Large #2}\\[.2em]
-    {\large#3}\\[.5em]
-    \textit{\small #5}\\
-    \texttt{\small #4@ifsr.de}\\[-.1em]\ 
-\end{minipage}}\hspace{3em}%
+\colorbox{fsrbggray}{%
+    \begin{minipage}{.25\linewidth}%
+        \centering\vspace{.8em}
+        \includegraphics[width=.8\linewidth]{img/fsr/#1}\\[.6em]
+        {\Large #2}\\[.2em]
+        {\large#3}\\[.5em]
+        \textit{\small #5}\\
+        \texttt{\small #4@ifsr.de}\\[-.1em]\ 
+    \end{minipage}%
+}%
+\hspace{3em}%
 }
 
 \fsrler{anita.jpg}{Anita}{Grützner}{anita}{Diplom INF 7. Sem.}
@@ -73,7 +77,7 @@ Web: www.ifsr.de \link{https://www.ifsr.de/}
 
 \fsrler{franz.jpg}{Franz}{Schumann}{franz}{Bachelor MINF 5. Sem.} % -Wilhelm macht Dinge kaputt, sorry :D
 \fsrler{ian.jpg}{Ian}{List}{ian}{Bachelor INF 6. Sem.}
-\fsrler{jonas.jpg}{Jonas}{Wielicki}{jonas}{Bachelor INF 7. Sem.}\\[1em]
+\fsrler{jonas.jpg}{Jonas}{Wielicki}{jonas}{Master INF 1. Sem.}\\[1em]
 
 \fsrler{julius.jpg}{Julius}{Gonsior}{julius}{Diplom INF 6. Sem.}
 \fsrler{katja.jpg}{Katja}{Linnemann}{linnemann}{Diplom INF 5. Sem.}
@@ -87,7 +91,7 @@ Web: www.ifsr.de \link{https://www.ifsr.de/}
 \fsrler{sascha.jpg}{Sascha}{Peukert}{sascha}{Diplom INF 8. Sem.}
 \fsrler{sebastian.jpg}{Sebastian}{Mielke}{mielke}{Master INF 1. Sem.}\\[1em]
 
-\fsrler{schrader.jpg}{Sebastian}{Schrader}{schrader}{Diplom INF 11. Sem.}
+\fsrler{schrader.jpg}{Sebastian}{Schrader}{schrader}{Diplom INF 8. Sem.}
 \fsrler{simon.jpg}{Simon}{Hanisch}{simon}{Master INF 1. Sem.}
 \fsrler{questionmark.png}{Du}{vielleicht?}{dein\_name}{Erstes Semester}\\
 
