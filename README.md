@@ -1,4 +1,4 @@
-![image](http://i.imgur.com/zba1dc5.png)
+![image](http://i.imgur.com/gDghyRv.png)
 
 [![Gitter chat](http://img.shields.io/badge/gitter-fsr%2Fnopanic-brightgreen.svg)](https://gitter.im/fsr/nopanic)
 [![GitHub Issues](http://img.shields.io/github/issues/fsr/nopanic.svg)](https://github.com/fsr/nopanic/issues)
@@ -15,8 +15,7 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
   * [PT Sans](http://www.fontsquirrel.com/fonts/PT-Sans): http://www.paratype.com/public/ (für Debian / Ubuntu auch im Paket `texlive-fonts-extra` enthalten)
   * [Exo](http://www.fontsquirrel.com/fonts/exo)
 3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.: 
-  `lualatex -synctex=1 -interaction=nonstopmode "nopanic".tex`  
-  oder `xelatex nopanic.tex`
+  `lualatex nopanic.tex` oder `xelatex nopanic.tex`
 4. Wenn man eine komprimierte Variante erstellen möchte:  
   `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=nopanic_compressed.pdf nopanic.pdf`
 
