@@ -17,6 +17,7 @@
 \newcounter{linkcounter}
 \newcommand\linklist{}
 \makeatletter
+\def\@breaklinklistat{26}
 \newcommand{\link}[1]{%
     \edef\tmptoken{\detokenize{#1}}%
     \@ifundefined{nopanic@link@\tmptoken}{%
@@ -25,7 +26,12 @@
         \expandafter\global\expandafter\edef\csname nopanic@link@\tmptoken\endcsname{\arabic{linkcounter}}%
         %
         % Standard print output:
-        \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}\\}%
+        \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}}%
+        \ifx\@breaklinklistat\@linknumber
+            \g@addto@macro\linklist{\\}%
+        \else
+            \g@addto@macro\linklist{\\*}%
+        \fi
         %
         % Link system output:
         % Copypasting the output of the following lines into a text file, then run and execute the result of:
