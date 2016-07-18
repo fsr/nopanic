@@ -36,3 +36,4 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 - [2012](http://users.ifsr.de/~koeltzsch/nopanic/nopanic2012.pdf)
 - [2013](http://users.ifsr.de/~koeltzsch/nopanic/nopanic2013.pdf)
 - [2014](https://github.com/fsr/nopanic/releases/tag/v2014)
+- [2015](https://github.com/fsr/nopanic/releases/tag/v2015)
