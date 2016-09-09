@@ -4,7 +4,17 @@
 \parbox[b][\paperheight]{\paperwidth}{%
 \vfill
 \centering
-\includegraphics[width=.95\dimen107,height=.95\dimen108,keepaspectratio]{img/campusplan_highlighted.pdf}%
+\includegraphics[width=\dimen107,height=\dimen108,keepaspectratio,trim=0 0 \dimen107 0,clip]{img/campusplan_highlighted.pdf}%
+\vfill
+}}}
+\mbox{}
+\newpage
+\thispagestyle{empty} %keine Seitenzahl
+\AddToShipoutPicture*{\put(0,0){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\dimen107,height=\dimen108,keepaspectratio,trim=\dimen107 0 0 0,clip]{img/campusplan_highlighted.pdf}%
 \vfill
 }}}
 \mbox{}
