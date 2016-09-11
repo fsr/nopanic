@@ -78,6 +78,40 @@ Bist du durchgefallen, hast du die Möglichkeit, die Prüfung innerhalb von zwei
 Genauere Informationen zu dieser Thematik findest du stets in der Prüfungs- bzw. der Studienordnung, die du dir unbedingt mal angeschaut haben solltest.
 Eine erste Matheprüfung erwartet dich übrigens bereits im Dezember.
 
+\begin{figure}
+	\begin{tikzpicture}
+		\draw (0,0) rectangle (4,-5);
+		\draw (0,0) [fill=black] rectangle (4, -.5);
+		\node at (2,0) [below] {\textcolor{white}{Die meisten Module:}};
+		\draw (0,-.5) [fill=gray!40] rectangle (4,-1);
+		\node at (2,-.5) [below] {bspw. AuD};
+		\draw (0,-.5) -- (4,-.5);
+		\node (v1) [draw] at (2,-1.6) {Vorlesung};
+		\node (u1) [draw] at (2,-2.7) {Übung};
+		\draw (0,-3.5) -- (4,-3.5);
+		\node (p1) [draw] at (2,-4.3) {Prüfung};
+		
+		\draw (5,0) rectangle (12, -5);
+		\draw (5,0) [fill=black] rectangle (12, -.5);
+		\node at (8.5,0) [below] {\textcolor{white}{Spezialfall Mathe im 1. Semester:}};
+		\draw (5,-.5) -- (12,-.5);
+		\node (pvl) [rectangle,draw,font=\scriptsize] at (8.5,-3.3) [above]{Prüfungsvorleistung};
+		\draw (8.5,-.5) -- (pvl);
+		\draw (5,-.5) [fill=gray!40] rectangle (8.5,-1);
+		\node at (6.75,-.5) [below] {LAG};
+		\draw (8.5,-.5) [fill=gray!40] rectangle (12,-1);
+		\node at (10.25,-.5) [below] {DIS};
+		\draw (5,-1) -- (12, -1);
+		\node (v2) [draw] at (6.6,-1.6) {Vorlesung};
+		\node (u2) [draw] at (6.1,-2.7) {Übung};
+		\node (v3) [draw] at (10.1,-1.6) {Vorlesung};
+		\node (u3) [draw] at (10.9,-2.7) {Übung};
+		\draw (5,-3.3) -- (12,-3.3);
+		\node (p2) [draw] at (7.35,-4) {\glqq{}Nikolausprüfung\grqq{}};
+		\node (p3) [draw] at (10.7,-4.4) {Prüfung};
+		\draw[->,thick] (pvl) -- (p3);
+	\end{tikzpicture}
+\end{figure}
 
 \minisec{Leistungsnachweis}
 
