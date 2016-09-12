@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="857"
+     inkscape:window-height="877"
      id="namedview19247"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="202.67885"
-     inkscape:cy="695.03139"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="501.48941"
+     inkscape:cy="70.620175"
      inkscape:window-x="0"
-     inkscape:window-y="43"
+     inkscape:window-y="803"
      inkscape:window-maximized="0"
      inkscape:current-layer="surface60878" />
   <defs
@@ -14749,6 +14749,15 @@
   <g
      id="surface60878"
      transform="translate(0,-246.6142)">
+    <rect
+       style="display:inline;opacity:0.48430493;fill:#ffd807;fill-opacity:1;stroke:none"
+       id="rect12454-8"
+       width="12.70493"
+       height="136.9192"
+       x="808.54559"
+       y="-685.75549"
+       ry="0"
+       transform="matrix(0,1,-1,0,0,0)" />
     <rect
        style="display:inline;opacity:0.48430493;fill:#ffd807;fill-opacity:1;stroke:none"
        id="rect12454"
@@ -63981,15 +63990,6 @@
        height="97.599998"
        x="-284.89423"
        y="582.21545" />
-    <rect
-       style="display:inline;opacity:0.48430493;fill:#ffd807;fill-opacity:1;stroke:none"
-       id="rect12454-8"
-       width="12.70493"
-       height="136.9192"
-       x="808.54559"
-       y="-685.75549"
-       ry="0"
-       transform="matrix(0,1,-1,0,0,0)" />
     <rect
        style="opacity:1;fill:#ffd807;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10;stroke-opacity:1"
        id="rect60886"
