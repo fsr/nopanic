@@ -38,3 +38,4 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 - [2014](https://github.com/fsr/nopanic/releases/tag/v2014)
 - [2015](https://github.com/fsr/nopanic/releases/tag/v2015)
 - [2016](https://github.com/fsr/nopanic/releases/tag/v2016)
+- [2017](https://github.com/fsr/nopanic/releases/tag/v2017)
