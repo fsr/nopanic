@@ -17,7 +17,8 @@
 \newcounter{linkcounter}
 \newcommand\linklist{}
 \makeatletter
-\def\@breaklinklistat{30}
+\def\@breaklinklistat{27}
+\def\@breaklinklistandat{57}
 \newcommand{\link}[1]{%
     \edef\tmptoken{\detokenize{#1}}%
     \@ifundefined{nopanic@link@\tmptoken}{%
@@ -30,7 +31,11 @@
         \ifx\@breaklinklistat\@linknumber
             \g@addto@macro\linklist{\\}%
         \else
-            \g@addto@macro\linklist{\\*}%
+            \ifx\@breaklinklistandat\@linknumber
+                \g@addto@macro\linklist{\\}%
+            \else
+                \g@addto@macro\linklist{\\*}%
+            \fi
         \fi
         %
         % Link system output:

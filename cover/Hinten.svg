@@ -14,7 +14,7 @@
    viewBox="0 0 524.40945 744.09448"
    id="svg4848"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="Hinten.svg">
   <defs
      id="defs4850" />
@@ -26,16 +26,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="-16.001938"
+     inkscape:cx="-109.75194"
      inkscape:cy="288.61528"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      width="152mm"
-     inkscape:window-width="1600"
-     inkscape:window-height="857"
-     inkscape:window-x="0"
-     inkscape:window-y="43"
+     inkscape:window-width="1274"
+     inkscape:window-height="1392"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:snap-grids="false"
@@ -65,7 +65,7 @@
      style="opacity:1"
      transform="translate(0,-14.173228)">
     <rect
-       style="opacity:1;fill:#ffcd00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#0d5f98;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5494"
        width="524.40942"
        height="744.09448"

@@ -1,4 +1,4 @@
-![image](http://i.imgur.com/gDghyRv.png)
+![image](http://i.imgur.com/F1xvalU.png)
 
 [![Gitter chat](http://img.shields.io/badge/gitter-fsr%2Fnopanic-brightgreen.svg)](https://gitter.im/fsr/nopanic)
 [![GitHub Issues](http://img.shields.io/github/issues/fsr/nopanic.svg)](https://github.com/fsr/nopanic/issues)
