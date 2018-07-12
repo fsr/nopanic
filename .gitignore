@@ -8,6 +8,8 @@ PoSo/
 *.log
 *.out
 *.toc
+nopanic.fdb_latexmk
+nopanic.fls
 alt
 nopanic.synctex.gz
 .DS_Store
