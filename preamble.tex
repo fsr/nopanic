@@ -26,6 +26,7 @@
 
 \usepackage{fontspec}
 \usepackage{polyglossia}
+\usepackage{microtype}
 \setmainlanguage{german}
 \newcommand{\glqq}{„}
 \newcommand{\grqq}{“}
@@ -44,9 +45,13 @@
 \changemenucolor{gray}{br}{named}{ese_bg_color} %border of the menukeys
 \changemenucolor{gray}{txt}{named}{ese_bg_color} %text of the menukeys
 
-\setmainfont{PT Sans}
+\setmainfont[
+  Scale=0.90,
+  BoldFeatures={Scale=1.0}
+]{Open Sans}
+
 \setkomafont{chapter}{\color{ese_bg_color}\fontspec[BoldFont={* Bold}]{Exo}\huge}
 \setkomafont{chapterentry}{\normalfont\bfseries}
 \setkomafont{minisec}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Exo}\large}
 \setkomafont{paragraph}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Exo}}
-\setkomafont{pagenumber}{\color{ifsrgray}\fontspec{PT Sans}}
+\setkomafont{pagenumber}{\color{ifsrgray}\fontspec{Open Sans}}

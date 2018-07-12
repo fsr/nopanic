@@ -12,10 +12,10 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 
 1. (La-)TeX und benötigte Pakete installieren (bspws. MiKTeX, MacTex, etc.)
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
-  * [PT Sans](http://www.fontsquirrel.com/fonts/PT-Sans): http://www.paratype.com/public/ (für Debian / Ubuntu auch im Paket `texlive-fonts-extra` enthalten)
+  * [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) (auch im Paket `texlive-fonts-extra` enthalten)
   * [Exo](http://www.fontsquirrel.com/fonts/exo)
 3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.: 
-  `lualatex nopanic.tex` oder `xelatex nopanic.tex`
+  `lualatex nopanic.tex` oder `xelatex nopanic.tex` (Hint: LuaLaTeX ist wesentlich schneller!)
 4. Wenn man eine komprimierte Variante erstellen möchte:  
   `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=nopanic_compressed.pdf nopanic.pdf`
 
