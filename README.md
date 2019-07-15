@@ -3,9 +3,9 @@
 [![Gitter chat](https://img.shields.io/badge/gitter-fsr%2Fnopanic-brightgreen.svg)](https://gitter.im/fsr/nopanic)
 [![GitHub Issues](https://img.shields.io/github/issues/fsr/nopanic.svg)](https://github.com/fsr/nopanic/issues)
 
-Hier entsteht das Heft *No Panic* (aus historischen Gründen nicht *Don't Panic*) seit 2014 erstmalig in LaTeX.
+Hier entsteht das ESE-Heft *The Manual* (auch bekannt als *Untitled* oder *No Panic* (aus historischen Gründen nicht *Don't Panic*)), seit 2014 erstmalig in LaTeX.
 
-Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https://github.com/fsr/nopanic/issues) Seite besuchen.
+Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte ein [Issue](https://github.com/fsr/nopanic/issues/new) öffnen.
 
 ## Vorgehen zum Kompilieren / Erstellen des PDFs
 
@@ -13,8 +13,7 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 1. (La-)TeX und benötigte Pakete installieren (bspws. MiKTeX, MacTex, etc.)
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
   * [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) (auch im Paket `texlive-fonts-extra` enthalten)
-  * [Exo](http://www.fontsquirrel.com/fonts/exo)
-3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.: 
+3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.:
   `lualatex nopanic.tex` oder `xelatex nopanic.tex` (Hint: LuaLaTeX ist wesentlich schneller!)
 4. Wenn man eine komprimierte Variante erstellen möchte:  
   `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=nopanic_compressed.pdf nopanic.pdf`
@@ -39,3 +38,4 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte die [Issues](https
 - [2015](https://github.com/fsr/nopanic/releases/tag/v2015)
 - [2016](https://github.com/fsr/nopanic/releases/tag/v2016)
 - [2017](https://github.com/fsr/nopanic/releases/tag/v2017)
+- [2017](https://github.com/fsr/nopanic/releases/tag/v2018)
