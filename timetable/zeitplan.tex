@@ -1,0 +1,87 @@
+\documentclass[a5paper,7pt]{scrreprt}
+
+% \usepackage[T1]{fontenc}
+\usepackage[default]{raleway}
+
+% Definitions
+% \usepackage{lscape}
+\usepackage[margin=0.55cm,landscape]{geometry}
+% \usepackage[height=25cm]{geometry}
+\usepackage{timetable}
+\usepackage{transparent}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{pifont}
+\newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
+\begin{document}
+\thispagestyle{empty}
+% \begin{landscape}
+
+% Define the layout of your time tables
+\setslotsize{3.00cm}{0.25cm}
+\setslotcount{6}{52}
+\settopheight{2}
+\settextframe{0.8mm}
+
+% Retro
+\setframetype[t]{1}
+\seteventcornerradius{0pt}
+
+% Print timestamps into event blocks
+% \setprinttimestamps{2}
+
+% Define event types
+%background  foreground
+\defineevent{info}{0.69}{0.11}{0.20}{1.0}{1.0}{1.0}% rot
+\defineevent{spass}{0.69}{0.88}{0.11}{0.25}{0.25}{0.25}% grün
+\defineevent{abend}{0.69}{0.88}{0.11}{0.25}{0.25}{0.25}% grün
+\defineevent{fs}{0.35}{0.00}{0.50}{1.0}{1.0}{1.0}% lila
+\defineevent{extern}{0.09}{0.45}{0.56}{1.0}{1.0}{1.0}% petrol
+\defineevent{plenum}{0.96}{0.56}{0.07}{1.0}{1.0}{1.0}% orange
+\defineevent{anreise}{0.925}{0.925}{0.925}{0.25}{0.25}{0.25}% weiß
+% \defineevent{gray}{0.65}{0.65}{0.65}{1.0}{1.0}{1.0}% grau
+\defineevent{gray}{0.35}{0.35}{0.35}{1.0}{1.0}{1.0}% grau
+
+% Start the timetable
+\begin{center}
+\begin{timetable}
+  \hours{8}{15}{0}
+  \germandays{1}
+  \event 1 {0830}{1000}{Frühstück}{}{APB/E023}{}{fs}{0}
+  \event 1 {1000}{1230}{Einführungsveranstaltung und Tutorien}{}{TBA}{}{info}{0}
+  \event 1 {1230}{1330}{Mittagessen}{}{Mensa}{}{fs}{0}
+  \event 1 {1330}{1530}{Vorstellung der Lehrenden}{}{APB/E023}{}{info}{0}
+  \event 1 {1530}{1800}{Bunter Nachmittag}{}{APB Foyer}{}{spass}{0}
+  \event 1 {1800}{2100}{Kennenlern-spieleabend}{}{APB Foyer}{}{spass}{0}
+
+  \event 2 {0900}{1000}{Frühstück}{}{APB/E023}{}{fs}{0}
+  \event 2 {1000}{1200}{Vorträge zum Studium}{}{APB/E023}{}{info}{0}
+  \event 2 {1200}{1300}{Mittagessen}{}{Mensa}{}{fs}{0}
+    \event 2 {1300}{1600}{Campusschnitzeljagd}{}{Start APB/E023}{}{spass}{0}
+  \event 2 {1700}{1900}{Vorglühen}{}{Countdown}{}{spass}{0}
+  \event 2 {1900}{2100}{Clubwanderung}{}{Countdown}{}{spass}{0}
+
+  \event 3 {0900}{1700}{Wander-\\ung}{}{siehe Website}{}{spass}{1}
+  \event 3 {0900}{1300}{Frühstück}{}{APB/E023}{}{fs}{2}
+  \event 3 {1300}{1700}{NERD101}{}{APB/E023}{0}{spass}{2}
+  \event 3 {1900}{2100}{ascii Abend}{}{ascii}{}{spass}{0}
+
+  \event 4 {0900}{1200}{Frühstück}{}{APB/E023}{}{fs}{2}
+  \event 4 {0900}{1200}{Einschrei-\\bung}{}{APB/E023}{}{info}{1}
+  \event 4 {1200}{1300}{Mittagessen}{}{Mensa}{}{fs}{0}
+  \event 4 {1300}{1600}{Info Markt}{}{HSZ}{}{extern}{0}
+  \event 4 {1600}{1800}{Feierliche Immatrikulation}{}{HSZ/AUDI}{}{extern}{0}
+  \event 4 {2000}{2100}{Kinoabend}{}{Kino im Kasten}{}{spass}{0}
+  
+  \event 5 {0900}{1200}{Frühstück}{}{APB/E023}{}{fs}{2}
+    \event 5 {0900}{1200}{Seminar-\\gruppen-\\treffen}{}{siehe Plan}{}{info}{1}
+  \event 5 {1200}{1300}{Mittagessen}{}{Mensa}{}{fs}{0}
+  \event 5 {1400}{1700}{ESE Spiel}{}{APB/E023}{}{spass}{0}
+  \event 5 {1900}{2100}{Neustadt Kneipentour}{}{}{}{spass}{0}
+  
+  \event 6 {1300}{1600}{Stadtführung}{}{TBA}{}{fs}{0}
+\end{timetable}
+\end{center}
+% \end{landscape}
+\end{document}
