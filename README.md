@@ -10,7 +10,8 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte ein [Issue](https:
 ## Vorgehen zum Kompilieren / Erstellen des PDFs
 
 
-1. (La-)TeX und benötigte Pakete installieren (bspws. MiKTeX, MacTex, etc.)
+1. (La-)TeX und benötigte Pakete installieren (bspws. MiKTeX, MacTex, etc.):
+  * [awesomebox](https://ctan.org/pkg/awesomebox) (unter macOS in der Standard-TeX Installation enthalten. Alternativ kann man einfach die Datei `awesomebox.sty` im Projekt-Ordner hinterlegen.)
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
   * [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) (auch im Paket `texlive-fonts-extra` enthalten)
 3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.:
