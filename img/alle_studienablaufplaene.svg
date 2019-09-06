@@ -2138,9 +2138,9 @@
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="0.39636405"
-     inkscape:cx="1120.2724"
-     inkscape:cy="18.620537"
+     inkscape:zoom="17.937389"
+     inkscape:cx="603.50766"
+     inkscape:cy="14.595711"
      inkscape:window-x="-9"
      inkscape:window-y="41"
      inkscape:window-maximized="1"
@@ -2154,8 +2154,8 @@
      inkscape:groupmode="layer"
      inkscape:label="dinf"
      transform="matrix(1.25,0,0,-1.25,-96.749148,2967.7906)"><g
-       id="g11032"
-       transform="matrix(1.1116192,0,0,1.1116192,777.16428,1504.6364)"><text
+   id="g11032"
+   transform="matrix(1.1116192,0,0,1.1116192,777.16428,1504.6364)"><text
    y="-317.76041"
    x="776.3056"
    id="text12"
@@ -2164,6 +2164,7 @@
      id="tspan14"
      y="-317.76041"
      x="776.3056">7</tspan></text>
+
 
 
 <path
@@ -2199,6 +2200,7 @@
      style="font-size:9.96000004px;line-height:1.25">Modul-Nr. </tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path38"
@@ -2230,6 +2232,7 @@
      y="-762.00043"
      x="188.90562 198.26802 204.38347 210.4989 216.61435 219.37326 225.48871 231.12607 240.48846 246.14575"
      style="font-size:9.96000004px;line-height:1.25">Modulname </tspan></text>
+
 
 
 <path
@@ -2265,6 +2268,7 @@
      style="font-size:9.96000004px;line-height:1.25">1.</tspan></text>
 
 
+
 <text
    y="-762.00043"
    x="344.30081"
@@ -2276,6 +2280,7 @@
      y="-762.00043"
      x="344.30081 350.9043 356.54166 365.90405 368.7825"
      style="font-size:9.96000004px;line-height:1.25">Sem. </tspan></text>
+
 
 
 <path
@@ -2311,6 +2316,7 @@
      style="font-size:9.96000004px;line-height:1.25">2.</tspan></text>
 
 
+
 <text
    y="-762.00043"
    x="414.02081"
@@ -2322,6 +2328,7 @@
      y="-762.00043"
      x="414.02081 420.6243 426.26166 435.62405 438.5025"
      style="font-size:9.96000004px;line-height:1.25">Sem. </tspan></text>
+
 
 
 <path
@@ -2357,6 +2364,7 @@
      style="font-size:9.96000004px;line-height:1.25">3.</tspan></text>
 
 
+
 <text
    y="-762.00043"
    x="483.62082"
@@ -2368,6 +2376,7 @@
      y="-762.00043"
      x="483.62082 490.2243 495.86166 505.22406 508.10251"
      style="font-size:9.96000004px;line-height:1.25">Sem. </tspan></text>
+
 
 
 <path
@@ -2403,6 +2412,7 @@
      style="font-size:9.96000004px;line-height:1.25">4.</tspan></text>
 
 
+
 <text
    y="-762.00043"
    x="553.22083"
@@ -2414,6 +2424,7 @@
      y="-762.00043"
      x="553.22083 559.82428 565.46167 574.82404 577.70251"
      style="font-size:9.96000004px;line-height:1.25">Sem. </tspan></text>
+
 
 
 <path
@@ -2449,6 +2460,7 @@
      style="font-size:9.96000004px;line-height:1.25">5. Sem. </tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path138"
@@ -2476,6 +2488,7 @@
      y="-765.84039"
      x="681.50562 687.02344 689.78241 692.54132 699.26428 704.78217 714.14453 717.02301"
      style="font-size:9.96000004px;line-height:1.25">6. Sem. </tspan></text>
+
 
 
 <path
@@ -2509,6 +2522,7 @@
      y="-762.00043"
      x="755.18561 760.70349 766.82886"
      style="font-size:9.96000004px;line-height:1.25">LP </tspan></text>
+
 
 
 <path
@@ -2744,6 +2758,7 @@
      style="font-size:9.96000004px;line-height:1.25">Pflichtbereich </tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path278"
@@ -2841,6 +2856,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-110 </tspan></text>
 
 
+
 <text
    y="-720.23535"
    x="124.21326"
@@ -2867,6 +2883,7 @@
      y="-707.875"
      x="330.13626 336.25171 342.36716 347.88498 354.49841 360.01627 366.13171 371.77902"
      style="font-size:9.96000004px;line-height:1.25">PVL+2PL </tspan></text>
+
 
 
 <path
@@ -2900,6 +2917,7 @@
      y="-714.00043"
      x="755.4256 760.94348 766.58081"
      style="font-size:9.96000004px;line-height:1.25">12 </tspan></text>
+
 
 
 <path
@@ -3071,6 +3089,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-120 </tspan></text>
 
 
+
 <text
    y="-692.75537"
    x="124.21326"
@@ -3109,6 +3128,7 @@
      style="font-size:9.96000004px;line-height:1.25">PVL+PL </tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path444"
@@ -3142,6 +3162,7 @@
      style="font-size:9.96000004px;line-height:1.25">12 </tspan></text>
 
 
+
 <text
    y="-686.52045"
    x="756.15021"
@@ -3153,6 +3174,7 @@
      y="-686.52045"
      x="756.15021 758.90912 764.54645 771.14996 776.78729 779.5462"
      style="font-size:9.96000004px;line-height:1.25">(6+6) </tspan></text>
+
 
 
 <path
@@ -3284,6 +3306,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-210 </tspan></text>
 
 
+
 <text
    y="-662.16089"
    x="124.21326"
@@ -3295,6 +3318,7 @@
      y="-662.16089"
      x="124.21326 130.81674 132.97807 138.61543 144.13327 147.48979 149.65111 153.00763 158.52547 167.52931 173.04715 178.56499 181.32391 186.96127 192.47911 197.99695 200.75587 207.95695 212.9967 216.35323 221.87106 227.50842 232.42867 235.78519 239.14171 244.77907 249.81883 253.17535 258.69318 262.04971 267.56754 273.08539 328.21399 333.73181 339.84726 346.45074 351.9686 359.16968 361.92859 368.04404 373.69135"
      style="font-size:9.96000004px;line-height:1.25">Algorithmen und Datenstrukturen 2V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -3328,6 +3352,7 @@
      y="-662.2804"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">5 </tspan></text>
+
 
 
 <path
@@ -3459,6 +3484,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-220 </tspan></text>
 
 
+
 <text
    y="-643.79584"
    x="124.21326"
@@ -3485,6 +3511,7 @@
      y="-631.43549"
      x="342.37711 347.89496 354.01038 359.65771"
      style="font-size:9.96000004px;line-height:1.25">2PL </tspan></text>
+
 
 
 <path
@@ -3518,6 +3545,7 @@
      y="-637.68042"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">4 </tspan></text>
+
 
 
 <path
@@ -3649,6 +3677,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-230 </tspan></text>
 
 
+
 <text
    y="-612.96088"
    x="124.20331"
@@ -3660,6 +3689,7 @@
      y="-612.96088"
      x="124.20331 130.31874 133.67526 139.1931 144.71095 148.06747 153.10722 161.99155 170.86591 173.02722 178.54506 181.90158 187.41943 193.05678 198.72403 397.92404 403.44186 409.55731 416.1608 421.67862 428.8797 431.63864 437.75406 443.4014"
      style="font-size:9.96000004px;line-height:1.25">Programmierung 2V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -3693,6 +3723,7 @@
      y="-613.08044"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">5 </tspan></text>
+
 
 
 <path
@@ -3824,6 +3855,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-240 </tspan></text>
 
 
+
 <text
    y="-592.68042"
    x="124.21326"
@@ -3835,6 +3867,7 @@
      y="-592.68042"
      x="124.21326 130.3287 135.84654 139.20306 142.55959 150.83635 155.87611 159.23262 164.75047 168.10698 173.62483 178.66458 184.18242 189.70027 195.21811 197.49895 203.01678 208.53462 210.81548 216.49268 397.93399 403.45181 409.56726 416.17075 421.68857 428.88965 431.64859 437.76401 443.41135"
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie 2V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -3868,6 +3901,7 @@
      y="-592.68042"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">5 </tspan></text>
+
 
 
 <path
@@ -3999,6 +4033,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-320 </tspan></text>
 
 
+
 <text
    y="-572.2804"
    x="124.22323"
@@ -4010,6 +4045,7 @@
      y="-572.2804"
      x="124.22323 130.33867 135.85651 139.21303 142.56955 150.84631 155.88606 159.24258 164.76042 168.11694 173.63478 178.67455 184.19238 189.71022 195.22806 197.50891 203.02675 208.54459 210.82542 216.34326 219.14203 225.25746 228.61398 234.13182 236.41266 241.93051 246.97026 250.34671 477.26538 482.78323 488.89868 491.65759 497.77304 503.43033"
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie-Projekt 4P PL </tspan></text>
+
 
 
 <path
@@ -4043,6 +4079,7 @@
      y="-572.2804"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">6 </tspan></text>
+
 
 
 <path
@@ -4174,6 +4211,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-380 </tspan></text>
 
 
+
 <text
    y="-552.00043"
    x="124.22323"
@@ -4185,6 +4223,7 @@
      y="-552.00043"
      x="124.22323 130.94623 136.46407 139.82059 143.17711 145.33842 150.85626 156.49362 161.41386 166.33411 171.49339 176.29411 179.65062 185.16847 194.1723 199.69014 202.44907 208.08643 213.60426 219.1221 221.88103 228.11598 230.2773 235.31706 240.8349 246.47226 249.82878 255.34662 260.86447 263.02579 266.54166 467.54443 473.06229 479.1777 485.78119 491.29904 498.50012 501.25903 507.37448 513.02179"
      style="font-size:9.96000004px;line-height:1.25">Betriebssysteme und Sicherheit 4V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -4218,6 +4257,7 @@
      y="-552.00043"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">7 </tspan></text>
+
 
 
 <path
@@ -4349,6 +4389,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-270 </tspan></text>
 
 
+
 <text
    y="-531.6004"
    x="124.21326"
@@ -4360,6 +4401,7 @@
      y="-531.6004"
      x="124.21326 131.41435 136.4541 139.81062 145.32846 150.84631 156.36415 161.4039 166.92175 171.9615 177.47934 182.99719 185.7561 191.39346 196.9113 202.42915 205.30759 211.91107 217.42891 222.46867 228.10603 233.62387 239.14171 242.61775 248.13559 253.65343 257.00995 261.45212 267.1293 534.37604 539.89386 546.00934 552.61279 558.13062 565.33173 568.10059 573.61841 579.85339 585.50073"
      style="font-size:9.96000004px;line-height:1.25">Datenbanken und Rechnernetze 4V+4Ü 2PL </tspan></text>
+
 
 
 <path
@@ -4393,6 +4435,7 @@
      y="-531.6004"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">9 </tspan></text>
+
 
 
 <path
@@ -4524,6 +4567,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-310 </tspan></text>
 
 
+
 <text
    y="-511.2009"
    x="124.21326"
@@ -4535,6 +4579,7 @@
      y="-511.2009"
      x="124.21326 126.97218 132.49002 135.84654 141.36438 144.7209 153.60522 158.64499 162.00151 164.16283 169.68066 175.31802 180.25819 183.01711 185.77603 191.41339 196.93123 202.44907 205.20799 211.32343 216.96078 222.47862 224.75948 230.27731 233.63383 239.15167 244.78903 250.42639 255.22711 258.58362 264.10147 269.73883 275.25665 278.61319 280.77451 286.45169 397.93399 403.45181 409.56726 416.17075 421.68857 428.88965 431.64859 437.76401 443.41135"
      style="font-size:9.96000004px;line-height:1.25">Informations- und Kodierungstheorie 2V+1Ü PL </tspan></text>
+
 
 
 <path
@@ -4568,6 +4613,7 @@
      y="-511.32043"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">4 </tspan></text>
+
 
 
 <path
@@ -4699,6 +4745,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-270 </tspan></text>
 
 
+
 <text
    y="-490.92041"
    x="124.22323"
@@ -4710,6 +4757,7 @@
      y="-490.92041"
      x="124.22323 129.74107 135.25891 138.61543 147.48979 152.52954 154.69087 160.20871 162.96762 169.08307 174.24234 179.04306 182.5191 188.03694 196.92126 202.57855 467.54443 473.06229 479.1777 485.78119 491.29904 498.50012 501.26898 507.38443 513.03174"
      style="font-size:9.96000004px;line-height:1.25">Formale Systeme 4V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -4743,6 +4791,7 @@
      y="-490.92041"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">8 </tspan></text>
+
 
 
 <path
@@ -4874,6 +4923,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-330 </tspan></text>
 
 
+
 <text
    y="-470.52042"
    x="124.21326"
@@ -4885,6 +4935,7 @@
      y="-470.52042"
      x="124.21326 129.73111 135.24895 140.76678 146.28462 149.64114 155.15898 158.63503 160.91586 165.71658 170.75635 176.39371 181.91154 184.67047 187.42938 192.94724 196.30374 201.82159 205.17812 214.06242 219.10219 222.45871 224.62003 229.65979 232.4187 238.05606 243.69344 249.21127 251.97018 257.48804 263.1254 268.64322 270.80453 276.01361 537.13495 542.65277 548.76825 555.3717 560.88953 568.09064 570.84955 576.96497 582.6123"
      style="font-size:9.96000004px;line-height:1.25">Theoretische Informatik und Logik 4V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -4918,6 +4969,7 @@
      y="-470.52042"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">8 </tspan></text>
+
 
 
 <path
@@ -5049,6 +5101,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-340 </tspan></text>
 
 
+
 <text
    y="-450.24042"
    x="124.21326"
@@ -5060,6 +5113,7 @@
      y="-450.24042"
      x="124.21326 126.97218 132.49002 135.84654 141.36438 143.64523 145.81651 147.97783 153.61519 159.13303 164.65086 168.00739 173.52522 176.28415 182.39958 187.55887 192.35959 195.83563 201.35347 210.23779 215.89507 606.85498 612.3728 618.48822 625.09174 630.60956 637.81061 640.56952 646.685 652.33228"
      style="font-size:9.96000004px;line-height:1.25">Intelligente Systeme 3V+1Ü PL </tspan></text>
+
 
 
 <path
@@ -5093,6 +5147,7 @@
      y="-450.24042"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">4 </tspan></text>
+
 
 
 <path
@@ -5224,6 +5279,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-330 </tspan></text>
 
 
+
 <text
    y="-429.84042"
    x="124.22323"
@@ -5235,6 +5291,7 @@
      y="-429.84042"
      x="124.22323 130.82671 136.34454 141.38431 146.90215 152.53951 158.05734 161.41386 166.45363 169.81015 174.8499 180.36775 182.52907 185.88559 191.40343 196.44319 199.7997 205.31755 208.70395 335.42502 340.94287 347.05832 353.66177 359.17963 366.50021 397.94397 403.46179 409.57724 416.18073 421.69855 428.89963 431.65857 437.77399 443.42133"
      style="font-size:9.96000004px;line-height:1.25">Rechnerarchitektur 2V+2Ü 2V+2Ü PL </tspan></text>
+
 
 
 <path
@@ -5270,6 +5327,7 @@
      style="font-size:9.96000004px;line-height:1.25">10 </tspan></text>
 
 
+
 <text
    y="-429.84042"
    x="756.15021"
@@ -5281,6 +5339,7 @@
      y="-429.84042"
      x="756.15021 758.90912 764.42694 771.14996 776.66779 779.5462"
      style="font-size:9.96000004px;line-height:1.25">(5+5) </tspan></text>
+
 
 
 <path
@@ -5412,6 +5471,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-420 </tspan></text>
 
 
+
 <text
    y="-411.48535"
    x="124.21326"
@@ -5450,6 +5510,7 @@
      style="font-size:9.96000004px;line-height:1.25">1PL </tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1508"
@@ -5483,6 +5544,7 @@
      style="font-size:9.96000004px;line-height:1.25">9 </tspan></text>
 
 
+
 <text
    y="-405.24042"
    x="753.38239"
@@ -5494,6 +5556,7 @@
      y="-405.24042"
      x="753.38239 756.1413 761.65912 768.26263 773.89996 776.77844"
      style="font-size:9.96000004px;line-height:1.25">(5+4) </tspan></text>
+
 
 
 <path
@@ -5625,6 +5688,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-430 </tspan></text>
 
 
+
 <text
    y="-382.55585"
    x="124.21326"
@@ -5651,6 +5715,7 @@
      y="-370.1955"
      x="625.21124 631.32666 636.85443"
      style="font-size:9.96000004px;line-height:1.25">PL </tspan></text>
+
 
 
 <path
@@ -5684,6 +5749,7 @@
      y="-376.44043"
      x="758.18561 763.70349"
      style="font-size:9.96000004px;line-height:1.25">4 </tspan></text>
+
 
 
 <path
@@ -5887,6 +5953,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-510</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text20-8"
@@ -5910,6 +5977,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text28"
@@ -5921,6 +5989,7 @@
      y="-345.36041"
      x="495.02563 498.38562"
      style="font-size:6px;line-height:1.25">1)</tspan></text>
+
 
 
 <text
@@ -5941,6 +6010,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text38"
@@ -5952,6 +6022,7 @@
      y="-345.36041"
      x="564.62567 567.98566"
      style="font-size:6px;line-height:1.25">1)</tspan></text>
+
 
 
 <path
@@ -5987,6 +6058,7 @@
      style="font-size:9.96000004px;line-height:1.25">7</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text56"
@@ -5998,6 +6070,7 @@
      y="-347.52045"
      x="753.38245 756.14136 761.65918 768.26263 773.90002 776.77844"
      style="font-size:9.96000004px;line-height:1.25">(3+4)</tspan></text>
+
 
 
 <path
@@ -6125,6 +6198,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-520</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text120-3"
@@ -6148,6 +6222,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text128"
@@ -6159,6 +6234,7 @@
      y="-316.44043"
      x="564.62567 567.98566"
      style="font-size:6px;line-height:1.25">1)</tspan></text>
+
 
 
 <path
@@ -6192,6 +6268,7 @@
      y="-318.7204"
      x="758.18567 763.70349"
      style="font-size:9.96000004px;line-height:1.25">5</tspan></text>
+
 
 
 <path
@@ -6323,6 +6400,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-910</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text208"
@@ -6334,6 +6412,7 @@
      y="-294.12042"
      x="124.21326 129.73111 135.24893 138.72498 143.5257 148.56546 154.08331 159.72067 165.23849 170.87585 175.79611 178.07697 180.23828 185.87561 188.03696 193.69421 544.33612 549.85394 555.96936 562.57288 568.0907 575.41125"
      style="font-size:9.96000004px;line-height:1.25">Forschungslinie 2V+2Ü</tspan></text>
+
 
 
 <path
@@ -6367,6 +6446,7 @@
      y="-294.12042"
      x="758.18567 763.70349"
      style="font-size:9.96000004px;line-height:1.25">5</tspan></text>
+
 
 
 <path
@@ -6498,6 +6578,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-D-920</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text288"
@@ -6521,6 +6602,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text296"
@@ -6532,6 +6614,7 @@
      y="-267.24042"
      x="634.34564 637.70569"
      style="font-size:6px;line-height:1.25">1)</tspan></text>
+
 
 
 <text
@@ -6552,6 +6635,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text306"
@@ -6563,6 +6647,7 @@
      y="-267.24042"
      x="703.94568 707.30566"
      style="font-size:6px;line-height:1.25">1)</tspan></text>
+
 
 
 <path
@@ -6598,6 +6683,7 @@
      style="font-size:9.96000004px;line-height:1.25">15</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text324-8"
@@ -6609,6 +6695,7 @@
      y="-269.52042"
      x="756.15027 758.90912 764.54651 771.15002 776.66785 779.54626"
      style="font-size:9.96000004px;line-height:1.25">(6+9)</tspan></text>
+
 
 
 <path
@@ -6740,6 +6827,7 @@
      style="font-size:9.96000004px;line-height:1.25">Wahlpflichtbereich der Basismodule: 3 von 7 Wahlpflichtmodulen zu wählen</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path390-8"
@@ -6837,6 +6925,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS1</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text436"
@@ -6848,6 +6937,7 @@
      y="-218.16087"
      x="124.22324 130.82669 136.34454 141.9819 147.49976 155.77649 160.81625 166.33411 171.85193 175.20847 180.84583 183.60474 186.36368 191.8815 195.23804 200.75586 204.1124 212.98676 218.02652 221.38303 223.54434 228.74347 606.86493 612.38275 618.49823 625.10168 630.61951 637.82062 640.57953 646.69501 652.34229"
      style="font-size:9.96000004px;line-height:1.25">Angewandte Informatik 4V+4Ü PL</tspan></text>
+
 
 
 <path
@@ -6881,6 +6971,7 @@
      y="-218.28041"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -7052,6 +7143,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS2</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text536"
@@ -7063,6 +7155,7 @@
      y="-197.88039"
      x="124.22324 130.33865 135.97601 141.49387 146.29459 149.77063 151.93195 154.09326 159.13303 164.65085 170.28821 173.04715 175.80606 181.32391 184.68042 190.31778 192.47913 194.75995 196.92126 202.43912 208.07648 213.5943 218.03647"
      style="font-size:9.96000004px;line-height:1.25">Künstliche Intelligenz</tspan></text>
+
 
 
 <text
@@ -7078,6 +7171,7 @@
      style="font-size:6px;line-height:1.25">2)</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text544"
@@ -7089,6 +7183,7 @@
      y="-197.88039"
      x="614.06659 619.58447 625.69989 632.30334 637.82123 645.14185 681.13727 686.65509 692.77057 695.52942 702.74054 705.49939 711.61487 717.26215"
      style="font-size:9.96000004px;line-height:1.25">2V+2Ü 4V/Ü PL</tspan></text>
+
 
 
 <path
@@ -7122,6 +7217,7 @@
      y="-197.88039"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -7253,6 +7349,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS3</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text624-0"
@@ -7274,6 +7371,7 @@
      y="-167.03549"
      x="608.28918 614.8927 620.41052 626.526 629.28491 636.48596 639.24493 645.36035 651.00769"
      style="font-size:9.96000004px;line-height:1.25">+4V/Ü PL</tspan></text>
+
 
 
 <path
@@ -7307,6 +7405,7 @@
      y="-173.28043"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -7438,6 +7537,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS4</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text708"
@@ -7449,6 +7549,7 @@
      y="-148.68044"
      x="124.22324 130.33865 135.37842 140.17914 143.53568 149.0535 157.93784 162.97757 166.33411 171.37387 176.89172 179.05304 182.40955 187.92737 192.96716 196.32367 201.84149 205.19803"
      style="font-size:9.96000004px;line-height:1.25">Systemarchitektur</tspan></text>
+
 
 
 <text
@@ -7464,6 +7565,7 @@
      style="font-size:6px;line-height:1.25">2)</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text716"
@@ -7475,6 +7577,7 @@
      y="-148.68044"
      x="614.06659 619.58447 625.69989 632.30334 637.82123 645.14185 681.13727 686.65509 692.77057 695.52942 702.73053 705.48944 711.60486 717.26215"
      style="font-size:9.96000004px;line-height:1.25">2V+2Ü 4V/Ü PL</tspan></text>
+
 
 
 <path
@@ -7508,6 +7611,7 @@
      y="-148.68044"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -7639,6 +7743,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS5</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text796"
@@ -7660,6 +7765,7 @@
      y="-117.83549"
      x="611.67566 617.79108 623.90649 629.42438 636.02783 642.14325 647.67108"
      style="font-size:9.96000004px;line-height:1.25">PVL+PL</tspan></text>
+
 
 
 <path
@@ -7693,6 +7799,7 @@
      y="-124.08042"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -7824,6 +7931,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS6</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text880"
@@ -7835,6 +7943,7 @@
      y="-99.480415"
      x="124.22324 129.74106 135.25891 140.77673 146.29459 149.65109 155.16895 158.64499 160.92581 165.72653 170.7663 176.40366 181.92151 184.68042 187.43933 192.95718 196.31372 201.83154 205.18808 214.07239 219.11215 222.46866 224.63 229.66974"
      style="font-size:9.96000004px;line-height:1.25">Theoretische Informatik</tspan></text>
+
 
 
 <text
@@ -7850,6 +7959,7 @@
      style="font-size:6px;line-height:1.25">2)</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text888"
@@ -7861,6 +7971,7 @@
      y="-99.480415"
      x="614.07385 619.59167 625.70709 632.31061 637.82843 645.14905 681.14447 686.66229 692.77771 695.53668 702.73773 705.4967 711.61212 717.26941"
      style="font-size:9.96000004px;line-height:1.25">4V+2Ü 2V/Ü PL</tspan></text>
+
 
 
 <path
@@ -7894,6 +8005,7 @@
      y="-99.480415"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -8025,6 +8137,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-BAS7</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text968"
@@ -8036,6 +8149,7 @@
      y="-79.080421"
      x="124.22324 131.42432 134.78082 139.82059 145.33841 150.85626 153.13712 157.93784 162.97757 168.61493 174.13278 176.89172 184.09277 189.13254 192.48907 198.0069 203.52475 208.56451 214.08234 217.43887 222.47864 225.83514 231.353 236.99036 239.15167 242.50818 248.02603 253.54385 259.06171"
      style="font-size:9.96000004px;line-height:1.25">Graphische Datenverarbeitung</tspan></text>
+
 
 
 <text
@@ -8051,6 +8165,7 @@
      style="font-size:6px;line-height:1.25">2)</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text976"
@@ -8062,6 +8177,7 @@
      y="-79.080421"
      x="614.0719 619.58972 625.7052 632.30865 637.82654 645.14709 681.14252 686.6604 692.77582 695.53479 702.73584 705.49475 711.61023 717.25751"
      style="font-size:9.96000004px;line-height:1.25">4V+2Ü 2V/Ü PL</tspan></text>
+
 
 
 <path
@@ -8095,6 +8211,7 @@
      y="-79.080421"
      x="755.42566 760.94348 766.58087"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -8246,6 +8363,7 @@
      style="font-size:9.96000004px;line-height:1.25">Summe</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1066-0"
@@ -8277,6 +8395,7 @@
      y="-58.440437"
      x="345.38565 351.02298 356.54083"
      style="font-size:9.96000004px;line-height:1.25">31</tspan></text>
+
 
 
 <path
@@ -8312,6 +8431,7 @@
      style="font-size:9.96000004px;line-height:1.25">29</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1094-7"
@@ -8343,6 +8463,7 @@
      y="-58.440437"
      x="484.70563 490.34296 495.86078"
      style="font-size:9.96000004px;line-height:1.25">30</tspan></text>
+
 
 
 <path
@@ -8378,6 +8499,7 @@
      style="font-size:9.96000004px;line-height:1.25">31</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1122-8"
@@ -8409,6 +8531,7 @@
      y="-58.440437"
      x="624.0257 629.54352 635.18085"
      style="font-size:9.96000004px;line-height:1.25">28</tspan></text>
+
 
 
 <path
@@ -8444,6 +8567,7 @@
      style="font-size:9.96000004px;line-height:1.25">31</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path1150-6"
@@ -8475,6 +8599,7 @@
      y="-58.440437"
      x="752.66565 758.18347 763.70135 769.34869"
      style="font-size:9.96000004px;line-height:1.25">180</tspan></text>
+
 
 
 <path
@@ -8766,7 +8891,7 @@
    id="path1306-5"
    style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
    d="m 786.74563,51.24042 2.16,0 0,2.16 -2.16,0 0,-2.16 z" /></g><g
-       id="g16640"><path
+   id="g16640"><path
    inkscape:connector-curvature="0"
    id="path26-6"
    style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -8785,6 +8910,7 @@
      style="font-size:9.96000004px;line-height:1.25">Modul</tspan></text>
 
 
+
 </g></g><g
    id="g40"
    transform="translate(14.501194,1898.8725)"><g
@@ -8796,6 +8922,7 @@
      id="tspan50-5"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -8811,6 +8938,7 @@
      y="0"
      x="0 7.9182 11.7528"
      style="font-size:9.96000004px;line-height:1.25">Nr.</tspan></text>
+
 
 
 </g></g><path
@@ -8832,6 +8960,7 @@
      style="font-size:9.96000004px;line-height:1.25">Modulname</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path94-6"
@@ -8851,6 +8980,7 @@
      style="font-size:9.96000004px;line-height:1.25">1. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path116"
@@ -8866,6 +8996,7 @@
      y="-2347.9124"
      x="388.18121 394.29663 397.05557 404.25665 407.01556"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -8887,6 +9018,7 @@
      style="font-size:9.96000004px;line-height:1.25">2. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path144-8"
@@ -8902,6 +9034,7 @@
      y="-2347.9124"
      x="448.54123 454.65665 457.41556 464.61667 467.37558"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -8923,6 +9056,7 @@
      style="font-size:9.96000004px;line-height:1.25">3. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path172-9"
@@ -8938,6 +9072,7 @@
      y="-2347.9124"
      x="505.18121 511.29663 514.05554 521.25665 524.01556"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -8959,6 +9094,7 @@
      style="font-size:9.96000004px;line-height:1.25">4. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path200-8"
@@ -8974,6 +9110,7 @@
      y="-2347.9124"
      x="561.94122 568.05664 570.81555 578.01666 580.77551"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -8995,6 +9132,7 @@
      style="font-size:9.96000004px;line-height:1.25">5. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path228-0"
@@ -9010,6 +9148,7 @@
      y="-2347.9124"
      x="622.06116 628.17664 630.93555 638.1366 640.89551"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -9031,6 +9170,7 @@
      style="font-size:9.96000004px;line-height:1.25">6.</tspan></text>
 
 
+
 </g></g><g
    id="g248"
    transform="translate(14.501194,1898.8725)"><g
@@ -9046,6 +9186,7 @@
      style="font-size:9.96000004px;line-height:1.25">Sem.</tspan></text>
 
 
+
 </g></g><g
    id="g268"
    transform="translate(14.501194,1898.8725)"><g
@@ -9059,6 +9200,7 @@
      y="0"
      x="0 6.1154399 8.8743601 16.075439 18.83436"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 </g></g><path
@@ -9086,6 +9228,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">LP</tspan></text>
+
 
 
 </g></g><path
@@ -9227,6 +9370,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g388"
    transform="translate(14.501194,1898.8725)"><g
@@ -9238,6 +9382,7 @@
      id="tspan398"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -9253,6 +9398,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g412"
    transform="translate(14.501194,1898.8725)"><g
@@ -9264,6 +9410,7 @@
      id="tspan422"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -9281,6 +9428,7 @@
      style="font-size:9.96000004px;line-height:1.25">110</tspan></text>
 
 
+
 </g></g><g
    id="g444"
    transform="translate(14.501194,1898.8725)"><g
@@ -9294,6 +9442,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 87.09024 92.129997 95.486519 101.00436 106.5222 115.39656 120.55584 123.91236 126.07368 131.11343 133.87236 137.22888 142.86624 146.22276 148.98167 151.7406 157.25844 160.61496 166.1328 169.48932 178.37364 183.41341 186.76991 188.93124 193.97099 199.48885"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Mathematik für Informatiker</tspan></text>
+
 
 
 </g></g><g
@@ -9311,6 +9460,7 @@
      style="font-size:9.96000004px;line-height:1.25">6/4/0</tspan></text>
 
 
+
 </g></g><g
    id="g476"
    transform="translate(14.501194,1898.8725)"><g
@@ -9322,6 +9472,7 @@
      id="tspan486"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -9337,6 +9488,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -9364,6 +9516,7 @@
      y="0"
      x="0 5.6373601"
      style="font-size:9.96000004px;line-height:1.25">15</tspan></text>
+
 
 
 </g></g><path
@@ -9497,6 +9650,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g644"
    transform="translate(14.501194,1898.8725)"><g
@@ -9508,6 +9662,7 @@
      id="tspan654"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -9523,6 +9678,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g668"
    transform="translate(14.501194,1898.8725)"><g
@@ -9534,6 +9690,7 @@
      id="tspan678"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -9551,6 +9708,7 @@
      style="font-size:9.96000004px;line-height:1.25">120</tspan></text>
 
 
+
 </g></g><g
    id="g700"
    transform="translate(14.501194,1898.8725)"><g
@@ -9564,6 +9722,7 @@
      y="0"
      x="0 9.3624001 14.40216 17.75868 23.27652 28.794359 37.66872 42.708481 46.064999 48.34584 53.146561 58.186321 63.823681 69.341522 72.219963 81.582359 87.100197 90.456718 95.974564 101.61192 107.12976 112.6476 118.28496 121.1634 124.51992 130.15729 133.51379 136.27272 139.03165 144.54948 147.90601 153.42384 156.78036 165.66467 170.70444 174.06096 176.22227 181.26204 186.77988"
      style="font-size:9.96000004px;line-height:1.25">Mathematische Methoden für Informatiker</tspan></text>
+
 
 
 </g></g><g
@@ -9581,6 +9740,7 @@
      style="font-size:9.96000004px;line-height:1.25">3/2/0 PL</tspan></text>
 
 
+
 </g></g><g
    id="g748"
    transform="translate(14.501194,1898.8725)"><g
@@ -9594,6 +9754,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">3/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -9623,6 +9784,7 @@
      style="font-size:9.96000004px;line-height:1.25">15</tspan></text>
 
 
+
 </g></g><g
    id="g818"
    transform="translate(14.501194,1898.8725)"><g
@@ -9636,6 +9798,7 @@
      y="0"
      x="0 2.75892 8.2767601 14.88024 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(9+6)</tspan></text>
+
 
 
 </g></g><path
@@ -9767,6 +9930,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-210</tspan></text>
 
 
+
 <g
    id="g900"
    transform="translate(14.501194,1898.8725)"><g
@@ -9782,6 +9946,7 @@
      style="font-size:9.96000004px;line-height:1.25">Algorithmen und Datenstrukturen</tspan></text>
 
 
+
 </g></g><g
    id="g920"
    transform="translate(14.501194,1898.8725)"><g
@@ -9795,6 +9960,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -9820,6 +9986,7 @@
      y="-2308.4324"
      x="766.5412 772.05902"
      style="font-size:9.96000004px;line-height:1.25">6</tspan></text>
+
 
 
 <path
@@ -9953,6 +10120,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1060"
    transform="translate(14.501194,1898.8725)"><g
@@ -9964,6 +10132,7 @@
      id="tspan1070"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -9979,6 +10148,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1084"
    transform="translate(14.501194,1898.8725)"><g
@@ -9990,6 +10160,7 @@
      id="tspan1094"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10007,6 +10178,7 @@
      style="font-size:9.96000004px;line-height:1.25">230</tspan></text>
 
 
+
 </g></g><g
    id="g1116"
    transform="translate(14.501194,1898.8725)"><g
@@ -10020,6 +10192,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.33588 53.256119 58.77396 62.130482 67.170242 72.209999 75.566521 77.727837 82.767601 88.285439"
      style="font-size:9.96000004px;line-height:1.25">Einführungspraktikum</tspan></text>
+
 
 
 </g></g><g
@@ -10037,6 +10210,7 @@
      style="font-size:9.96000004px;line-height:1.25">RoboLab</tspan></text>
 
 
+
 </g></g><g
    id="g1156"
    transform="translate(14.501194,1898.8725)"><g
@@ -10050,6 +10224,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">0/0/4 PL</tspan></text>
+
 
 
 </g></g><path
@@ -10075,6 +10250,7 @@
      id="tspan1232"
      y="0"
      x="0">4</tspan></text>
+
 
 
 </g></g><path
@@ -10208,6 +10384,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1312"
    transform="translate(14.501194,1898.8725)"><g
@@ -10219,6 +10396,7 @@
      id="tspan1322"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10234,6 +10412,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1336"
    transform="translate(14.501194,1898.8725)"><g
@@ -10245,6 +10424,7 @@
      id="tspan1346-1"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10262,6 +10442,7 @@
      style="font-size:9.96000004px;line-height:1.25">240</tspan></text>
 
 
+
 </g></g><g
    id="g1368"
    transform="translate(14.501194,1898.8725)"><g
@@ -10277,6 +10458,7 @@
      style="font-size:9.96000004px;line-height:1.25">Programmierung</tspan></text>
 
 
+
 </g></g><g
    id="g1396"
    transform="translate(14.501194,1898.8725)"><g
@@ -10290,6 +10472,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -10315,6 +10498,7 @@
      id="tspan1464"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -10448,6 +10632,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1544"
    transform="translate(14.501194,1898.8725)"><g
@@ -10459,6 +10644,7 @@
      id="tspan1554"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10474,6 +10660,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1568"
    transform="translate(14.501194,1898.8725)"><g
@@ -10485,6 +10672,7 @@
      id="tspan1578"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10502,6 +10690,7 @@
      style="font-size:9.96000004px;line-height:1.25">260</tspan></text>
 
 
+
 </g></g><g
    id="g1600"
    transform="translate(14.501194,1898.8725)"><g
@@ -10517,6 +10706,7 @@
      style="font-size:9.96000004px;line-height:1.25">Informations</tspan></text>
 
 
+
 </g></g><g
    id="g1612"
    transform="translate(14.501194,1898.8725)"><g
@@ -10528,6 +10718,7 @@
      id="tspan1622"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10545,6 +10736,7 @@
      style="font-size:9.96000004px;line-height:1.25">und Kodierungstheorie</tspan></text>
 
 
+
 </g></g><g
    id="g1660"
    transform="translate(14.501194,1898.8725)"><g
@@ -10558,6 +10750,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/1/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -10583,6 +10776,7 @@
      id="tspan1728"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -10716,6 +10910,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1808"
    transform="translate(14.501194,1898.8725)"><g
@@ -10727,6 +10922,7 @@
      id="tspan1818"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10742,6 +10938,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1832"
    transform="translate(14.501194,1898.8725)"><g
@@ -10753,6 +10950,7 @@
      id="tspan1842"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -10770,6 +10968,7 @@
      style="font-size:9.96000004px;line-height:1.25">270</tspan></text>
 
 
+
 </g></g><g
    id="g1864"
    transform="translate(14.501194,1898.8725)"><g
@@ -10785,6 +10984,7 @@
      style="font-size:9.96000004px;line-height:1.25">Formale Systeme</tspan></text>
 
 
+
 </g></g><g
    id="g1900"
    transform="translate(14.501194,1898.8725)"><g
@@ -10798,6 +10998,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">4/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -10823,6 +11024,7 @@
      id="tspan1960"
      y="0"
      x="0">8</tspan></text>
+
 
 
 </g></g><path
@@ -10954,6 +11156,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-290</tspan></text>
 
 
+
 <g
    id="g2032"
    transform="translate(14.501194,1898.8725)"><g
@@ -10969,6 +11172,7 @@
      style="font-size:9.96000004px;line-height:1.25">Theoretische Informatik und Logik</tspan></text>
 
 
+
 </g></g><g
    id="g2076"
    transform="translate(14.501194,1898.8725)"><g
@@ -10982,6 +11186,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">4/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -11007,6 +11212,7 @@
      y="-2240.3928"
      x="766.5412 772.05902"
      style="font-size:9.96000004px;line-height:1.25">9</tspan></text>
+
 
 
 <path
@@ -11140,6 +11346,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2192"
    transform="translate(14.501194,1898.8725)"><g
@@ -11151,6 +11358,7 @@
      id="tspan2202"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11166,6 +11374,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2216"
    transform="translate(14.501194,1898.8725)"><g
@@ -11177,6 +11386,7 @@
      id="tspan2226"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11194,6 +11404,7 @@
      style="font-size:9.96000004px;line-height:1.25">310</tspan></text>
 
 
+
 </g></g><g
    id="g2248"
    transform="translate(14.501194,1898.8725)"><g
@@ -11209,6 +11420,7 @@
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie</tspan></text>
 
 
+
 </g></g><g
    id="g2276"
    transform="translate(14.501194,1898.8725)"><g
@@ -11222,6 +11434,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -11247,6 +11460,7 @@
      id="tspan2344"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -11380,6 +11594,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2424"
    transform="translate(14.501194,1898.8725)"><g
@@ -11391,6 +11606,7 @@
      id="tspan2434"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11406,6 +11622,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2448"
    transform="translate(14.501194,1898.8725)"><g
@@ -11417,6 +11634,7 @@
      id="tspan2458"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11434,6 +11652,7 @@
      style="font-size:9.96000004px;line-height:1.25">320</tspan></text>
 
 
+
 </g></g><g
    id="g2480"
    transform="translate(14.501194,1898.8725)"><g
@@ -11449,6 +11668,7 @@
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie</tspan></text>
 
 
+
 </g></g><g
    id="g2492"
    transform="translate(14.501194,1898.8725)"><g
@@ -11460,6 +11680,7 @@
      id="tspan2502"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11477,6 +11698,7 @@
      style="font-size:9.96000004px;line-height:1.25">Projekt</tspan></text>
 
 
+
 </g></g><g
    id="g2540"
    transform="translate(14.501194,1898.8725)"><g
@@ -11492,6 +11714,7 @@
      style="font-size:9.96000004px;line-height:1.25">0/0/4</tspan></text>
 
 
+
 </g></g><g
    id="g2552"
    transform="translate(14.501194,1898.8725)"><g
@@ -11503,6 +11726,7 @@
      id="tspan2562"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -11518,6 +11742,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -11543,6 +11768,7 @@
      id="tspan2624"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -11676,6 +11902,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2704"
    transform="translate(14.501194,1898.8725)"><g
@@ -11687,6 +11914,7 @@
      id="tspan2714"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11702,6 +11930,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2728"
    transform="translate(14.501194,1898.8725)"><g
@@ -11713,6 +11942,7 @@
      id="tspan2738"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -11730,6 +11960,7 @@
      style="font-size:9.96000004px;line-height:1.25">330</tspan></text>
 
 
+
 </g></g><g
    id="g2760"
    transform="translate(14.501194,1898.8725)"><g
@@ -11743,6 +11974,7 @@
      y="0"
      x="0 6.6034799 12.12132 17.161079 22.678921 28.31628 33.834122 37.190639 42.2304 45.586922 50.626678 56.14452 58.30584 61.662361 67.180199 72.219963 75.576477 81.094322 84.450844"
      style="font-size:9.96000004px;line-height:1.25">Rechnerarchitektur</tspan></text>
+
 
 
 </g></g><g
@@ -11760,6 +11992,7 @@
      style="font-size:9.96000004px;line-height:1.25">2/2/0</tspan></text>
 
 
+
 </g></g><g
    id="g2816"
    transform="translate(14.501194,1898.8725)"><g
@@ -11773,6 +12006,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -11802,6 +12036,7 @@
      style="font-size:9.96000004px;line-height:1.25">10</tspan></text>
 
 
+
 </g></g><g
    id="g2878"
    transform="translate(14.501194,1898.8725)"><g
@@ -11815,6 +12050,7 @@
      y="0"
      x="0 2.75892 8.2767601 14.99976 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(5+5)</tspan></text>
+
 
 
 </g></g><path
@@ -11946,6 +12182,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-370</tspan></text>
 
 
+
 <g
    id="g2960"
    transform="translate(14.501194,1898.8725)"><g
@@ -11959,6 +12196,7 @@
      y="0"
      x="0 7.2010798 12.24084 15.59736 21.1152 26.633039 32.150879 37.190639 42.708481 47.748241 53.266079 58.78392 61.542839 67.180199 72.698036 78.215881 81.094322 87.6978 93.215637 98.255402 103.89276 109.4106 114.92844 118.40448 123.92232 129.44016 132.79668 137.23885"
      style="font-size:9.96000004px;line-height:1.25">Datenbanken und Rechnernetze</tspan></text>
+
 
 
 </g></g><g
@@ -11976,6 +12214,7 @@
      style="font-size:9.96000004px;line-height:1.25">4/4/0</tspan></text>
 
 
+
 </g></g><g
    id="g3016"
    transform="translate(14.501194,1898.8725)"><g
@@ -11987,6 +12226,7 @@
      id="tspan3026"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -12002,6 +12242,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -12027,6 +12268,7 @@
      y="-2186.5125"
      x="763.78119 769.29901 774.93634"
      style="font-size:9.96000004px;line-height:1.25">10</tspan></text>
+
 
 
 <path
@@ -12160,6 +12402,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3144"
    transform="translate(14.501194,1898.8725)"><g
@@ -12171,6 +12414,7 @@
      id="tspan3154"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12186,6 +12430,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3168"
    transform="translate(14.501194,1898.8725)"><g
@@ -12197,6 +12442,7 @@
      id="tspan3178"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12214,6 +12460,7 @@
      style="font-size:9.96000004px;line-height:1.25">380</tspan></text>
 
 
+
 </g></g><g
    id="g3200"
    transform="translate(14.501194,1898.8725)"><g
@@ -12227,6 +12474,7 @@
      y="0"
      x="0 6.723 12.24084 15.59736 18.95388 21.1152 26.633039 32.270401 37.190639 42.110882 47.270161 52.070881 55.427399 60.94524 69.949081 75.466919 78.225838 83.863197 89.381042 94.89888"
      style="font-size:9.96000004px;line-height:1.25">Betriebssysteme und</tspan></text>
+
 
 
 </g></g><g
@@ -12244,6 +12492,7 @@
      style="font-size:9.96000004px;line-height:1.25">Sicherheit</tspan></text>
 
 
+
 </g></g><g
    id="g3264"
    transform="translate(14.501194,1898.8725)"><g
@@ -12257,6 +12506,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">4/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -12282,6 +12532,7 @@
      id="tspan3308"
      y="0"
      x="0">7</tspan></text>
+
 
 
 </g></g><path
@@ -12415,6 +12666,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3388"
    transform="translate(14.501194,1898.8725)"><g
@@ -12426,6 +12678,7 @@
      id="tspan3398"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12441,6 +12694,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3412"
    transform="translate(14.501194,1898.8725)"><g
@@ -12452,6 +12706,7 @@
      id="tspan3422"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12469,6 +12724,7 @@
      style="font-size:9.96000004px;line-height:1.25">390</tspan></text>
 
 
+
 </g></g><g
    id="g3444"
    transform="translate(14.501194,1898.8725)"><g
@@ -12482,6 +12738,7 @@
      y="0"
      x="0 5.5178399 11.03568 16.075439 21.593281 27.23064 29.51148 34.312199 39.351959 44.989319 50.50716 53.266079 60.467159 63.823681 69.341522 74.978882 80.496719 82.658043 87.6978 93.215637 98.852997 104.37084 107.12976 112.76712 118.40448 123.92232 126.68124 133.88232 138.92207 142.27859 147.79643 156.0732 161.11296 164.46948 169.98732 175.50516 178.86168 183.90144 188.94119"
      style="font-size:9.96000004px;line-height:1.25">Technische Grundlagen und Hardwareprakt</tspan></text>
+
 
 
 </g></g><g
@@ -12499,6 +12756,7 @@
      style="font-size:9.96000004px;line-height:1.25">i-</tspan></text>
 
 
+
 </g></g><g
    id="g3468"
    transform="translate(14.501194,1898.8725)"><g
@@ -12512,6 +12770,7 @@
      y="0"
      x="0 5.0397601 10.5576 19.441919"
      style="font-size:9.96000004px;line-height:1.25">kum</tspan></text>
+
 
 
 </g></g><g
@@ -12529,6 +12788,7 @@
      style="font-size:9.96000004px;line-height:1.25">3/2/0</tspan></text>
 
 
+
 </g></g><g
    id="g3524"
    transform="translate(14.501194,1898.8725)"><g
@@ -12544,6 +12804,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g3544"
    transform="translate(14.501194,1898.8725)"><g
@@ -12557,6 +12818,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">0/0/3 PL</tspan></text>
+
 
 
 </g></g><path
@@ -12586,6 +12848,7 @@
      style="font-size:9.96000004px;line-height:1.25">10</tspan></text>
 
 
+
 </g></g><g
    id="g3606"
    transform="translate(14.501194,1898.8725)"><g
@@ -12599,6 +12862,7 @@
      y="0"
      x="0 2.75892 8.3962803 14.99976 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(6+4)</tspan></text>
+
 
 
 </g></g><path
@@ -12732,6 +12996,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3696"
    transform="translate(14.501194,1898.8725)"><g
@@ -12743,6 +13008,7 @@
      id="tspan3706"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12758,6 +13024,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3720"
    transform="translate(14.501194,1898.8725)"><g
@@ -12769,6 +13036,7 @@
      id="tspan3730"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -12786,6 +13054,7 @@
      style="font-size:9.96000004px;line-height:1.25">3A0</tspan></text>
 
 
+
 </g></g><g
    id="g3752"
    transform="translate(14.501194,1898.8725)"><g
@@ -12799,6 +13068,7 @@
      y="0"
      x="0 6.1154399 11.1552 15.95592 19.312441 24.83028 33.834122 39.351959 42.708481 44.869801 50.50716 56.025002 59.381519 61.542839 67.060677 70.417198 73.77372 79.291557 82.050484 84.928917 90.446762 93.803284 99.321121 102.67764 111.56196 116.60172 119.95824 122.23908 127.27884"
      style="font-size:9.96000004px;line-height:1.25">Systemorientierte Informatik/</tspan></text>
+
 
 
 </g></g><g
@@ -12816,6 +13086,7 @@
      style="font-size:9.96000004px;line-height:1.25">Hardware Sof</tspan></text>
 
 
+
 </g></g><g
    id="g3776"
    transform="translate(14.501194,1898.8725)"><g
@@ -12831,6 +13102,7 @@
      style="font-size:9.96000004px;line-height:1.25">t-</tspan></text>
 
 
+
 </g></g><text
    transform="scale(1,-1)"
    id="text3788"
@@ -12842,6 +13114,7 @@
      y="-2121.4724"
      x="152.6212 160.89795 165.93771 169.29424 174.81207 177.571 184.17447 189.81183 195.32968 200.96704 205.88728 208.04858 213.68596 219.34323"
      style="font-size:9.96000004px;line-height:1.25">ware Codesign</tspan></text>
+
 
 
 <g
@@ -12857,6 +13130,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -12882,6 +13156,7 @@
      id="tspan3868"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -13015,6 +13290,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3948"
    transform="translate(14.501194,1898.8725)"><g
@@ -13026,6 +13302,7 @@
      id="tspan3958"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13041,6 +13318,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3972"
    transform="translate(14.501194,1898.8725)"><g
@@ -13052,6 +13330,7 @@
      id="tspan3982"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13069,6 +13348,7 @@
      style="font-size:9.96000004px;line-height:1.25">3B0</tspan></text>
 
 
+
 </g></g><g
    id="g4004"
    transform="translate(14.501194,1898.8725)"><g
@@ -13082,6 +13362,7 @@
      y="0"
      x="0 2.75892 8.2767601 11.63328 17.151119 19.431959 21.593281 23.754601 29.39196 34.909801 40.427639 43.784161 49.301998 52.060921 58.176361 63.33564 68.13636 71.612396 77.130241 86.004601"
      style="font-size:9.96000004px;line-height:1.25">Intelligente Systeme</tspan></text>
+
 
 
 </g></g><g
@@ -13099,6 +13380,7 @@
      style="font-size:9.96000004px;line-height:1.25">2/2/0</tspan></text>
 
 
+
 </g></g><g
    id="g4076"
    transform="translate(14.501194,1898.8725)"><g
@@ -13112,6 +13394,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -13137,6 +13420,7 @@
      id="tspan4120"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -13270,6 +13554,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4200"
    transform="translate(14.501194,1898.8725)"><g
@@ -13281,6 +13566,7 @@
      id="tspan4210"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13296,6 +13582,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4224"
    transform="translate(14.501194,1898.8725)"><g
@@ -13307,6 +13594,7 @@
      id="tspan4234"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13324,6 +13612,7 @@
      style="font-size:9.96000004px;line-height:1.25">410</tspan></text>
 
 
+
 </g></g><g
    id="g4256"
    transform="translate(14.501194,1898.8725)"><g
@@ -13339,6 +13628,7 @@
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Medieninformatik</tspan></text>
 
 
+
 </g></g><g
    id="g4276"
    transform="translate(14.501194,1898.8725)"><g
@@ -13352,6 +13642,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -13377,6 +13668,7 @@
      id="tspan4352"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -13510,6 +13802,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4432"
    transform="translate(14.501194,1898.8725)"><g
@@ -13521,6 +13814,7 @@
      id="tspan4442"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13536,6 +13830,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4456"
    transform="translate(14.501194,1898.8725)"><g
@@ -13547,6 +13842,7 @@
      id="tspan4466"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13564,6 +13860,7 @@
      style="font-size:9.96000004px;line-height:1.25">420</tspan></text>
 
 
+
 </g></g><g
    id="g4488"
    transform="translate(14.501194,1898.8725)"><g
@@ -13577,6 +13874,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 84.331322 89.849159 98.852997 104.37084 109.88868 113.2452 118.76304 122.23908 127.75692 131.11343 136.1532 141.67104 147.18887 149.3502"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Computergraphik</tspan></text>
+
 
 
 </g></g><g
@@ -13594,6 +13892,7 @@
      style="font-size:9.96000004px;line-height:1.25">2/1/1</tspan></text>
 
 
+
 </g></g><g
    id="g4528"
    transform="translate(14.501194,1898.8725)"><g
@@ -13605,6 +13904,7 @@
      id="tspan4538"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -13620,6 +13920,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -13645,6 +13946,7 @@
      id="tspan4608"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -13776,6 +14078,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-510</tspan></text>
 
 
+
 <text
    transform="scale(1,-1)"
    id="text4680"
@@ -13787,6 +14090,7 @@
      y="-2067.2332"
      x="152.62083 158.73627 164.25412 167.61063 170.96716 173.12848 178.64632 182.00284 187.52068 193.03851 198.70575 201.46468 203.62599 209.26337 212.02226 217.54012 223.05795 226.41447 229.17339 232.05183 237.56967 240.92619 246.44403 249.80055 258.68488 263.72464 267.08118 269.24249 274.30215 615.95007 621.4679 626.98578 629.75464 635.87006 641.39789 644.15674 650.27222 653.16064"
      style="font-size:9.96000004px;line-height:1.25">Vertiefung in der Informatik 8* PL(K)</tspan></text>
+
 
 
 <path
@@ -13812,6 +14116,7 @@
      y="-2067.3528"
      x="763.78119 769.29901 774.93634"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 <path
@@ -13945,6 +14250,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4764"
    transform="translate(14.501194,1898.8725)"><g
@@ -13956,6 +14262,7 @@
      id="tspan4774"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13971,6 +14278,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4788"
    transform="translate(14.501194,1898.8725)"><g
@@ -13982,6 +14290,7 @@
      id="tspan4798"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -13999,6 +14308,7 @@
      style="font-size:9.96000004px;line-height:1.25">520</tspan></text>
 
 
+
 </g></g><g
    id="g4820"
    transform="translate(14.501194,1898.8725)"><g
@@ -14012,6 +14322,7 @@
      y="0"
      x="0 6.1154399 11.63328 17.151119 21.593281 23.754601 28.794359 31.075199 33.356041 38.276279 40.437599 45.955441 49.311958 54.949322 60.467159 65.985001 68.863441 71.024757 76.542603 79.421043 84.938881 90.456718 93.81324 96.572159 99.331078 104.84892 108.20544 113.72328 117.19932 126.08364 131.1234 134.47992 136.64124"
      style="font-size:9.96000004px;line-height:1.25">Spezialisierung in der Informatik</tspan></text>
+
 
 
 </g></g><g
@@ -14029,6 +14340,7 @@
      style="font-size:9.96000004px;line-height:1.25">8*</tspan></text>
 
 
+
 </g></g><g
    id="g4900"
    transform="translate(14.501194,1898.8725)"><g
@@ -14044,6 +14356,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g4912"
    transform="translate(14.501194,1898.8725)"><g
@@ -14057,6 +14370,7 @@
      y="0"
      x="0 2.75892 8.8743601"
      style="font-size:9.96000004px;line-height:1.25">(K)</tspan></text>
+
 
 
 </g></g><path
@@ -14084,6 +14398,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 </g></g><path
@@ -14217,6 +14532,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g5028"
    transform="translate(14.501194,1898.8725)"><g
@@ -14228,6 +14544,7 @@
      id="tspan5038"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -14243,6 +14560,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g5052"
    transform="translate(14.501194,1898.8725)"><g
@@ -14254,6 +14572,7 @@
      id="tspan5062"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -14271,6 +14590,7 @@
      style="font-size:9.96000004px;line-height:1.25">610</tspan></text>
 
 
+
 </g></g><g
    id="g5084"
    transform="translate(14.501194,1898.8725)"><g
@@ -14284,6 +14604,7 @@
      y="0"
      x="0 7.2010798 12.71892 18.236759 21.593281 24.9498 29.989559 35.02932 40.547161 42.708481 44.869801 49.909561 55.427399 61.064758"
      style="font-size:9.96000004px;line-height:1.25">Überfachliche</tspan></text>
+
 
 
 </g></g><g
@@ -14301,6 +14622,7 @@
      style="font-size:9.96000004px;line-height:1.25">Qualifikationen</tspan></text>
 
 
+
 </g></g><g
    id="g5116"
    transform="translate(14.501194,1898.8725)"><g
@@ -14314,6 +14636,7 @@
      y="0"
      x="0 4.4421601 9.96 13.31652 16.075439 18.95388 24.47172 27.828239 33.346081 36.702599 45.576962 50.616718 53.97324 56.13456"
      style="font-size:9.96000004px;line-height:1.25">zur Informatik</tspan></text>
+
 
 
 </g></g><g
@@ -14331,6 +14654,7 @@
      style="font-size:9.96000004px;line-height:1.25">4**</tspan></text>
 
 
+
 </g></g><g
    id="g5196"
    transform="translate(14.501194,1898.8725)"><g
@@ -14346,6 +14670,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g5208"
    transform="translate(14.501194,1898.8725)"><g
@@ -14359,6 +14684,7 @@
      y="0"
      x="0 2.75892 8.8743601"
      style="font-size:9.96000004px;line-height:1.25">(K)</tspan></text>
+
 
 
 </g></g><path
@@ -14384,6 +14710,7 @@
      id="tspan5244"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -14517,6 +14844,7 @@
      style="font-size:9.96000004px;line-height:1.25">Bachelor</tspan></text>
 
 
+
 </g></g><g
    id="g5380"
    transform="translate(14.501194,1898.8725)"><g
@@ -14528,6 +14856,7 @@
      id="tspan5390"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -14545,6 +14874,7 @@
      style="font-size:9.96000004px;line-height:1.25">Arbeit</tspan></text>
 
 
+
 </g></g><text
    transform="scale(1,-1)"
    id="text5412"
@@ -14556,6 +14886,7 @@
      y="-2014.1925"
      x="670.06116 676.17664 681.69446 683.85577 686.1366 691.65448 697.1723 702.80963 704.97095 710.48877 719.50262"
      style="font-size:9.96000004px;line-height:1.25">Kolloquium</tspan></text>
+
 
 
 <path
@@ -14585,6 +14916,7 @@
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path5442"
@@ -14604,6 +14936,7 @@
      y="-2014.5524"
      x="766.5412 772.05902"
      style="font-size:9.96000004px;line-height:1.25">1</tspan></text>
+
 
 
 <path
@@ -14883,6 +15216,7 @@
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path5666"
@@ -14902,6 +15236,7 @@
      y="-1998.4723"
      x="448.18121 453.81857 459.3364 462.09531 467.61316"
      style="font-size:9.96000004px;line-height:1.25">31 LP</tspan></text>
+
 
 
 <path
@@ -14925,6 +15260,7 @@
      style="font-size:9.96000004px;line-height:1.25">31 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path5698"
@@ -14944,6 +15280,7 @@
      y="-1998.4723"
      x="561.58118 567.099 572.61688 575.37579 580.89362"
      style="font-size:9.96000004px;line-height:1.25">28 LP</tspan></text>
+
 
 
 <path
@@ -14967,6 +15304,7 @@
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path5730"
@@ -14986,6 +15324,7 @@
      y="-1998.4723"
      x="692.74121 698.37854 703.89636 706.65527 712.1731"
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
+
 
 
 <path
@@ -15011,6 +15350,7 @@
      y="-1998.4723"
      x="761.02118 766.53906 772.05688 777.70416"
      style="font-size:9.96000004px;line-height:1.25">180</tspan></text>
+
 
 
 <path
@@ -15214,8 +15554,8 @@
    id="path5854"
    style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    d="m 793.90119,1993.4325 0.48,0 0,0.48 -0.48,0 0,-0.48 z" /></g><g
-       id="g26737"
-       transform="matrix(1.0231743,0,0,1.0231743,-7.7274099,-30.56862)"><path
+   id="g26737"
+   transform="matrix(1.0231743,0,0,1.0231743,-7.7274099,-30.56862)"><path
    inkscape:connector-curvature="0"
    id="path26-0"
    style="fill:#d4d4d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -15234,6 +15574,7 @@
      style="font-size:9.96000004px;line-height:1.25">Modul</tspan></text>
 
 
+
 </g></g><g
    id="g40-2"
    transform="translate(20.02806,1474.8322)"><g
@@ -15245,6 +15586,7 @@
      id="tspan50-7"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -15260,6 +15602,7 @@
      y="0"
      x="0 7.9182 11.7528"
      style="font-size:9.96000004px;line-height:1.25">Nr.</tspan></text>
+
 
 
 </g></g><path
@@ -15281,6 +15624,7 @@
      style="font-size:9.96000004px;line-height:1.25">Modulname</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path94-4"
@@ -15300,6 +15644,7 @@
      style="font-size:9.96000004px;line-height:1.25">1. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path116-0"
@@ -15315,6 +15660,7 @@
      y="-1922.6719"
      x="370.78802 376.9035 379.66241 386.86346 389.62238"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15336,6 +15682,7 @@
      style="font-size:9.96000004px;line-height:1.25">2. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path144-9"
@@ -15351,6 +15698,7 @@
      y="-1922.6719"
      x="438.34802 444.4635 447.22241 454.42346 457.18243"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15372,6 +15720,7 @@
      style="font-size:9.96000004px;line-height:1.25">3. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path172-1"
@@ -15387,6 +15736,7 @@
      y="-1922.6719"
      x="495.10803 501.22345 503.98242 511.18347 513.94244"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15408,6 +15758,7 @@
      style="font-size:9.96000004px;line-height:1.25">4. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path200-1"
@@ -15423,6 +15774,7 @@
      y="-1922.6719"
      x="551.74805 557.86346 560.62238 567.82349 570.5824"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15444,6 +15796,7 @@
      style="font-size:9.96000004px;line-height:1.25">5. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path228-6"
@@ -15459,6 +15812,7 @@
      y="-1922.6719"
      x="608.50806 614.62347 617.38239 624.5835 627.34241"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15480,6 +15834,7 @@
      style="font-size:9.96000004px;line-height:1.25">6. Sem.</tspan></text>
 
 
+
 </g></g><path
    inkscape:connector-curvature="0"
    id="path256-5"
@@ -15495,6 +15850,7 @@
      y="-1922.6719"
      x="665.14801 671.26343 674.0224 681.22345 683.98242"
      style="font-size:9.96000004px;line-height:1.25">V/Ü/P</tspan></text>
+
 
 
 <path
@@ -15522,6 +15878,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">LP</tspan></text>
+
 
 
 </g></g><path
@@ -15663,6 +16020,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g362"
    transform="translate(20.02806,1474.8322)"><g
@@ -15674,6 +16032,7 @@
      id="tspan372"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -15689,6 +16048,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g386"
    transform="translate(20.02806,1474.8322)"><g
@@ -15700,6 +16060,7 @@
      id="tspan396"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -15717,6 +16078,7 @@
      style="font-size:9.96000004px;line-height:1.25">110</tspan></text>
 
 
+
 </g></g><g
    id="g418"
    transform="translate(20.02806,1474.8322)"><g
@@ -15730,6 +16092,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 87.09024 92.129997 95.486519 101.00436 106.5222 115.39656 120.55584 123.91236 126.07368 131.11343 133.87236 137.22888 142.86624 146.22276 148.98167 151.7406 157.25844 160.61496 166.1328 169.48932 178.37364 183.41341 186.76991 188.93124 193.97099 199.48885"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Mathematik für Informatiker</tspan></text>
+
 
 
 </g></g><g
@@ -15747,6 +16110,7 @@
      style="font-size:9.96000004px;line-height:1.25">6/4/0</tspan></text>
 
 
+
 </g></g><g
    id="g450"
    transform="translate(20.02806,1474.8322)"><g
@@ -15758,6 +16122,7 @@
      id="tspan460-0"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -15773,6 +16138,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -15800,6 +16166,7 @@
      y="0"
      x="0 5.6373601"
      style="font-size:9.96000004px;line-height:1.25">15</tspan></text>
+
 
 
 </g></g><path
@@ -15933,6 +16300,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g618"
    transform="translate(20.02806,1474.8322)"><g
@@ -15944,6 +16312,7 @@
      id="tspan628-3"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -15959,6 +16328,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g642"
    transform="translate(20.02806,1474.8322)"><g
@@ -15970,6 +16340,7 @@
      id="tspan652"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -15987,6 +16358,7 @@
      style="font-size:9.96000004px;line-height:1.25">120</tspan></text>
 
 
+
 </g></g><g
    id="g674"
    transform="translate(20.02806,1474.8322)"><g
@@ -16000,6 +16372,7 @@
      y="0"
      x="0 9.3624001 14.40216 17.75868 23.27652 28.794359 37.66872 42.708481 46.064999 48.34584 53.146561 58.186321 63.823681 69.341522 72.219963 81.582359 87.100197 90.456718 95.974564 101.61192 107.12976 112.6476 118.28496 121.1634 124.51992 130.15729 133.51379"
      style="font-size:9.96000004px;line-height:1.25">Mathematische Methoden für</tspan></text>
+
 
 
 </g></g><g
@@ -16017,6 +16390,7 @@
      style="font-size:9.96000004px;line-height:1.25">Informatiker</tspan></text>
 
 
+
 </g></g><g
    id="g714"
    transform="translate(20.02806,1474.8322)"><g
@@ -16032,6 +16406,7 @@
      style="font-size:9.96000004px;line-height:1.25">3/2/0 PL</tspan></text>
 
 
+
 </g></g><g
    id="g734"
    transform="translate(20.02806,1474.8322)"><g
@@ -16045,6 +16420,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">3/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -16074,6 +16450,7 @@
      style="font-size:9.96000004px;line-height:1.25">15</tspan></text>
 
 
+
 </g></g><g
    id="g804"
    transform="translate(20.02806,1474.8322)"><g
@@ -16087,6 +16464,7 @@
      y="0"
      x="0 2.75892 8.2767601 14.88024 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(9+6)</tspan></text>
+
 
 
 </g></g><path
@@ -16220,6 +16598,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g894"
    transform="translate(20.02806,1474.8322)"><g
@@ -16231,6 +16610,7 @@
      id="tspan904-5"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16246,6 +16626,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g918"
    transform="translate(20.02806,1474.8322)"><g
@@ -16257,6 +16638,7 @@
      id="tspan928-1"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16274,6 +16656,7 @@
      style="font-size:9.96000004px;line-height:1.25">210</tspan></text>
 
 
+
 </g></g><g
    id="g950"
    transform="translate(20.02806,1474.8322)"><g
@@ -16289,6 +16672,7 @@
      style="font-size:9.96000004px;line-height:1.25">Algorithmen und Datenstrukturen</tspan></text>
 
 
+
 </g></g><g
    id="g970"
    transform="translate(20.02806,1474.8322)"><g
@@ -16302,6 +16686,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -16327,6 +16712,7 @@
      id="tspan1046"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -16460,6 +16846,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1126"
    transform="translate(20.02806,1474.8322)"><g
@@ -16471,6 +16858,7 @@
      id="tspan1136"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16486,6 +16874,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1150"
    transform="translate(20.02806,1474.8322)"><g
@@ -16497,6 +16886,7 @@
      id="tspan1160"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16514,6 +16904,7 @@
      style="font-size:9.96000004px;line-height:1.25">230</tspan></text>
 
 
+
 </g></g><g
    id="g1182"
    transform="translate(20.02806,1474.8322)"><g
@@ -16527,6 +16918,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.33588 53.256119 58.77396 62.130482 67.170242 72.209999 75.566521 77.727837 82.767601 88.285439"
      style="font-size:9.96000004px;line-height:1.25">Einführungspraktikum</tspan></text>
+
 
 
 </g></g><g
@@ -16544,6 +16936,7 @@
      style="font-size:9.96000004px;line-height:1.25">RoboLab</tspan></text>
 
 
+
 </g></g><g
    id="g1222-2"
    transform="translate(20.02806,1474.8322)"><g
@@ -16557,6 +16950,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">0/0/4 PL</tspan></text>
+
 
 
 </g></g><path
@@ -16582,6 +16976,7 @@
      id="tspan1298"
      y="0"
      x="0">4</tspan></text>
+
 
 
 </g></g><path
@@ -16715,6 +17110,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1378"
    transform="translate(20.02806,1474.8322)"><g
@@ -16726,6 +17122,7 @@
      id="tspan1388"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16741,6 +17138,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1402"
    transform="translate(20.02806,1474.8322)"><g
@@ -16752,6 +17150,7 @@
      id="tspan1412-2"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16769,6 +17168,7 @@
      style="font-size:9.96000004px;line-height:1.25">240</tspan></text>
 
 
+
 </g></g><g
    id="g1434"
    transform="translate(20.02806,1474.8322)"><g
@@ -16784,6 +17184,7 @@
      style="font-size:9.96000004px;line-height:1.25">Programmierung</tspan></text>
 
 
+
 </g></g><g
    id="g1462"
    transform="translate(20.02806,1474.8322)"><g
@@ -16797,6 +17198,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -16822,6 +17224,7 @@
      id="tspan1530"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -16955,6 +17358,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g1610"
    transform="translate(20.02806,1474.8322)"><g
@@ -16966,6 +17370,7 @@
      id="tspan1620"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -16981,6 +17386,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g1634-3"
    transform="translate(20.02806,1474.8322)"><g
@@ -16992,6 +17398,7 @@
      id="tspan1644"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17009,6 +17416,7 @@
      style="font-size:9.96000004px;line-height:1.25">260</tspan></text>
 
 
+
 </g></g><g
    id="g1666"
    transform="translate(20.02806,1474.8322)"><g
@@ -17024,6 +17432,7 @@
      style="font-size:9.96000004px;line-height:1.25">Informations</tspan></text>
 
 
+
 </g></g><g
    id="g1678"
    transform="translate(20.02806,1474.8322)"><g
@@ -17035,6 +17444,7 @@
      id="tspan1688"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17050,6 +17460,7 @@
      y="0"
      x="0 5.6373601 11.1552 16.67304 19.431959 25.5474 31.184759 36.702599 38.98344 44.501282 47.8578 53.375641 59.013 64.65036 69.45108 72.807602 78.325439 83.962799 89.480637 92.837158 94.998482"
      style="font-size:9.96000004px;line-height:1.25">und Kodierungstheorie</tspan></text>
+
 
 
 </g></g><g
@@ -17087,6 +17498,7 @@
      id="tspan1806-1"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -17218,6 +17630,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-270</tspan></text>
 
 
+
 <g
    id="g1878"
    transform="translate(20.02806,1474.8322)"><g
@@ -17233,6 +17646,7 @@
      style="font-size:9.96000004px;line-height:1.25">Formale Systeme</tspan></text>
 
 
+
 </g></g><g
    id="g1914"
    transform="translate(20.02806,1474.8322)"><g
@@ -17246,6 +17660,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">4/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -17271,6 +17686,7 @@
      y="-1828.4722"
      x="739.42804 744.94586"
      style="font-size:9.96000004px;line-height:1.25">8</tspan></text>
+
 
 
 <path
@@ -17404,6 +17820,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2038"
    transform="translate(20.02806,1474.8322)"><g
@@ -17415,6 +17832,7 @@
      id="tspan2048"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17430,6 +17848,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2062"
    transform="translate(20.02806,1474.8322)"><g
@@ -17441,6 +17860,7 @@
      id="tspan2072"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17458,6 +17878,7 @@
      style="font-size:9.96000004px;line-height:1.25">310</tspan></text>
 
 
+
 </g></g><g
    id="g2094"
    transform="translate(20.02806,1474.8322)"><g
@@ -17473,6 +17894,7 @@
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie</tspan></text>
 
 
+
 </g></g><g
    id="g2122"
    transform="translate(20.02806,1474.8322)"><g
@@ -17486,6 +17908,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -17511,6 +17934,7 @@
      id="tspan2190-7"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -17644,6 +18068,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2270"
    transform="translate(20.02806,1474.8322)"><g
@@ -17655,6 +18080,7 @@
      id="tspan2280"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17670,6 +18096,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2294"
    transform="translate(20.02806,1474.8322)"><g
@@ -17681,6 +18108,7 @@
      id="tspan2304"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17698,6 +18126,7 @@
      style="font-size:9.96000004px;line-height:1.25">320</tspan></text>
 
 
+
 </g></g><g
    id="g2326"
    transform="translate(20.02806,1474.8322)"><g
@@ -17713,6 +18142,7 @@
      style="font-size:9.96000004px;line-height:1.25">Softwaretechnologie</tspan></text>
 
 
+
 </g></g><g
    id="g2338"
    transform="translate(20.02806,1474.8322)"><g
@@ -17724,6 +18154,7 @@
      id="tspan2348"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17741,6 +18172,7 @@
      style="font-size:9.96000004px;line-height:1.25">Projekt</tspan></text>
 
 
+
 </g></g><g
    id="g2386"
    transform="translate(20.02806,1474.8322)"><g
@@ -17756,6 +18188,7 @@
      style="font-size:9.96000004px;line-height:1.25">0/0/4</tspan></text>
 
 
+
 </g></g><g
    id="g2398"
    transform="translate(20.02806,1474.8322)"><g
@@ -17767,6 +18200,7 @@
      id="tspan2408"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -17782,6 +18216,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -17807,6 +18242,7 @@
      id="tspan2470-1"
      y="0"
      x="0">6</tspan></text>
+
 
 
 </g></g><path
@@ -17940,6 +18376,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2550"
    transform="translate(20.02806,1474.8322)"><g
@@ -17951,6 +18388,7 @@
      id="tspan2560"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17966,6 +18404,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g2574"
    transform="translate(20.02806,1474.8322)"><g
@@ -17977,6 +18416,7 @@
      id="tspan2584"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -17994,6 +18434,7 @@
      style="font-size:9.96000004px;line-height:1.25">330</tspan></text>
 
 
+
 </g></g><g
    id="g2606"
    transform="translate(20.02806,1474.8322)"><g
@@ -18007,6 +18448,7 @@
      y="0"
      x="0 6.6034799 12.12132 17.161079 22.678921 28.31628 33.834122 37.190639 42.2304 45.586922 50.626678 56.14452 58.30584 61.662361 67.180199 72.219963 75.576477 81.094322 84.450844"
      style="font-size:9.96000004px;line-height:1.25">Rechnerarchitektur</tspan></text>
+
 
 
 </g></g><g
@@ -18024,6 +18466,7 @@
      style="font-size:9.96000004px;line-height:1.25">2/2/0</tspan></text>
 
 
+
 </g></g><g
    id="g2662"
    transform="translate(20.02806,1474.8322)"><g
@@ -18037,6 +18480,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -18066,6 +18510,7 @@
      style="font-size:9.96000004px;line-height:1.25">10</tspan></text>
 
 
+
 </g></g><g
    id="g2724"
    transform="translate(20.02806,1474.8322)"><g
@@ -18079,6 +18524,7 @@
      y="0"
      x="0 2.75892 8.2767601 14.99976 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(5+5)</tspan></text>
+
 
 
 </g></g><path
@@ -18210,6 +18656,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF-B-370</tspan></text>
 
 
+
 <g
    id="g2806"
    transform="translate(20.02806,1474.8322)"><g
@@ -18223,6 +18670,7 @@
      y="0"
      x="0 7.2010798 12.24084 15.59736 21.1152 26.633039 32.150879 37.190639 42.708481 47.748241 53.266079 58.78392 61.542839 67.180199 72.698036 78.215881 81.094322 87.6978 93.215637 98.255402 103.89276 109.4106 114.92844 118.40448 123.92232 129.44016 132.79668 137.23885"
      style="font-size:9.96000004px;line-height:1.25">Datenbanken und Rechnernetze</tspan></text>
+
 
 
 </g></g><g
@@ -18240,6 +18688,7 @@
      style="font-size:9.96000004px;line-height:1.25">4/4/0</tspan></text>
 
 
+
 </g></g><g
    id="g2862"
    transform="translate(20.02806,1474.8322)"><g
@@ -18251,6 +18700,7 @@
      id="tspan2872"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -18266,6 +18716,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -18291,6 +18742,7 @@
      y="-1774.4722"
      x="739.42804 744.94586 750.58325"
      style="font-size:9.96000004px;line-height:1.25">10</tspan></text>
+
 
 
 <path
@@ -18424,6 +18876,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g2990"
    transform="translate(20.02806,1474.8322)"><g
@@ -18435,6 +18888,7 @@
      id="tspan3000"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18450,6 +18904,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3014"
    transform="translate(20.02806,1474.8322)"><g
@@ -18461,6 +18916,7 @@
      id="tspan3024"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18478,6 +18934,7 @@
      style="font-size:9.96000004px;line-height:1.25">380</tspan></text>
 
 
+
 </g></g><g
    id="g3046"
    transform="translate(20.02806,1474.8322)"><g
@@ -18493,6 +18950,7 @@
      style="font-size:9.96000004px;line-height:1.25">Betriebssysteme und Sicherheit</tspan></text>
 
 
+
 </g></g><g
    id="g3098"
    transform="translate(20.02806,1474.8322)"><g
@@ -18506,6 +18964,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">4/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -18531,6 +18990,7 @@
      id="tspan3142-8"
      y="0"
      x="0">7</tspan></text>
+
 
 
 </g></g><path
@@ -18664,6 +19124,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3222"
    transform="translate(20.02806,1474.8322)"><g
@@ -18675,6 +19136,7 @@
      id="tspan3232"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18690,6 +19152,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3246"
    transform="translate(20.02806,1474.8322)"><g
@@ -18701,6 +19164,7 @@
      id="tspan3256"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18718,6 +19182,7 @@
      style="font-size:9.96000004px;line-height:1.25">410</tspan></text>
 
 
+
 </g></g><g
    id="g3278"
    transform="translate(20.02806,1474.8322)"><g
@@ -18731,6 +19196,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 87.09024 92.7276 98.245438 100.52628 106.04412"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Medien</tspan></text>
+
 
 
 </g></g><g
@@ -18748,6 +19214,7 @@
      style="font-size:9.96000004px;line-height:1.25">informatik</tspan></text>
 
 
+
 </g></g><g
    id="g3310"
    transform="translate(20.02806,1474.8322)"><g
@@ -18761,6 +19228,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 31.065241"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 PL</tspan></text>
+
 
 
 </g></g><path
@@ -18786,6 +19254,7 @@
      id="tspan3386-2"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -18919,6 +19388,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3466"
    transform="translate(20.02806,1474.8322)"><g
@@ -18930,6 +19400,7 @@
      id="tspan3476"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18945,6 +19416,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3490"
    transform="translate(20.02806,1474.8322)"><g
@@ -18956,6 +19428,7 @@
      id="tspan3500"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -18973,6 +19446,7 @@
      style="font-size:9.96000004px;line-height:1.25">420</tspan></text>
 
 
+
 </g></g><g
    id="g3522"
    transform="translate(20.02806,1474.8322)"><g
@@ -18986,6 +19460,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 84.331322 89.849159 98.852997 104.37084 109.88868 113.2452 118.76304 122.23908 127.75692 131.11343 136.1532 141.67104 147.18887 149.3502"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Computergraphik</tspan></text>
+
 
 
 </g></g><g
@@ -19029,6 +19504,7 @@
      id="tspan3642"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -19162,6 +19638,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3722-5"
    transform="translate(20.02806,1474.8322)"><g
@@ -19173,6 +19650,7 @@
      id="tspan3732"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19188,6 +19666,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3746"
    transform="translate(20.02806,1474.8322)"><g
@@ -19199,6 +19678,7 @@
      id="tspan3756"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19216,6 +19696,7 @@
      style="font-size:9.96000004px;line-height:1.25">440</tspan></text>
 
 
+
 </g></g><g
    id="g3778-0"
    transform="translate(20.02806,1474.8322)"><g
@@ -19229,6 +19710,7 @@
      y="0"
      x="0 7.2010798 10.5576 16.075439 21.593281 27.11112 29.27244 34.312199 39.949558 45.4674 50.985241 53.863682 59.381519 64.899361 68.255882 71.014801 78.215881 83.853241 88.773483 92.129997 97.169762 99.331078 102.6876 108.20544 113.8428"
      style="font-size:9.96000004px;line-height:1.25">Grundlagen der Gestaltung</tspan></text>
+
 
 
 </g></g><g
@@ -19260,6 +19742,7 @@
      id="tspan3874"
      y="0"
      x="0">4</tspan></text>
+
 
 
 </g></g><path
@@ -19393,6 +19876,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g3954"
    transform="translate(20.02806,1474.8322)"><g
@@ -19404,6 +19888,7 @@
      id="tspan3964"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19419,6 +19904,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g3978"
    transform="translate(20.02806,1474.8322)"><g
@@ -19430,6 +19916,7 @@
      id="tspan3988"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19447,6 +19934,7 @@
      style="font-size:9.96000004px;line-height:1.25">450</tspan></text>
 
 
+
 </g></g><g
    id="g4010"
    transform="translate(20.02806,1474.8322)"><g
@@ -19460,6 +19948,7 @@
      y="0"
      x="0 6.1154399 8.2767601 13.7946 17.151119 22.788481 28.30632 31.66284 37.180679 42.698521 48.216358 51.094799 53.256119 58.77396 61.532879 67.170242 69.331558 74.849403 77.727837 87.09024 92.7276 98.245438 100.52628 106.04412 111.56196 117.19932 122.83668 127.6374 130.99393 136.03368 138.19501 141.55151 147.06937 152.70673"
      style="font-size:9.96000004px;line-height:1.25">Einführung in die Mediengestaltung</tspan></text>
+
 
 
 </g></g><g
@@ -19503,6 +19992,7 @@
      id="tspan4130"
      y="0"
      x="0">4</tspan></text>
+
 
 
 </g></g><path
@@ -19636,6 +20126,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4210"
    transform="translate(20.02806,1474.8322)"><g
@@ -19647,6 +20138,7 @@
      id="tspan4220"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19662,6 +20154,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4234"
    transform="translate(20.02806,1474.8322)"><g
@@ -19673,6 +20166,7 @@
      id="tspan4244"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19690,6 +20184,7 @@
      style="font-size:9.96000004px;line-height:1.25">460</tspan></text>
 
 
+
 </g></g><g
    id="g4266"
    transform="translate(20.02806,1474.8322)"><g
@@ -19703,6 +20198,7 @@
      y="0"
      x="0 9.3624001 14.88024 20.517599 22.678921 28.31628 33.834122 36.59304 42.110882 47.748241 53.266079 56.14452 65.50692 71.024757 76.662117 78.823441 84.341278 89.978638 94.89888 98.255402 101.61192 107.12976 116.01408"
      style="font-size:9.96000004px;line-height:1.25">Medien und Medienströme</tspan></text>
+
 
 
 </g></g><g
@@ -19734,6 +20230,7 @@
      id="tspan4362"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -19867,6 +20364,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4442"
    transform="translate(20.02806,1474.8322)"><g
@@ -19878,6 +20376,7 @@
      id="tspan4452"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19893,6 +20392,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4466"
    transform="translate(20.02806,1474.8322)"><g
@@ -19904,6 +20404,7 @@
      id="tspan4476"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19921,6 +20422,7 @@
      style="font-size:9.96000004px;line-height:1.25">470</tspan></text>
 
 
+
 </g></g><g
    id="g4498"
    transform="translate(20.02806,1474.8322)"><g
@@ -19936,6 +20438,7 @@
      style="font-size:9.96000004px;line-height:1.25">Medienpsychologie und</tspan></text>
 
 
+
 </g></g><g
    id="g4510"
    transform="translate(20.02806,1474.8322)"><g
@@ -19947,6 +20450,7 @@
      id="tspan4520"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -19964,6 +20468,7 @@
      style="font-size:9.96000004px;line-height:1.25">didaktik</tspan></text>
 
 
+
 </g></g><g
    id="g4566"
    transform="translate(20.02806,1474.8322)"><g
@@ -19979,6 +20484,7 @@
      style="font-size:9.96000004px;line-height:1.25">1/0/2</tspan></text>
 
 
+
 </g></g><g
    id="g4578"
    transform="translate(20.02806,1474.8322)"><g
@@ -19990,6 +20496,7 @@
      id="tspan4588"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -20005,6 +20512,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -20030,6 +20538,7 @@
      id="tspan4642"
      y="0"
      x="0">3</tspan></text>
+
 
 
 </g></g><path
@@ -20163,6 +20672,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4722"
    transform="translate(20.02806,1474.8322)"><g
@@ -20174,6 +20684,7 @@
      id="tspan4732"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20189,6 +20700,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g4746"
    transform="translate(20.02806,1474.8322)"><g
@@ -20200,6 +20712,7 @@
      id="tspan4756"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20217,6 +20730,7 @@
      style="font-size:9.96000004px;line-height:1.25">480</tspan></text>
 
 
+
 </g></g><g
    id="g4778-1"
    transform="translate(20.02806,1474.8322)"><g
@@ -20232,6 +20746,7 @@
      style="font-size:9.96000004px;line-height:1.25">Web</tspan></text>
 
 
+
 </g></g><g
    id="g4790-0"
    transform="translate(20.02806,1474.8322)"><g
@@ -20243,6 +20758,7 @@
      id="tspan4800"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20260,6 +20776,7 @@
      style="font-size:9.96000004px;line-height:1.25">und Multimedia Engineering</tspan></text>
 
 
+
 </g></g><g
    id="g4862"
    transform="translate(20.02806,1474.8322)"><g
@@ -20273,6 +20790,7 @@
      y="0"
      x="0 5.5178399 8.2767601 13.7946 16.55352 22.19088 24.9498 28.794359 31.55328 37.66872"
      style="font-size:9.96000004px;line-height:1.25">2/2/0 ! PL</tspan></text>
+
 
 
 </g></g><path
@@ -20298,6 +20816,7 @@
      id="tspan4906"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -20431,6 +20950,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g4986"
    transform="translate(20.02806,1474.8322)"><g
@@ -20442,6 +20962,7 @@
      id="tspan4996"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20457,6 +20978,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g5010"
    transform="translate(20.02806,1474.8322)"><g
@@ -20468,6 +20990,7 @@
      id="tspan5020"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20485,6 +21008,7 @@
      style="font-size:9.96000004px;line-height:1.25">490</tspan></text>
 
 
+
 </g></g><g
    id="g5042-7"
    transform="translate(20.02806,1474.8322)"><g
@@ -20500,6 +21024,7 @@
      style="font-size:9.96000004px;line-height:1.25">Medieninformatik</tspan></text>
 
 
+
 </g></g><g
    id="g5054-3"
    transform="translate(20.02806,1474.8322)"><g
@@ -20511,6 +21036,7 @@
      id="tspan5064"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20528,6 +21054,7 @@
      style="font-size:9.96000004px;line-height:1.25">Projekt</tspan></text>
 
 
+
 </g></g><g
    id="g5110"
    transform="translate(20.02806,1474.8322)"><g
@@ -20543,6 +21070,7 @@
      style="font-size:9.96000004px;line-height:1.25">0/0/</tspan></text>
 
 
+
 </g></g><g
    id="g5122"
    transform="translate(20.02806,1474.8322)"><g
@@ -20554,6 +21082,7 @@
      id="tspan5132"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -20571,6 +21100,7 @@
      style="font-size:9.96000004px;line-height:1.25">0/0/</tspan></text>
 
 
+
 </g></g><g
    id="g5154"
    transform="translate(20.02806,1474.8322)"><g
@@ -20586,6 +21116,7 @@
      style="font-size:9.96000004px;line-height:1.25">4</tspan></text>
 
 
+
 </g></g><g
    id="g5166"
    transform="translate(20.02806,1474.8322)"><g
@@ -20597,6 +21128,7 @@
      id="tspan5176"
      y="0"
      x="0">2</tspan></text>
+
 
 
 </g></g><g
@@ -20612,6 +21144,7 @@
      y="0"
      x="0 6.1154399"
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
+
 
 
 </g></g><path
@@ -20639,6 +21172,7 @@
      x="0">9</tspan></text>
 
 
+
 </g></g><g
    id="g5232"
    transform="translate(20.02806,1474.8322)"><g
@@ -20652,6 +21186,7 @@
      y="0"
      x="0 2.75892 8.2767601 14.88024 20.517599"
      style="font-size:9.96000004px;line-height:1.25">(3+6)</tspan></text>
+
 
 
 </g></g><path
@@ -20785,6 +21320,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g5322"
    transform="translate(20.02806,1474.8322)"><g
@@ -20796,6 +21332,7 @@
      id="tspan5332"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20811,6 +21348,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g5346"
    transform="translate(20.02806,1474.8322)"><g
@@ -20822,6 +21360,7 @@
      id="tspan5356"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -20839,6 +21378,7 @@
      style="font-size:9.96000004px;line-height:1.25">530</tspan></text>
 
 
+
 </g></g><g
    id="g5378"
    transform="translate(20.02806,1474.8322)"><g
@@ -20852,6 +21392,7 @@
      y="0"
      x="0 6.1154399 11.63328 14.9898 18.346319 20.507641 26.02548 29.382 34.899841 40.417679"
      style="font-size:9.96000004px;line-height:1.25">Vertiefung</tspan></text>
+
 
 
 </g></g><g
@@ -20869,6 +21410,7 @@
      style="font-size:9.96000004px;line-height:1.25">in der Medieninformatik</tspan></text>
 
 
+
 </g></g><g
    id="g5450"
    transform="translate(20.02806,1474.8322)"><g
@@ -20882,6 +21424,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">8*</tspan></text>
+
 
 
 </g></g><g
@@ -20899,6 +21442,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g5482"
    transform="translate(20.02806,1474.8322)"><g
@@ -20912,6 +21456,7 @@
      y="0"
      x="0 2.75892 8.8743601"
      style="font-size:9.96000004px;line-height:1.25">(K)</tspan></text>
+
 
 
 </g></g><path
@@ -20939,6 +21484,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 </g></g><path
@@ -21072,6 +21618,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g5606"
    transform="translate(20.02806,1474.8322)"><g
@@ -21083,6 +21630,7 @@
      id="tspan5616"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -21098,6 +21646,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g5630"
    transform="translate(20.02806,1474.8322)"><g
@@ -21109,6 +21658,7 @@
      id="tspan5640"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -21126,6 +21676,7 @@
      style="font-size:9.96000004px;line-height:1.25">540</tspan></text>
 
 
+
 </g></g><g
    id="g5662"
    transform="translate(20.02806,1474.8322)"><g
@@ -21139,6 +21690,7 @@
      y="0"
      x="0 6.1154399 11.63328 17.151119 21.593281 23.754601 28.794359 31.075199 33.356041 38.276279 40.437599 45.955441 49.311958 54.949322 60.467159 65.985001 68.863441 71.024757 76.542603 79.421043 84.938881 90.456718 93.81324 96.572159 106.05408 111.57192 117.20928 119.49012 125.00796 130.5258 132.80664 138.32448 141.681 147.19884 150.55536 159.43968 164.47945 167.83595 169.99728"
      style="font-size:9.96000004px;line-height:1.25">Spezialisierung in der Medieninformatik</tspan></text>
+
 
 
 </g></g><g
@@ -21156,6 +21708,7 @@
      style="font-size:9.96000004px;line-height:1.25">8*</tspan></text>
 
 
+
 </g></g><g
    id="g5742"
    transform="translate(20.02806,1474.8322)"><g
@@ -21171,6 +21724,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g5754"
    transform="translate(20.02806,1474.8322)"><g
@@ -21184,6 +21738,7 @@
      y="0"
      x="0 2.75892 8.8743601"
      style="font-size:9.96000004px;line-height:1.25">(K)</tspan></text>
+
 
 
 </g></g><path
@@ -21211,6 +21766,7 @@
      y="0"
      x="0 5.5178399"
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
+
 
 
 </g></g><path
@@ -21344,6 +21900,7 @@
      style="font-size:9.96000004px;line-height:1.25">INF</tspan></text>
 
 
+
 </g></g><g
    id="g5870"
    transform="translate(20.02806,1474.8322)"><g
@@ -21355,6 +21912,7 @@
      id="tspan5880"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -21370,6 +21928,7 @@
      x="0">B</tspan></text>
 
 
+
 </g></g><g
    id="g5894"
    transform="translate(20.02806,1474.8322)"><g
@@ -21381,6 +21940,7 @@
      id="tspan5904"
      y="0"
      x="0">-</tspan></text>
+
 
 
 </g></g><g
@@ -21398,6 +21958,7 @@
      style="font-size:9.96000004px;line-height:1.25">610</tspan></text>
 
 
+
 </g></g><g
    id="g5926"
    transform="translate(20.02806,1474.8322)"><g
@@ -21411,6 +21972,7 @@
      y="0"
      x="0 7.2010798 12.71892 18.236759 21.593281 24.9498 29.989559 35.02932 40.547161 42.708481 44.869801 49.909561 55.427399"
      style="font-size:9.96000004px;line-height:1.25">Überfachliche</tspan></text>
+
 
 
 </g></g><g
@@ -21428,6 +21990,7 @@
      style="font-size:9.96000004px;line-height:1.25">Qualifikationen</tspan></text>
 
 
+
 </g></g><g
    id="g5966"
    transform="translate(20.02806,1474.8322)"><g
@@ -21441,6 +22004,7 @@
      y="0"
      x="0 4.4421601 9.96 13.31652 16.075439 18.95388 24.47172 27.828239 33.346081 36.702599 45.576962 50.616718 53.97324 56.13456"
      style="font-size:9.96000004px;line-height:1.25">zur Informatik</tspan></text>
+
 
 
 </g></g><g
@@ -21458,6 +22022,7 @@
      style="font-size:9.96000004px;line-height:1.25">4**</tspan></text>
 
 
+
 </g></g><g
    id="g6038"
    transform="translate(20.02806,1474.8322)"><g
@@ -21473,6 +22038,7 @@
      style="font-size:9.96000004px;line-height:1.25">PL</tspan></text>
 
 
+
 </g></g><g
    id="g6050"
    transform="translate(20.02806,1474.8322)"><g
@@ -21486,6 +22052,7 @@
      y="0"
      x="0 2.75892 8.8743601"
      style="font-size:9.96000004px;line-height:1.25">(K)</tspan></text>
+
 
 
 </g></g><path
@@ -21511,6 +22078,7 @@
      id="tspan6086"
      y="0"
      x="0">5</tspan></text>
+
 
 
 </g></g><path
@@ -21647,6 +22215,7 @@
      style="font-size:9.96000004px;line-height:1.25">Arbeit</tspan></text>
 
 
+
 <g
    id="g6160"
    transform="translate(20.02806,1474.8322)"><g
@@ -21660,6 +22229,7 @@
      y="0"
      x="0 6.1154399 11.63328 13.7946 16.075439 21.593281 27.11112 32.748482 34.909801 40.427639"
      style="font-size:9.96000004px;line-height:1.25">Kolloquium</tspan></text>
+
 
 
 </g></g><path
@@ -21687,6 +22257,7 @@
      style="font-size:9.96000004px;line-height:1.25">12</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path6190"
@@ -21706,6 +22277,7 @@
      y="-1587.1523"
      x="739.42804 744.94586"
      style="font-size:9.96000004px;line-height:1.25">1</tspan></text>
+
 
 
 <path
@@ -21985,6 +22557,7 @@
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path6414"
@@ -21993,17 +22566,7 @@
    inkscape:connector-curvature="0"
    id="path6416"
    style="fill:#c1c1c1;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   d="m 438.34806,1557.8722 49.68,0 0,12.119 -49.68,0 0,-12.119 z" /><text
-   transform="scale(1,-1)"
-   id="text6418"
-   style="font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Univers 45 Light';-inkscape-font-specification:Univers-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   x="438.34802"
-   y="-1560.3921"><tspan
-     id="tspan6420"
-     sodipodi:role="line"
-     y="-1560.3921"
-     x="438.34802 443.98541 449.50323 452.26215 457.77997"
-     style="font-size:9.96000004px;line-height:1.25">31 LP</tspan></text>
+   d="m 438.34806,1557.8722 49.68,0 0,12.119 -49.68,0 0,-12.119 z" />
 
 
 <path
@@ -22027,6 +22590,7 @@
      style="font-size:9.96000004px;line-height:1.25">29 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path6446"
@@ -22035,17 +22599,7 @@
    inkscape:connector-curvature="0"
    id="path6448"
    style="fill:#c1c1c1;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   d="m 551.74806,1557.8722 49.68,0 0,12.119 -49.68,0 0,-12.119 z" /><text
-   transform="scale(1,-1)"
-   id="text6450"
-   style="font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Univers 45 Light';-inkscape-font-specification:Univers-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   x="551.74805"
-   y="-1560.3921"><tspan
-     id="tspan6452"
-     sodipodi:role="line"
-     y="-1560.3921"
-     x="551.74805 557.38538 562.90326 565.66217 571.17999"
-     style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
+   d="m 551.74806,1557.8722 49.68,0 0,12.119 -49.68,0 0,-12.119 z" />
 
 
 <path
@@ -22069,6 +22623,7 @@
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
 
 
+
 <path
    inkscape:connector-curvature="0"
    id="path6478"
@@ -22088,6 +22643,7 @@
      y="-1560.3921"
      x="665.14801 670.7854 676.30322 679.06213 684.58002"
      style="font-size:9.96000004px;line-height:1.25">30 LP</tspan></text>
+
 
 
 <path
@@ -22113,6 +22669,7 @@
      y="-1560.3921"
      x="739.42804 744.94586 750.46368 756.11102"
      style="font-size:9.96000004px;line-height:1.25">180</tspan></text>
+
 
 
 <path
@@ -22316,65 +22873,94 @@
    id="path6602"
    style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
    d="m 785.26806,1555.3522 0.48,0 0,0.48 -0.48,0 0,-0.48 z" /></g><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
-       x="556.51471"
-       y="-1854.4154"
-       id="text5889"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan5887"
-         x="556.51471"
-         y="-1854.4154"
-         style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/1/0 PL</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="556.51471"
+   y="-1854.4154"
+   id="text5889"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5887"
+     x="556.51471"
+     y="-1854.4154"
+     style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/1/0 PL</tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
-       x="556.53143"
-       y="-1742.5404"
-       id="text5893"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan5891"
-         x="556.53143"
-         y="-1742.5404"
-         style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/1/1 2PL</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="556.53143"
+   y="-1742.5404"
+   id="text5893"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5891"
+     x="556.53143"
+     y="-1742.5404"
+     style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/1/1 2PL</tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
-       x="440.66425"
-       y="-1728.8604"
-       id="text5897"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan5895"
-         x="440.66425"
-         y="-1728.8604"
-         style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/0/1 PL</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="440.66425"
+   y="-1728.8604"
+   id="text5897"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5895"
+     x="440.66425"
+     y="-1728.8604"
+     style="font-size:10.13333321px;stroke-width:0.80000001;-inkscape-font-specification:'Univers 45 Light, ';font-family:'Univers 45 Light';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2/0/1 PL</tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
-       x="498.62662"
-       y="-1715.3793"
-       id="text5901"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan5899"
-         x="498.62662"
-         y="-1715.3793"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, ';stroke-width:0.80000001">2/1/0 2PL</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="498.62662"
+   y="-1715.3793"
+   id="text5901"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5899"
+     x="498.62662"
+     y="-1715.3793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, ';stroke-width:0.80000001">2/1/0 2PL</tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
-       x="440.7128"
-       y="-1701.77"
-       id="text5905"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan5903"
-         x="440.7128"
-         y="-1701.77"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, ';stroke-width:0.80000001">2/2/0 ! PL</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="440.7128"
+   y="-1701.77"
+   id="text5905"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5903"
+     x="440.7128"
+     y="-1701.77"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, ';stroke-width:0.80000001">2/2/0 ! PL</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="440.95398"
+   y="-1566.0365"
+   id="text5879"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5877"
+     x="440.95398"
+     y="-1566.0365"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, Bold';stroke-width:0.80000001">30 LP</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:Univers-Light-Normal;-inkscape-font-specification:Univers-Light-Normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001"
+   x="556.96106"
+   y="-1565.9661"
+   id="text5883"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan5881"
+     x="556.96106"
+     y="-1565.9661"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.13333321px;font-family:'Univers 45 Light';-inkscape-font-specification:'Univers 45 Light, Bold';stroke-width:0.80000001">31 LP</tspan></text>
 </g><g
      inkscape:groupmode="layer"
      id="layer1"
@@ -22392,6 +22978,7 @@
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:177.33332825px;line-height:1;font-family:'Open Sans';fill:#01794c;fill-opacity:1">BA INF</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.46000001;fill:#01794c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -22403,6 +22990,7 @@
      x="63.716721"
      y="818.73212"
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:177.33332825px;line-height:1;font-family:'Open Sans';fill:#01794c;fill-opacity:1">BA MINF</tspan></text>
+
 
 
 <text
@@ -22421,6 +23009,7 @@
      y="599.93274"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:93.33333588px;line-height:1;font-family:'Open Sans';text-align:center;text-anchor:middle;fill:#01794c;fill-opacity:1"
      id="tspan10036">(Grundstudium)</tspan></text>
+
 
 
 </g></svg>
