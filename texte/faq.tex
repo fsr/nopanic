@@ -1,3 +1,11 @@
+\newcommand{\fancypageref}[1] {%
+    \changemenucolor{gray}{br}{named}{fancypageref_color}%
+    \changemenucolor{gray}{txt}{named}{fancypageref_color}%
+    \keys{Seite \pageref{#1}}%
+    \changemenucolor{gray}{br}{named}{ese_bg_color}%
+    \changemenucolor{gray}{txt}{named}{ese_bg_color}%
+}
+
 \chapter*{Frequently Asked Questions}
 \addcontentsline{toc}{chapter}{Frequently Asked Questions \hspace*{.1cm} \keys{must read}}
 \label{sec:faq}
@@ -17,7 +25,7 @@ In Kurzform: Regelstudienzeit + 4 Semester. Es gibt aber einige Möglichkeiten, 
 Für den Anfang bekommst du fertige Stundenpläne von uns, aus denen du dann einfach einen Stundenplan am Tag der Einschreibung auswählen kannst. Ab dem zweiten Semester bieten die Studienablaufpläne eine Empfehlung, welche Module man in welchem Semester besuchen sollte. Du suchst dir die Lehrveranstaltungen aus dem Katalog aus, die du besuchen möchtest. Dann suchst du dir Termine heraus und versuchst, Kollisionen zu vermeiden.
 
 \minisec{Was muss ich tun, um BAföG zu bekommen?}
-Das Studierendenwerk $\rightarrow$~s.~Seite~\pageref{sec:stuwe} hat eine Anleitung und bietet auch entsprechende Beratung an. Zusätzlich bietet auch der StuRa entsprechende Beratung an. $\rightarrow$~s.~Seite~\pageref{sec:stura}
+Das Studierendenwerk~\fancypageref{sec:stuwe} hat eine Anleitung und bietet auch entsprechende Beratung an. Zusätzlich bietet auch der StuRa entsprechende Beratung an.~\fancypageref{sec:stura}
 
 \minisec{Wie und wann melde ich mich für Unisport an?}
 Auf der Seite des Universitätssportzentrums gibt es eine Liste mit allen Angeboten und Terminen, an denen die Einschreibung beginnt. Dann kannst du auf der Seite das Formular schnell ausfüllen und bist eingeschrieben.
@@ -27,7 +35,7 @@ In guter Tradition gibt es für jeden Zweck mindestens 5 verschiedene Portale. D
 \begin{itemize}
 \item jExam für die Einschreibung in Lehrveranstaltungen und Prüfungen.
 \item Selma für das Herunterladen der Immatrikulationsbescheinigung.
-\item OPAL beispielsweise zum Abgeben der Praxisaufgaben in Einführung in die Medieninformatik $\rightarrow$~.s.~Seite.~\pageref{lec:emi}~und Einführung in die Computergraphik$\rightarrow$~.s.~Seite.~\pageref{lec:ecg}.
+\item OPAL beispielsweise zum Abgeben der Praxisaufgaben in Einführung in die Medieninformatik~\fancypageref{lec:emi} und Einführung in die Computergraphik~\fancypageref{lec:ecg}.
 \end{itemize}
 
 \minisec{Wie finde ich Freund\_Innen?}
@@ -56,10 +64,10 @@ Der FSR bietet Programmierkurse für fast alle Sprachen an, die du im Studium be
 
 \minisec{Was ist eine Rekursion?}
 \label{minisec:faq}
-$\rightarrow$~s.~Seite~\pageref{minisec:faq}
+\fancypageref{minisec:faq}
 
 \minisec{Was ist AQua?}
-Diese Abkürzung steht für Allgemeine Qualifikation. Es ist ein Bestandteil deines Studiums. $\rightarrow$~s.~Seite~\pageref{lec:aqua}
+Diese Abkürzung steht für Allgemeine Qualifikation. Es ist ein Bestandteil deines Studiums.~\fancypageref{lec:aqua}
 
 \minisec{Was für Bücher brauche ich?}
 Eigentlich keine, aber falls du mal etwas genauer nachlesen möchtest oder etwa nicht ganz verstanden hast, gibt es zu allen Themen genug Bücher und eBooks in der SLUB.
