@@ -14,10 +14,12 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte ein [Issue](https:
   * [awesomebox](https://ctan.org/pkg/awesomebox) (unter macOS in der Standard-TeX Installation enthalten. Alternativ kann man einfach die Datei `awesomebox.sty` im Projekt-Ordner hinterlegen.)
 2. Benötigte Schriftarten besorgen. Unter Linux können diese z. B. nach `~/.fonts/` kopiert werden:
   * [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) (auch im Paket `texlive-fonts-extra` enthalten)
-3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen, z.B.:
-  `lualatex nopanic.tex` oder `xelatex nopanic.tex` (Hint: LuaLaTeX ist wesentlich schneller!)
+3. Mit LuaLaTeX / XeLaTeX das PDF erzeugen:
+  `$ latexmk`  
+  Alternativ kann man auch TeX manuell aufrufen, z.B. über:
+  `lualatex manual.tex` oder `xelatex manual.tex` (Hint: LuaLaTeX ist wesentlich schneller!)
 4. Wenn man eine komprimierte Variante erstellen möchte:  
-  `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=nopanic_compressed.pdf nopanic.pdf`
+  `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=manual_compressed.pdf manual.pdf`
 
 
 ## Alte Versionen
