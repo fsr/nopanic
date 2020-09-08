@@ -14,24 +14,19 @@
 % wkhtmltopdf -s A4 --no-print-media-type --margin-left 0 --margin-right 0 --margin-bottom 0 --margin-top 0 ESE\ 2016\ _\ iFSR.html zeitplan.pdf
 % 4. ????
 % 5. Färdsch
-
-
-%\thispagestyle{empty}
-
-%\thispagestyle{empty} %keine Seitenzahl
-%\AddToShipoutPicture*{\put(0,0){%
-%\parbox[b][\paperheight]{\paperwidth}{%
-%\begin{center}
 %  \vspace*{-6.5em}
-    \includepdf[angle=90]{timetable/zeitplan.pdf}%
+\thispagestyle{empty}
+  \begin{landscape}
 
-%  \small
-%  \vfill
-%  \enlargethispage{3em}
+\includegraphics[scale=0.8]{timetable/zeitplan.pdf}%
+  \enlargethispage{3em}
 %
 %  Sofern nicht anders angegeben, finden alle Veranstaltungen im Fakultätsgebäude der Informatik, dem
 %  \textbf{Andreas Pfitzmann Bau (APB)}, im Raum \textbf{E023} (Hörsaal direkt am Foyer) statt.
 %  Folge im Gebäude einfach den vielen Tutoren in den schönen, roten ESE-2018-Shirts.
 %
-%  Den aktuellen Zeitplan findest du auch jederzeit unter \textbf{ese.ifsr.de}~\link{https://ese.ifsr.de/}.
-%\end{center}
+\begin{center}
+  Den aktuellen Zeitplan findest du auch jederzeit unter
+  \textbf{https://ese.ifsr.de/}~\link{https://ese.ifsr.de/}
+\end{center}
+  \end{landscape}
