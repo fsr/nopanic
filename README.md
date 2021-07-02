@@ -43,3 +43,4 @@ Für Fehler, Verbesserungsvorschläge, Fragen und Todos bitte ein [Issue](https:
 - [2017](https://github.com/fsr/nopanic/releases/tag/v2017)
 - [2018](https://github.com/fsr/nopanic/releases/tag/v2018)
 - [2019](https://github.com/fsr/nopanic/releases/tag/v2019)
+- [2020](https://github.com/fsr/nopanic/releases/tag/v2020)
