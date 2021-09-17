@@ -1,0 +1,37 @@
+\newcommand{\ascii}{{\texttt{ascii}}}
+\newcommand{\bafog}{BAföG}
+
+\newcounter{linkcounter}
+\newcommand\linklist{}
+\makeatletter
+\def\@breaklinklistat{22}
+\def\@breaklinklistandat{54}
+\newcommand{\link}[1]{%
+    \edef\tmptoken{\detokenize{#1}}%
+    \@ifundefined{nopanic@link@\tmptoken}{%
+        \edef\@linknumber{\arabic{linkcounter}}%
+        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\@linknumber}}}%
+        \expandafter\global\expandafter\edef\csname nopanic@link@\tmptoken\endcsname{\arabic{linkcounter}}%
+        %
+        % Standard print output:
+        \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}}%
+        \ifx\@breaklinklistat\@linknumber
+            \g@addto@macro\linklist{\\}%
+        \else
+            \ifx\@breaklinklistandat\@linknumber
+                \g@addto@macro\linklist{\\}%
+            \else
+                \g@addto@macro\linklist{\\*}%
+            \fi
+        \fi
+        %
+        % Link system output:
+        \immediate\write\linklistfile{RewriteRule "^\@linknumber$" "#1"}%
+        %
+        \stepcounter{linkcounter}%
+    }{%
+        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\csname nopanic@link@\tmptoken\endcsname}}}%
+    }%
+    \href{#1}{\@tmpkey}%
+}
+\makeatother
