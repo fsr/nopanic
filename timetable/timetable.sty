@@ -222,7 +222,7 @@
     }
     \addcase\dothis{1}{}
     \addcase\dothis{7}{}
-    \addcase\dothis{2}{\addtolength{\@startposx}{\@colwdth}\addtolength{\@offset}{\@colwdth}}
+    \addcase\dothis{2}{\addtolength{\@startposx}{\@colwdth}}
     \addcase\dothis{3}{
       \addtolength{\@startposx}{\@colwidth-10pt}
       % \addtolength{\@offset}{60pt}
@@ -333,6 +333,12 @@
     \ifthenelse{#9 = 7}{
       \addtolength{\@newcolleft}{10pt}
     }{}
+    \ifthenelse{#9 = 1 \OR #9 = 2}{
+      \addtolength{\@newcolwidth}{-\@colwidth*\real{0.5}}
+      \ifthenelse{#9 = 2}{
+        \addtolength{\@newcolleft}{+\@colwidth*\real{0.5}}
+      } {}
+    } {}
     \ifthenelse{#9 = 3}{
       \addtolength{\@newcolwidth}{-\@colwidth*\real{0.5}}
       \addtolength{\@newcolwidth}{11pt}
@@ -398,7 +404,7 @@
     \put(\strip@pt\@newcolleft,\strip@pt\@newrowtop)
         {\begin{minipage}[t]{1.0\@newcolwidth}%
           \hspace*{\@offset}
-	  \@ttfont\raggedright\color{@timetable#8text}{\@bottomstyle #6%
+         \@ttfont\raggedright\color{@timetable#8text}{\@bottomstyle #6%
             \vphantom{A}}
             \ifthenelse{\value{@printtimestamps} = 1}%
               {{\@timestyle \@fmtTime{@endHour}{@endMinute}}}%
