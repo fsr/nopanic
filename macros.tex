@@ -28,7 +28,7 @@
         \fi
         %
         % Link system output:
-        \immediate\write\linklistfile{RewriteRule "^\@linknumber$" "#1" [NE]}%
+        \immediate\write\linklistfile{RewriteRule "^\@linknumber$" "#1" [NE,R,L]}%
         %
         \stepcounter{linkcounter}%
     }{%
