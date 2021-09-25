@@ -2,12 +2,15 @@
 \usepackage[default]{opensans}
 \usepackage[margin=0.55cm,landscape]{geometry}
 % \usepackage[height=25cm]{geometry}
+\usepackage{xcolor}
 \usepackage{timetable}
 \usepackage{transparent}
 \usepackage{amssymb}
 \usepackage{enumitem}
 \usepackage{pifont}
 \newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
+\input{../colors.tex}
 
 \begin{document}
 \thispagestyle{empty}
@@ -33,6 +36,9 @@
 \defineevent{other}{0.0}{0.47}{0.3}{1.0}{1.0}{1.0}% dunkelgrün
 \defineevent{extern}{0.77}{0.56}{0.05}{1.0}{1.0}{1.0}
 \defineevent{stream}{0.09}{0.45}{0.56}{1.0}{1.0}{1.0}% petrol
+\leteventcolors{ese}%
+  {ese_bg_color}
+  {ese_fg_color}
 
 % Start the timetable
 \begin{center}

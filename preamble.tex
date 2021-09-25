@@ -2,6 +2,7 @@
 
 \usepackage[english, ngerman]{babel}
 
+\usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{eso-pic}
@@ -30,19 +31,7 @@
 \PassOptionsToPackage{hyphens}{url}
 \usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
 
-
-% \definecolor{ese_bg_color}{rgb}{0.0, 0.20, 0.376} % the definitive color -- #003360 (2015?)
-% \definecolor{ese_bg_color}{rgb}{0.0, 0.263, 0.486} % the definitive color -- #00437C (2016?)
-% \definecolor{ese_bg_color}{rgb}{0.051, 0.373, 0.596} % the definitive color -- #0D5F98 (2017)
-% \definecolor{ese_bg_color}{rgb}{0.796, 0.376, 0.251} % the definitive color -- #CB6040 (2018)
-% \definecolor{ese_bg_color}{rgb}{0.0, 0.47, 0.3} % wip-ish color -- #01794C (2019)
-% \definecolor{ese_bg_color}{RGB}{5,109,133} % final_really_final -- #056d85 (2020)
-\definecolor{ese_bg_color}{RGB}{155,30,70} % complement -- #9B1E46 (2021)
-\definecolor{ese_fg_color}{rgb}{1, 1, 1}
-
-\definecolor{fancypageref_color}{RGB}{155,30,70} % 
-
-\definecolor{ifsrgray}{rgb}{0.6, 0.6, 0.6} % 153, 153, 153
+\input{colors.tex}
 
 % is toggled twice for moduluebersicht.tex
 \changemenucolor{gray}{bg}{named}{ese_fg_color} %background of the menukeys

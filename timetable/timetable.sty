@@ -22,7 +22,7 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{timetable}
-\RequirePackage{ifthen, calc, color}
+\RequirePackage{ifthen, calc, xcolor}
 
 % swtich case helper
 \newcommand\addcase[3]{\expandafter\def\csname\string#1@case@#2\endcsname{#3}}
@@ -35,11 +35,11 @@
 
 
 % Preset the colors
-\definecolor{ttframecol1}{rgb}{0.95,0.95,0.95}
-\definecolor{ttframecol2}{rgb}{0.9,0.9,0.9}
-\definecolor{ttfontcolor}{rgb}{0.25,0.25,0.25}
-\definecolor{ttlinecol1}{rgb}{0.0,0.0,0.0}
-\definecolor{ttlinecol2}{rgb}{0.5,0.0,0.0}
+\definecolor{ttframecol1}{rgb/cmyk}{0.95,0.95,0.95/0,0,0,0.05}
+\definecolor{ttframecol2}{rgb/cmyk}{0.9,0.9,0.9/0,0,0,0.1}
+\definecolor{ttfontcolor}{rgb/cmyk}{0.25,0.25,0.25/0,0,0,0.75}
+\definecolor{ttlinecol1}{rgb/cmyk}{0.0,0.0,0.0/0,0,0,1}
+\definecolor{ttlinecol2}{rgb/cmyk}{0.5,0.0,0.0/0,1,1,0.5}
 
 % Simple for loop construct as proposed by N. Setzer
 \newcommand{\@ttforloop}[5][1]
@@ -558,6 +558,18 @@
   {
     \stepcounter{@daymarks}
     \legend {\value{@daymarks}} 1 {#1}
+  }
+
+\newcommand{\defineeventcolors}[5]
+  {
+    \definecolor{@timetable#1block}{#2}{#3}
+    \definecolor{@timetable#1text} {#4}{#5}
+  }
+
+\newcommand{\leteventcolors}[3]
+  {
+    \colorlet{@timetable#1block}{#2}
+    \colorlet{@timetable#1text} {#3}
   }
 
 \newcommand{\defineevent}[7]
