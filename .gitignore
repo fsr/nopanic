@@ -15,3 +15,5 @@ manual.synctex.gz
 .DS_Store
 kopimi.htaccess
 awesomebox.sty
+*.fdb_latexmk
+*.fls
