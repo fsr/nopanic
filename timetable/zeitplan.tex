@@ -29,47 +29,51 @@
 % Define event types
 %background  foreground
 
-\defineevent{pr}{0.69}{0.11}{0.20}{1.0}{1.0}{1.0}% rot
-\defineevent{other}{0.0}{0.47}{0.3}{1.0}{1.0}{1.0}% dunkelgrün
-\defineevent{extern}{0.77}{0.56}{0.05}{1.0}{1.0}{1.0}
-\defineevent{stream}{0.09}{0.45}{0.56}{1.0}{1.0}{1.0}% petrol
-
+\defineevent{ba}{0.09}{0.45}{0.56}{1.0}{1.0}{1.0}% petrol
+\defineevent{all}{0.584}{0.502}{1.0}{1.0}{1.0}{1.0}% lila
+\defineevent{ma}{0.69}{0.11}{0.20}{1.0}{1.0}{1.0}% rot
 % Start the timetable
 \begin{center}
 \begin{timetable}
   \hours{8}{15}{0}
   \germandays{1}
-  \event 1 {0900}{0930}{Anreise}{}{}{}{pr}{0}
-  \event 1 {0930}{1030}{Eröffnungsstream}{}{}{}{stream}{0}
-  \event 1 {1030}{1230}{Tutorien}{}{APB/Online}{}{pr}{0}
-  \event 1 {1230}{1400}{Mittagessen}{}{Mensa}{}{pr}{0}
-  \event 1 {1430}{1800}{Bunter Nachmittag}{}{APB/Online}{}{pr}{0}
-  \event 1 {1830}{2100}{Spieleabend\\international}{}{APB}{}{pr}{0}
+  \event 1 {1000}{1630}{Wanderung}{}{HBF}{}{all}{0}
+  \event 1 {1800}{2100}{Spieleabend}{}{APB}{}{all}{0}
+
+  \event 2 {0920}{1100}{Begrüßung}{}{}{1}{all}{0}
+  \event 2 {1130}{1300}{Tutorien}{}{APB/WIL/SCH}{1}{ba}{2}
+  \event 2 {1130}{1300}{Master\\How-to}{}{}{}{ma}{1}
+  \event 2 {1300}{1400}{gemeinsames Mensen}{}{}{}{all}{0}
+  \event 2 {1400}{1600}{Bunter Nachmittag}{}{}{}{all}{0}
+  \event 2 {1800}{1900}{Grillen mit Dewpoint}{}{Countdown}{}{all}{0}
+  \event 2 {1900}{2100}{Clubwanderung}{}{}{}{all}{0}
+
+  \event 3 {0830}{0900}{Frühstück}{}{}{}{all}{0}
+  \event 3 {0900}{1030}{Vortrag zum Studium}{}{}{}{ba}{0}
+  \event 3 {1030}{1300}{Einschreibung}{}{}{}{ba}{0}
+  \event 3 {1300}{1400}{Mittagessen}{}{}{}{all}{0}
+  \event 3 {1400}{1700}{Gemüseauflauf (Schnitzeljagd über den Campus)}{}{}{}{all}{0}
+  \event 3 {1800}{2100}{Filmabend}{}{KIK}{}{all}{0}
 
 
-  \event 2 {0900}{1200}{Einschrei-\\bung}{}{}{1}{stream}{0}
-  \event 2 {0900}{1200}{Spaßstream}{}{}{1}{stream}{2}
-  \event 2 {1230}{1400}{Vortrag zum Studium}{}{}{}{stream}{0}
-  \event 2 {1500}{1700}{Campusschnitzeljagd}{}{}{}{stream}{0}
-  \event 2 {1800}{2100}{Clubwanderung}{}{Countdown}{}{pr}{0}
+  \event 4 {0900}{1100}{online\\Welcome\\session\\CMS}{}{}{}{ma}{1}
+  \event 4 {0900}{1100}{Profvrstllng}{}{}{}{ba}{2}
+  \event 4 {1100}{1300}{Vortrag Sprachkurse & Auslandsstudium}{}{}{}{ba}{0}
+  \event 4 {1300}{1400}{Mittagessen}{}{}{}{all}{0}
+  \event 4 {1400}{1530}{Kaffetrinken mit Nerds}{}{}{0}{all}{0}
+  \event 4 {1600}{1730}{Feierliche Imma}{}{}{}{all}{0}
+  \event 4 {1730}{1900}{Party}{}{HSZ Wiese}{}{all}{0}
+  \event 4 {2000}{2100}{Bowling}{}{}{}{all}{1}
+  \event 4 {2000}{2100}{Spieleabend}{}{}{}{all}{2}
 
-  \event 3 {0900}{1700}{Wanderung}{}{siehe Website}{}{pr}{0}
-  \event 3 {1800}{2100}{Spielabend}{}{APB}{}{pr}{0}
-
-
-  \event 4 {0900}{1030}{Vortrag\\Sprachkurse}{}{}{}{stream}{0}
-  \event 4 {1030}{1300}{Vorstellung der\\Lehrenden}{}{}{}{stream}{0}
-  \event 4 {1600}{1800}{Feierliche\\Immatri-\\kulation}{}{}{0}{extern}{1}
-  \event 4 {1330}{1630}{Nerd::101}{}{}{1}{stream}{2}
-  \event 4 {1800}{2100}{Spielabend \&\\Kino}{}{APB}{}{pr}{0}
-
-  \event 5 {0900}{1300}{Seminargruppen}{}{siehe Plan}{}{stream}{0}
-  \event 5 {1300}{1400}{Vorträge zum FSR \&\\Auslandsstudium}{}{}{}{stream}{0}
-%  \event 5 {1500}{1700}{ESE Spiel}{}{APB/E023}{}{pr}{0}
-  \event 5 {1400}{1500}{Abschlussstream}{}{}{}{stream}{0}
-  \event 5 {1900}{2100}{Neustadt-\\kneipentour}{}{Albertplatz}{}{pr}{0}
+  \event 5 {0900}{1300}{Seminargruppentreffen & Vortrag studentisches Engagement}{}{}{}{ba}{0}
+  \event 5 {1300}{1400}{Mittagessen}{}{}{}{all}{0}
+  \event 5 {1400}{1700}{ESE Spiel}{}{}{}{ba}{0}
+  \event 5 {1800}{2100}{Neustadt\\ Clubtour}{}{Albertplatz}{}{all}{1}
+  \event 5 {1800}{2100}{PnP}{}{APB}{}{all}{2}
   
-  \event 6 {0900}{2100}{Stadtführung}{}{siehe Website}{}{pr}{0}
+  \event 6 {0900}{1000}{Stadtführung}{}{siehe Website}{}{all}{0}
+  \event 6 {1700}{2100}{LAN Party}{}{siehe Website}{}{all}{0}
 \end{timetable}
 \end{center}
 % \end{landscape}
