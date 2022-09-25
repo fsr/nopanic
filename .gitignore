@@ -2,6 +2,7 @@
 Spieleabend.psd
 manual.pdf
 manual_compressed.pdf
+zeitplan.pdf
 faltblatt.pdf
 PoSo/
 *.aux
@@ -10,6 +11,9 @@ PoSo/
 *.toc
 manual.fdb_latexmk
 manual.fls
+zeitplan.fdb_latexmk
+zeitplan.fls
+texput.fls
 alt
 manual.synctex.gz
 .DS_Store

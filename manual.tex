@@ -17,43 +17,17 @@
 
 \input{preamble.tex}
 
+\input{macros.tex}
+
+\hypersetup{
+    pdfauthor={FSR Informatik der TU Dresden},
+    pdftitle={The Manual - ESE \eseyear},
+    breaklinks=true, colorlinks=false, pdfborder={0 0 0},
+  pdfencoding=unicode
+}
+
 % we need this dummy counter to make a label at the spieleabendplakat
 \newcounter{dummy}
-
-\newcounter{linkcounter}
-\newcommand\linklist{}
-\makeatletter
-\def\@breaklinklistat{21}
-\def\@breaklinklistandat{56}
-\newcommand{\link}[1]{%
-    \edef\tmptoken{\detokenize{#1}}%
-    \@ifundefined{nopanic@link@\tmptoken}{%
-        \edef\@linknumber{\arabic{linkcounter}}%
-        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\@linknumber}}}%
-        \expandafter\global\expandafter\edef\csname nopanic@link@\tmptoken\endcsname{\arabic{linkcounter}}%
-        %
-        % Standard print output:
-        \expandafter\g@addto@macro\expandafter\linklist\expandafter{\@tmpkey & \url{#1}}%
-        \ifx\@breaklinklistat\@linknumber
-            \g@addto@macro\linklist{\\}%
-        \else
-            \ifx\@breaklinklistandat\@linknumber
-                \g@addto@macro\linklist{\\}%
-            \else
-                \g@addto@macro\linklist{\\*}%
-            \fi
-        \fi
-        %
-        % Link system output:
-        \immediate\write\linklistfile{RewriteRule "^\@linknumber$" "#1"}%
-        %
-        \stepcounter{linkcounter}%
-    }{%
-        \protected@edef\@tmpkey{{\fontsize{9pt}{0}\selectfont\keys{\csname nopanic@link@\tmptoken\endcsname}}}%
-    }%
-    \href{#1}{\@tmpkey}%
-}
-\makeatother
 
 \sloppy % forces "ugly" line breaks
 
@@ -70,16 +44,18 @@
 \vfill
 }}}
 \thispagestyle{empty} %keine Seitenzahl
+\pagecolor{ese_bg_color}
 \AddToShipoutPictureBG*{\CoverPic}
 \mbox{} %brauche leeren Content für ne newpage
-%\newpage
+\newpage
+\pagecolor{white}
 
 % Linklist output
 % All this stuff needs is immediate to avoid confusion between links on the same page
 \immediate\newwrite\linklistfile
 \immediate\openout\linklistfile=kopimi.htaccess\relax
 \immediate\write\linklistfile{RewriteEngine On}
-\immediate\write\linklistfile{RewriteBase /2021}
+\immediate\write\linklistfile{RewriteBase /\eseyear}
 
 % \include{texte/zeitplan}
 \include{texte/inhaltsverzeichnis}

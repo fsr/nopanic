@@ -1,6 +1,14 @@
-\newpage
+\cleardoubleevenemptypage
+%make sure we are on a page divisible by 4 for the brochure to work out
+\ifcase\numexpr \modulo{\value{page}}{4} \relax
+\or%
+\or%
+\thispagestyle{empty}\hbox{}\cleardoubleevenemptypage\or%
+\relax%
+\fi%
 \thispagestyle{empty} %keine Seitenzahl
 \color{white}
+\pagecolor{ese_bg_color}
 
 \begin{minipage}[t][\textheight][b]{.65\textwidth}
 \footnotesize
