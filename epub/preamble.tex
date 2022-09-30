@@ -1,0 +1,75 @@
+% \renewcommand*{\chapterheadstartvskip}{}
+
+\usepackage[english]{babel}
+
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{eso-pic}
+\usepackage{caption}
+\usepackage{wrapfig}
+\usepackage{menukeys}
+\usepackage{amssymb}
+\usepackage{eurosym}
+\usepackage{multicol}
+\usepackage{lscape}
+\usepackage{comment}
+\setlength{\multicolsep}{0.5em}
+\usepackage{adjustbox}
+% fancy fone awesome boxes
+\usepackage{awesomebox}
+
+% mainly for linklist
+\usepackage{longtable}
+\usepackage{enumitem} % to easily remove itemize indent for the checklist
+
+\usepackage{pdfpages}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage[autostyle=true]{csquotes}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
+\hypersetup{
+	pdfauthor={FSR Informatik der TU Dresden},
+	pdftitle={The Manual - ESE 2022},
+	breaklinks=true, colorlinks=false, pdfborder={0 0 0},
+  pdfencoding=unicode
+}
+
+
+% \definecolor{ese_bg_color}{rgb}{0.0, 0.20, 0.376} % the definitive color -- #003360 (2015?)
+% \definecolor{ese_bg_color}{rgb}{0.0, 0.263, 0.486} % the definitive color -- #00437C (2016?)
+% \definecolor{ese_bg_color}{rgb}{0.051, 0.373, 0.596} % the definitive color -- #0D5F98 (2017)
+% \definecolor{ese_bg_color}{rgb}{0.796, 0.376, 0.251} % the definitive color -- #CB6040 (2018)
+% \definecolor{ese_bg_color}{rgb}{0.0, 0.47, 0.3} % wip-ish color -- #01794C (2019)
+% \definecolor{ese_bg_color}{RGB}{5,109,133} % final_really_final -- #056d85 (2020)
+\definecolor{ese_bg_color}{RGB}{155,30,70} % complement -- #9B1E46 (2021)
+\definecolor{ese_fg_color}{rgb}{1, 1, 1}
+
+\definecolor{fancypageref_color}{RGB}{155,30,70} % 
+
+\definecolor{ifsrgray}{rgb}{0.6, 0.6, 0.6} % 153, 153, 153
+
+% is toggled twice for moduluebersicht.tex
+\changemenucolor{gray}{bg}{named}{ese_fg_color} %background of the menukeys
+\changemenucolor{gray}{br}{named}{ese_bg_color} %border of the menukeys
+\changemenucolor{gray}{txt}{named}{ese_bg_color} %text of the menukeys
+
+\setmainfont[
+  Scale=0.90,
+  BoldFeatures={Scale=1.0}
+]{Open Sans}
+
+\setmonofont[
+	Scale = 1.09
+]{Latin Modern Mono}
+
+\setkomafont{chapter}{\color{ese_bg_color}\fontspec[BoldFont={* Bold}]{Open Sans}\huge\bfseries}
+\setkomafont{minisec}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Open Sans}\large\bfseries}
+\setkomafont{paragraph}{\color{ifsrgray}\fontspec[BoldFont={* Bold}]{Open Sans}}
+\setkomafont{pagenumber}{\color{ifsrgray}\fontspec{Open Sans}}
+
+\addtokomafont{disposition}{\normalfont\fontspec{Open Sans}}
+\defaultfontfeatures{Ligatures=TeX}  % enable ligatures (e.g. --) for new fonts
+
+\newcommand{\ascii}{{\texttt{ascii}}}

@@ -1,0 +1,59 @@
+\documentclass[10pt]{scrreprt}
+
+% quick TOC setup
+\KOMAoption{toc}{chapterentrydotfill}
+% don't use parskip package, set parskip=full instead
+\KOMAoption{parskip}{half}
+
+\usepackage[twoside
+            ,papersize={148mm, 210mm}
+            ,layoutsize={148mm, 210mm}
+            ,top=1.5cm
+            ,bottom=2cm
+            ,footskip=1cm
+            ,textwidth=12cm
+            ,verbose
+            ]{geometry}
+
+\input{preamble.tex}
+
+% we need this dummy counter to make a label at the spieleabendplakat
+\newcounter{dummy}
+
+\newcounter{linkcounter}
+\newcommand\linklist{}
+\renewcommand{\minisec}[1]{\subsection*{#1}}
+\makeatletter
+\def\@breaklinklistat{22}
+\def\@breaklinklistandat{54}
+
+\makeatother
+
+\sloppy % forces "ugly" line breaks
+
+\pagestyle{plain}
+
+\def\link#1{\url{#1}}
+
+\begin{document}
+
+\tableofcontents
+
+%\textit{\foreignlanguage{english}{\enquote{Any inaccuracies in this index may be explained by the fact that it has been sorted with the help of a computer.}}}\\
+%\mbox{}\hfill --- Donald Knuth
+
+\include{texte/zeitplan}
+\include{texte/vorwort}
+\include{texte/grusswort}
+\include{texte/faq}
+\include{texte/checkliste}
+\include{texte/f1help}
+\include{texte/fakultaet}
+\include{texte/campus}
+\include{texte/veranstaltungen}
+\include{texte/studienalltag}
+\include{texte/moduluebersicht}
+\include{texte/werbung}
+\include{texte/campusplan}
+
+\end{document}
