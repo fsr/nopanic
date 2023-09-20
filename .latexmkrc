@@ -1,4 +1,9 @@
-@default_files = ('timetable/zeitplan.tex', 'manual.tex');
+@default_files = (
+	'raetsel/picross.tex',
+	'raetsel/network.tex',
+	'timetable/zeitplan.tex',
+	'manual.tex',
+);
 
 # descriptions stolen from https://collaborating.tuhh.de/alex/latex-git-cookbook/-/blob/4174942b6674588d016189c708327dccbaac5b8d/.latexmkrc
 
