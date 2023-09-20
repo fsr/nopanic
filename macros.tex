@@ -3,6 +3,14 @@
 \newcommand{\ascii}{{\texttt{ascii}}}
 \newcommand{\bafog}{BAföG}
 
+\newcommand{\fancypageref}[1] {%
+    \changemenucolor{gray}{br}{named}{ese_bg_color}%
+    \changemenucolor{gray}{txt}{named}{ese_bg_color}%
+    \keys{Seite \pageref{#1}}%
+    \changemenucolor{gray}{br}{named}{ese_bg_color}%
+    \changemenucolor{gray}{txt}{named}{ese_bg_color}%
+}
+
 \newcounter{linkcounter}
 \newcommand\linklist{}
 \makeatletter

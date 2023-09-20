@@ -1,0 +1,56 @@
+\documentclass[class=minimal,border=0pt]{standalone}
+
+\usepackage{tikz}
+\usepackage{fontspec}
+
+\setmainfont[
+  Scale=0.90,
+  BoldFeatures={Scale=1.0}
+]{Open Sans}
+
+\begin{document}
+
+\begin{tikzpicture}[
+    every node/.style={circle, fill=black, minimum size=3mm},
+    start/.style={draw=black, very thick, fill=none, minimum size=6mm, node font=\bfseries},
+    end/.style={draw=black, double, very thick, fill=none, minimum size=7mm, node font=\bfseries}
+]
+  \node [start] (S) at  (0,-2)     {?};
+
+  \node [draw]  (a) at  (0,-1)     {}  edge    [dashed]    (S);
+  \node [draw]  (b) at  (0,-0)     {}  edge    [-]         (a);
+  \node [draw]  (c) at  (1,-1)     {}  edge    [-]         (a);
+  \node [draw]  (d) at  (2,0)      {}  edge    [-]         (b)
+                                       edge    [-]         (c);
+
+  \node [draw]  (e) at  (0,-3)     {}  edge    [dashed]    (S);
+  \node [draw]  (f) at  (0,-5.5)   {}  edge    [-]         (e);
+  \node [draw]  (g) at  (4.5,-5.5) {}  edge    [-]         (f);
+  \node [draw]  (h) at  (4.5,-2)   {}  edge    [-]         (g);
+  \node [draw]  (i) at  (4.5,-1)   {}  edge    [-]         (h);
+
+  \node [draw]  (j) at  (1,-3)     {}  edge    [dashed]    (S)
+                                       edge    [-]         (e);
+  \node [draw]  (k) at  (1,-5)     {}  edge    [-]         (j);
+  \node [draw]  (l) at  (2,-4)     {}  edge    [-]         (k);
+  \node [draw]  (m) at  (3,-5)     {}  edge    [-]         (k);
+  \node [draw]  (n) at  (3,-4)     {}  edge    [-]         (l)
+                                       edge    [-]         (m);
+  \node [draw]  (o) at  (3,-3)     {}  edge    [-]         (n);
+  \node [draw]  (p) at  (4,-3)     {}  edge    [-]         (n);
+  \node [draw]  (q) at  (3,-2)     {}  edge    [-]         (o)
+                                       edge    [-]         (p);
+  \node [draw]  (v) at  (4,-5)     {}  edge    [-]         (p);
+  \node [draw]  (r) at  (1,-2)     {}  edge    [-]         (e)
+                                       edge    [-]         (n);
+  \node [draw]  (t) at  (2,-1)     {}  edge    [-]         (r);
+  \node [draw]  (u) at  (2,-2)     {}  edge    [-]         (t)
+                                       edge    [-]         (q);
+  
+  \node [end]   (end) at (3,-1)    {}  edge    [-]         (d)
+                                       edge    [-]         (i)
+                                       edge    [-]         (q);
+  \node [draw]  (w) at  (4,0)      {}  edge    [-]         (end);
+\end{tikzpicture}
+
+\end{document}

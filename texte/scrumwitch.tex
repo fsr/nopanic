@@ -1,0 +1,63 @@
+
+\newcommand\scrumwitch{
+	\thispagestyle{empty}
+	\hbox{}
+	\vfill
+	\begin{center}
+	\begin{minipage}{.7\textwidth}
+	\centering
+	In the beginning God created the heaven and the earth.
+	And the earth was without form, and void;
+	 and it was a static void, and it was private.
+	And God said: \enquote{It is not good that the void should be private;
+	 I will make it protected,
+	 so it can be enjoyed by everyone, and no harm shall befall it.}
+
+	[...]
+
+	And God said: \enquote{Let the earth sprout a great many paradigms and programming patterns,
+	 and binary trees bearing random number generators in which is their seed,
+	 each according to its kind.}
+	And it was so.
+	And God saw that it was good.
+	And there was evening and there was morning; the third sprint.
+	\end{minipage}
+	\end{center}
+
+	\hfill\textit{--- the SCRUM--Witch, citing her scripture}
+	\vfill
+}
+
+\newcommand\unintentional{
+	\hbox{}
+	\vspace{5mm}
+	\begin{center}
+	\tiny
+	--- This page is unintentionally left blank ---
+	\vfill
+	:P
+	\end{center}
+}
+
+% Fill with empty pages here so we don't have empty pages immediately before the cover
+% Assuming there are n*4 pages of content left before the back cover,
+% our target is {page num mod 4 = 0} – if it is anything else,
+% fill the empty space with nonsense and a cheeky quote
+\ifcase\numexpr \modulo{\value{page}}{4} \relax
+% don't add any extra pages
+\or
+
+\unintentional
+\newpage
+\scrumwitch
+\newpage
+\thispagestyle{empty}
+\unintentional
+\or
+\thispagestyle{empty}
+\unintentional
+\newpage
+\scrumwitch
+\or
+\scrumwitch
+\fi

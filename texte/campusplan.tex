@@ -1,3 +1,20 @@
+%\cleardoubleevenemptypage
+
+% ensure we are on a double page
+\ifcase\numexpr \modulo{\value{page}}{2} \relax
+% don't add any extra pages
+\or
+\hbox{}
+\vspace{5mm}
+\begin{center}
+\tiny
+--- This page is unintentionally left blank ---
+\vfill
+:P
+\end{center}
+\newpage
+\fi
+
 \addchap[Campusplan]{}
 \thispagestyle{empty} %keine Seitenzahl
 \AddToShipoutPicture*{\put(0,0){%
